@@ -285,11 +285,79 @@ El modelo AFC no es una técnica: es una brújula. Una forma de volver a ti mism
 
 #### 1.5 Importancia de la psicología financiera en el mundo moderno
 
-> **ESTADO: BORRADOR INCOMPLETO — esta es la próxima sección a terminar.**
-
 La psicología financiera ha demostrado ser una herramienta invaluable en la comprensión de cómo las personas toman decisiones económicas en un mundo cada vez más complejo. Sin embargo, es crucial entender que estas decisiones no ocurren en un vacío cultural. En el caso de América Latina, y particularmente en México, el contexto social, histórico y cultural influye profundamente en la manera en que las personas manejan su dinero, toman decisiones financieras y reaccionan ante la incertidumbre económica.
 
-Uno de los elementos fundamentales de la psicología del mexicano, según el trabajo de Rogelio Díaz-Guerrero, es el fuerte valor que se le otorga a la familia. Esta orientación colectiva afecta la manera en que los mexicanos y otros latinos abordan sus finanzas. Mientras que en sociedades más individualistas, como las de Estados Unidos o Europa, las decisiones financieras tienden a centrarse en la maximización de los recursos individuales, en México las personas suelen priorizar la seguridad y el bienesta... *(el párrafo original queda cortado aquí a mitad de palabra; hay que continuarlo)*
+Uno de los elementos fundamentales de la psicología del mexicano, según el trabajo de Rogelio Díaz-Guerrero, es el fuerte valor que se le otorga a la familia. Esta orientación colectiva afecta la manera en que los mexicanos y otros latinos abordan sus finanzas. Mientras que en sociedades más individualistas, como las de Estados Unidos o Europa, las decisiones financieras tienden a centrarse en la maximización de los recursos individuales, en México las personas suelen priorizar la seguridad y el bienestar del grupo del que se sienten parte, aun cuando eso implique posponer su propio proyecto. Díaz-Guerrero llamó premisas histórico-socioculturales a esas creencias compartidas que una sociedad transmite de generación en generación y que casi nunca se someten a discusión, porque se experimentan como evidentes. Y ahí está lo interesante para nosotros: una premisa cultural funciona, en los hechos, como la opción predeterminada más poderosa que existe. Ya vimos en el apartado anterior cómo un diseño digital puede inclinar una decisión sin obligar a nadie; la cultura hace exactamente lo mismo, solo que lleva siglos haciéndolo, no se actualiza con una notificación y nadie firmó términos y condiciones para aceptarla.
+
+Esto no significa que quien decide desde el vínculo decida peor. Significa que decide otra cosa. Cuando alguien presta dinero que no le sobra a un hermano que no se lo va a devolver, está pagando dos precios distintos al mismo tiempo: uno financiero, medible en pesos, y otro emocional, que consiste en seguir perteneciendo, en no ser "el que le dio la espalda a su familia". El error de la educación financiera tradicional ha sido cobrar solo el primer precio y llamar irresponsable al que lo paga. La mirada clínica hace otra cosa: primero observa qué función cumple esa conducta, y solo después conversa sobre qué modificar. Nadie abandona un comportamiento que lo sostiene emocionalmente solo porque le muestren una tabla de Excel.
+
+**La memoria económica que heredamos**
+
+Hay algo más que se transmite en las familias latinoamericanas junto con las recetas y los apellidos: la memoria de las crisis. México vivió la devaluación y la nacionalización bancaria de 1982, la crisis de 1994 y 1995 que la conversación pública bautizó como "el error de diciembre", la crisis global de 2008 y el cierre económico de 2020. Argentina cargó con hiperinflaciones y con el corralito de 2001. Varios países de la región conocieron de cerca lo que significa que el dinero pierda valor mientras uno duerme.
+
+Lo psicológicamente relevante no es solo que esas crisis ocurrieron, sino que se heredan sin haberse vivido. Hay personas de treinta años que desconfían de los bancos con la misma intensidad que su abuela, aunque jamás hayan perdido un peso en uno. Aprendieron la desconfianza en la mesa, escuchando frases dichas al pasar: "el dinero se guarda en la casa", "el que invierte pierde", "los bancos te roban", "cuando hay, hay que gastarlo, porque mañana quién sabe". Ninguna de esas frases se enseñó como lección; se absorbió como clima. Y una creencia absorbida en la infancia no se desmonta con un argumento en la adultez, porque no se instaló mediante un argumento.
+
+Desde la implicación financiera, el costo de esa herencia es concreto y silencioso: dinero guardado durante años en efectivo perdiendo poder adquisitivo frente a la inflación, ahorro que nunca entra al sistema formal, patrimonio que no crece porque el riesgo se percibe como amenaza y no como variable administrable. La desconfianza protegió a una generación y limita a la siguiente. Ese es el punto delicado: lo que alguna vez fue una adaptación inteligente al entorno puede convertirse, treinta años después, en un obstáculo que ya nadie recuerda haber elegido.
+
+**Más decisiones, menos atención para tomarlas**
+
+Herbert Simon, a quien conocimos en el recorrido histórico por su idea de racionalidad limitada, formuló en 1971 una advertencia que hoy se lee casi como una profecía: una abundancia de información produce una escasez de atención (Simon, 1971). Escribió eso décadas antes del teléfono inteligente. Hoy su frase describe la condición financiera cotidiana de cualquier persona.
+
+Piénsalo en términos de volumen. Hace cuarenta años, una familia mexicana promedio tomaba unas cuantas decisiones financieras al mes: cobrar la quincena, pagar la renta, hacer el súper, quizá apartar algo. Hoy, esa misma familia decide decenas de veces al día, muchas veces sin registrar que está decidiendo: aceptar o no los meses sin intereses que aparecen en la pantalla al pagar, renovar o cancelar tres o cuatro suscripciones que se cobran solas, aprobar la propina sugerida en la terminal, comprar en una tienda en línea con la tarjeta ya guardada, responder a la promoción del Buen Fin, usar o no un esquema de compra ahora y paga después, dejar o retirar un saldo en una billetera digital. Y todo eso ocurre entre juntas, tráfico, tareas de los hijos y notificaciones.
+
+Aquí conviene ser preciso, porque es fácil confundir dos cosas. El problema del mundo moderno no es que la gente se haya vuelto más impulsiva; es que aumentó brutalmente el número de oportunidades de ser impulsivo, y disminuyó el tiempo disponible para pensar cada una. Los meses sin intereses son un ejemplo casi perfecto de lo que estudia esta disciplina: financieramente pueden ser una herramienta razonable, incluso conveniente si la tasa real es cero y el flujo lo permite; psicológicamente, hacen algo distinto, porque convierten un precio grande y doloroso en una cifra pequeña e indolora. El cerebro no compara trece mil pesos contra su presupuesto anual: compara mil ochenta pesos contra su quincena, y mil ochenta pesos siempre parecen manejables. El problema aparece cuando se acumulan siete decisiones "manejables" y la quincena ya estaba comprometida antes de llegar.
+
+**La asimetría de la que casi nadie habla**
+
+Hay un desequilibrio en esta historia que merece decirse con todas sus letras, porque cambia por completo a quién le atribuimos la responsabilidad.
+
+De un lado del mostrador hay equipos profesionales: diseñadores de experiencia, analistas de datos, especialistas en comportamiento, áreas de mercadotecnia que prueban dos versiones de una pantalla con miles de usuarios para saber cuál genera más contrataciones. Trabajan tiempo completo, con presupuesto, con evidencia y con métricas semanales. Del otro lado hay una persona a las once de la noche, cansada, revisando el teléfono en la cama después de un día largo, decidiendo sola y sin haber recibido nunca una sola hora de formación sobre cómo funciona su propia mente frente al dinero.
+
+Decirle a esa persona que "le falta fuerza de voluntad" no solo es injusto: es técnicamente incorrecto. Es como pedirle a alguien que gane un partido en el que el otro equipo estudió el video de todos sus errores y él ni siquiera sabía que había partido. Por eso sostengo que la educación financiera que solo entrega información llega incompleta a este siglo. La información compite en desventaja contra un entorno diseñado para producir acción inmediata. Lo que puede equilibrar la cancha no es más información, sino algo distinto: entrenamiento de la atención, conocimiento de los propios disparadores y diseño deliberado del entorno personal. Ese es, en el fondo, el argumento central de este libro y la razón por la que propongo el modelo de Atención Financiera Consciente.
+
+**Tener una cuenta no es lo mismo que saber decidir**
+
+En los últimos años, la inclusión financiera avanzó en México y en América Latina a una velocidad notable. Aplicaciones, bancos digitales, billeteras electrónicas y plataformas de pago acercaron servicios financieros a millones de personas que antes estaban fuera del sistema formal, muchas veces sin sucursal, sin fila y sin requisitos imposibles. Es una buena noticia y hay que celebrarla.
+
+Pero conviene no confundir dos conceptos que se usan como sinónimos y no lo son. La inclusión financiera responde a la pregunta "¿tienes acceso?". La educación financiera responde a otra muy distinta: "¿sabes decidir con lo que tienes acceso?". Y la psicología financiera agrega una tercera, todavía más incómoda: "¿puedes sostener esa decisión cuando estás cansado, presionado o emocionalmente movido?". Tener acceso a crédito sin criterio no democratiza la prosperidad; acelera la velocidad a la que alguien puede endeudarse. Una plataforma de inversión en el teléfono no vuelve inversionista a nadie por sí sola, igual que tener un piano en la sala no vuelve pianista a quien vive ahí.
+
+*(Nota pendiente de verificación: aquí corresponde incorporar cifras de la Encuesta Nacional de Inclusión Financiera del INEGI y la CNBV, y del estudio de la OCDE/INFE sobre competencias financieras de adultos, para dimensionar la brecha entre acceso y capacidad de decisión. No se incluyen porcentajes hasta confirmar la edición más reciente y sus datos exactos.)*
+
+**Cuando la falta de dinero también cuesta atención**
+
+Existe un hallazgo que conviene traer aquí, porque desactiva uno de los prejuicios más comunes sobre la pobreza. Un grupo de investigadores encabezado por Anandi Mani, junto con Sendhil Mullainathan, Eldar Shafir y Jiaying Zhao, publicó en la revista *Science* un estudio que sugiere que la escasez económica ocupa recursos mentales: cuando una persona está preocupada por un problema de dinero apremiante, su desempeño en tareas cognitivas disminuye, no porque tenga menos capacidad, sino porque una parte de su atención está permanentemente ocupada resolviendo cómo llegar al viernes (Mani, Mullainathan, Shafir y Zhao, 2013). Mullainathan y Shafir desarrollaron esta idea en el libro *Scarcity*, donde proponen que la escasez, sea de dinero o de tiempo, impone una especie de impuesto sobre el ancho de banda mental.
+
+Vale la pena decirlo con la honestidad que este libro se ha propuesto: como toda investigación en ciencias del comportamiento, estos resultados han sido discutidos y matizados por la comunidad científica, y no deben leerse como una ley universal. Pero la dirección del hallazgo coincide con lo que se observa en la práctica clínica: la gente no toma malas decisiones financieras porque le sobre irresponsabilidad, sino muchas veces porque le falta margen.
+
+La implicación es enorme y va en contra del discurso más difundido. Si la escasez consume atención, entonces parte de lo que llamamos "malas decisiones financieras" no es la causa de la precariedad, sino una de sus consecuencias. Eso obliga a sostener dos ideas al mismo tiempo, sin sacrificar ninguna: existen factores estructurales reales —informalidad laboral, salarios que no alcanzan, falta de acceso a servicios, historias familiares de desventaja— y existe, dentro de ese margen, un espacio individual de decisión que sí puede ampliarse. Negar lo primero es cruel. Negar lo segundo es dejar a la gente sin herramientas. La psicología financiera trabaja precisamente en ese espacio intermedio, que es pequeño en algunos casos y grande en otros, pero casi nunca es cero.
+
+**El riesgo largo: vivir más con menos red**
+
+Hay una razón adicional, quizá la menos visible y la más costosa, por la que esta disciplina importa hoy. Las personas viven más años que sus abuelos, y al mismo tiempo los sistemas de retiro se transformaron. En México, la reforma de 1997 movió al país de un esquema en el que la pensión estaba definida de antemano hacia uno de cuentas individuales administradas por las Afore, donde el resultado final depende en buena medida de lo que cada quien aporte y del tiempo que lo deje trabajando. Con esa transformación, una parte del riesgo del futuro se trasladó silenciosamente del sistema hacia el individuo.
+
+*(Nota pendiente de verificación: revisar y citar con precisión la Ley del SAR, la reforma de 1997 y las modificaciones posteriores en materia de aportaciones y semanas de cotización, con fuente oficial de la CONSAR o el Diario Oficial de la Federación, antes de incorporar cifras.)*
+
+Aquí es donde la psicología se vuelve inevitable. La conducta financiera humana tiene una dificultad estructural con el tiempo: la literatura conductual la conoce como descuento temporal, y consiste en que valoramos mucho más una recompensa cercana que una recompensa mayor pero lejana. Mil pesos hoy pesan más que dos mil dentro de diez años, aunque la aritmética diga lo contrario. Nuestro yo de sesenta y cinco años nos resulta, emocionalmente, casi un desconocido; y cuesta trabajo sacrificar algo real y presente por un extraño del futuro. Un sistema que exige constancia durante cuarenta años está pidiéndole a la mente humana justo aquello para lo que peor equipada está. Por eso las soluciones que funcionan no apelan al heroísmo de la voluntad, sino a la automatización, al compromiso anticipado y a la reducción del número de veces que hay que volver a decidir lo mismo.
+
+**Una historia que se repite en cualquier ciudad del país**
+
+Karina tiene treinta y cuatro años, trabaja en el área administrativa de una empresa en Guadalajara y gana un poco más que hace cinco años. Sin embargo, siente que tiene menos. No hay ningún gasto escandaloso en su vida: no viaja seguido, no cambia de coche, no compra lujos. Lo que hay son cuatro compras a meses sin intereses de distintos momentos del año, tres suscripciones digitales que ya casi no usa, un préstamo pequeño que le hizo a su mamá y que nunca se planteó cobrar, y una costumbre que empezó en la pandemia: pedir cena por aplicación los días difíciles.
+
+Si le pedimos que revise sus números, Karina va a encontrar rápido dónde está el dinero. Eso no es lo interesante. Lo interesante es que ella ya lo sabía. Podría recitar sus gastos de memoria. La pregunta clínica no es "¿en qué gastas?", sino otra: ¿qué está resolviendo emocionalmente cada uno de esos gastos, y qué tendría que aparecer en su lugar el día que dejen de estar? La cena por aplicación no es un gasto: es una forma de cerrar un día que fue demasiado. El préstamo a su mamá no es un préstamo: es la manera en que Karina se demuestra que sigue siendo buena hija. Mientras esas funciones no tengan un sustituto, ningún presupuesto va a sobrevivir más de tres semanas. (Este relato es ilustrativo y no corresponde a una persona en particular.)
+
+**Herramienta: la radiografía de una semana**
+
+Antes de cambiar nada, propongo observar. Durante siete días, lleva un registro breve de cada decisión financiera que tomes, por pequeña que sea, incluidas las que hoy no llamarías decisiones: una compra en línea, una propina, una renovación automática, un préstamo a alguien, un pago aplazado, una transferencia que decidiste no hacer. De cada una anota solo tres cosas: qué fue, quién la inició —tú, a partir de una necesidad tuya, o el entorno, a partir de una promoción, una notificación o una pantalla— y cómo te sentías en ese momento, con una sola palabra.
+
+Al séptimo día no hagas cuentas todavía. Cuenta otra cosa: cuántas de esas decisiones nacieron de ti y cuántas fueron respuestas a un estímulo bien diseñado. Ese porcentaje es, probablemente, el dato más honesto que tendrás sobre tu vida financiera actual, y es también tu punto de partida real. No es un examen ni un juicio; es una radiografía, y las radiografías no se toman para castigar a nadie, se toman para saber dónde intervenir. Sobre este registro se apoyará, más adelante, el trabajo de atención que propone el modelo AFC.
+
+**Reflexión**
+
+Si el entorno en el que decides fue diseñado por alguien que no te conoce y que gana cuando tú actúas rápido, ¿cuánto de lo que hoy llamas "mi forma de ser con el dinero" es realmente tuya, y cuánto es simplemente el resultado de nunca haber mirado el diseño?
+
+**Puente**
+
+Con esto cerramos el recorrido por los fundamentos: qué es la psicología financiera, de dónde viene, cómo intervienen las emociones, para qué sirve en la práctica y por qué se ha vuelto indispensable en el mundo que habitamos. Hasta aquí, el trabajo fue comprender. Lo que sigue es más incómodo y más fértil, porque ya no se trata de entender el fenómeno en general, sino de mirarlo en el único lugar donde puede modificarse: tu propia realidad financiera, con sus números concretos, sus hábitos heredados y las conversaciones que llevas años posponiendo contigo mismo.
 
 ---
 
@@ -307,7 +375,15 @@ López-Moctezuma, C. (2017). Prólogo. En E. Díaz & C. Del Valle (Eds.), *Manua
 Clear, J. (2019). *Hábitos atómicos: Un método sencillo y comprobado para desarrollar buenos hábitos y eliminar los malos* (G. Moya, Trad.). Paidós. (Obra original publicada en 2018).
 Housel, M. (2025). *El arte de gastar dinero: Pequeñas decisiones para una vida más rica* (A. Figueras Deulofeu, Trad.). Planeta. (Obra original publicada en 2024).
 
+**Fuentes incorporadas en 1.5 (atención, escasez y cultura)**
+Mani, A., Mullainathan, S., Shafir, E., & Zhao, J. (2013). Poverty impedes cognitive function. *Science*, 341(6149), 976-980.
+Mullainathan, S., & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
+Simon, H. A. (1971). Designing organizations for an information-rich world. En M. Greenberger (Ed.), *Computers, Communications, and the Public Interest* (pp. 37-72). The Johns Hopkins Press.
+Díaz-Guerrero, R. *Psicología del mexicano: descubrimiento de la etnopsicología*. Trillas. *(Pendiente: confirmar año y edición exactos antes de la versión final.)*
+
 *Otras fuentes citadas en el texto sin ficha completa (verificar y completar en la revisión integral): Shefrin (2000), López Rossetti (2018), Tversky & Kahneman (1974), Thaler (1999), Simon (1955), Kahneman & Tversky (1979), Thaler & Sunstein (2008), Shiller (2000), Loewenstein & Lerner (2003), Ariely (2008).*
+
+*Datos pendientes de verificación señalados dentro del texto de 1.5, aún sin cifras: Encuesta Nacional de Inclusión Financiera (INEGI-CNBV); estudio de la OCDE/INFE sobre competencias financieras de adultos; Ley del SAR, reforma de 1997 y reformas posteriores en aportaciones y semanas de cotización (CONSAR / Diario Oficial de la Federación).*
 
 ---
 
