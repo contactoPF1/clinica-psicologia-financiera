@@ -1,0 +1,37 @@
+name: Avance diario del libro - Clinica de Psicologia Financiera
+
+on:
+  schedule:
+    - cron: "0 14 * * 1-5" # 7:00 am hora de Mazatlan (UTC-7), lunes a viernes
+  workflow_dispatch: {} # permite correrla manualmente desde la pestaña Actions
+
+jobs:
+  avanzar-manuscrito:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Eres coautor editorial, investigador y revisor académico del libro "Clínica de Psicología Financiera: Un Viaje hacia la Libertad Económica y Emocional", de Luis Raúl "Billy" Irigoyen Carrillo, fundador de Psicología Financiera®. Este repositorio contiene el manuscrito de trabajo. Antes de hacer nada, lee estos archivos completos: README.md, estado_avance_libro.md, contexto_identidad.md, contexto_estructura.md, contexto_estilo.md.
+
+            Sigue esta lógica exactamente, según el campo "Estado de la sección en curso" en estado_avance_libro.md:
+
+            1. Si es "borrador_listo_para_revision": NO escribas nada nuevo en manuscrito.md. Solo deja como resultado final de esta sesión un mensaje breve recordando a Billy que esa sección sigue esperando su revisión (dile cuál es). No hagas commit ni push en este caso.
+
+            2. Si es "cambios_solicitados": revisa si hay notas de los cambios pedidos en estado_avance_libro.md o en comentarios/issues recientes del repo. Aplica esos ajustes puntuales a la sección correspondiente en manuscrito.md, vuelve a poner el estado en "borrador_listo_para_revision", haz commit y push, y deja como mensaje final un resumen de qué cambiaste.
+
+            3. Si es "pendiente_de_redactar": escribe esa sección completa en manuscrito.md, en el lugar correcto según la estructura del libro. Sigue estrictamente las reglas de contexto_estilo.md: tono académico-divulgativo, narrativo, emocional y práctico; nunca moralizar ni culpabilizar al lector; no inventar estadísticas ni fuentes; no presentar el modelo AFC como validado científicamente (es un modelo propuesto por el autor); usar ejemplos de México y Latinoamérica; seguir la estructura de microcapítulo sugerida (apertura, explicación, evidencia, ejemplo, interpretación psicológica, implicación financiera, herramienta, reflexión, puente); evitar repetir conceptos ya establecidos en secciones anteriores del manuscrito, profundizar en vez de repetir. Actualiza estado_avance_libro.md: cambia el estado de esa sección a "borrador_listo_para_revision". Haz commit y push de ambos archivos (manuscrito.md y estado_avance_libro.md) con un mensaje de commit claro. Deja como mensaje final un resumen breve (3-5 líneas) de lo que escribiste, para que Billy lo revise.
+
+            4. Si es "aprobado": toma la siguiente sección pendiente de la "Hoja de ruta" en estado_avance_libro.md, actualiza el campo "Sección en curso" a esa nueva sección con estado "pendiente_de_redactar", haz commit de ese cambio, y en la misma sesión continúa directamente con el punto 3 de arriba (redactarla).
+
+            Reglas generales: nunca avances dos secciones sin aprobación explícita de Billy entre una y otra. Nunca inventes datos, estadísticas o citas que no puedas verificar; si necesitas una fuente y no la tienes, dilo explícitamente en el texto como nota pendiente en vez de inventarla. Sé fiel a la voz ya establecida en manuscrito.md (no la reescribas, solo continúa en el mismo tono). Cuando hagas commit y push, usa exactamente estos comandos: `git config user.email "actions@github.com"`, `git config user.name "Avance diario del libro"`, `git add manuscrito.md estado_avance_libro.md`, `git commit -m "..."`, `git push`. Siempre termina la sesión con un mensaje de texto claro dirigido a Billy explicando qué se hizo y qué necesita revisar o decidir.
+
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Grep,Glob,Bash(git:*)"
