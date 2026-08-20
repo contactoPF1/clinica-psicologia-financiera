@@ -4,10 +4,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Estado actual
 
-- **Última actualización:** 2026-08-19
+- **Última actualización:** 2026-08-20
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** 1.5 Importancia de la psicología financiera en el mundo moderno
-- **Estado de la sección en curso:** `aprobado` — Billy revisó el borrador el 2026-08-20 y lo aprobó sin cambios. Quedan tres notas de verificación marcadas dentro del texto (ENIF INEGI-CNBV, OCDE/INFE, Ley del SAR/CONSAR) que deliberadamente NO llevan cifras hasta confirmarlas; revisar en la etapa de verificación integral del capítulo, no bloquean la aprobación.
+- **Sección en curso:** Cierre reflexivo del Capítulo 1
+- **Estado de la sección en curso:** `pendiente_de_redactar` — la sección 1.5 quedó aprobada por Billy el 2026-08-20 sin cambios, así que el avance pasa al cierre reflexivo del Capítulo 1. Siguen abiertas las tres notas de verificación marcadas dentro del texto de 1.5 (ENIF INEGI-CNBV, OCDE/INFE, Ley del SAR/CONSAR), que deliberadamente NO llevan cifras hasta confirmarlas; se resuelven en la etapa de verificación integral del capítulo.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -20,7 +20,7 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 ## Hoja de ruta (orden a seguir, según memoria del proyecto)
 
 1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy el 2026-08-20*
-2. Cierre reflexivo del Capítulo 1 — **siguiente**
+2. Cierre reflexivo del Capítulo 1 — **en curso**
 3. Revisión integral del Capítulo 1 completo (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
 4. Bibliografía consolidada y verificada del Capítulo 1
 5. Capítulo 2 (Sección 2: Pilares de una vida financiera consciente) — Producción de ingresos
