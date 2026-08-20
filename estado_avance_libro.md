@@ -7,7 +7,7 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 - **Última actualización:** 2026-08-20
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
 - **Sección en curso:** Cierre reflexivo del Capítulo 1
-- **Estado de la sección en curso:** `pendiente_de_redactar` — la sección 1.5 quedó aprobada por Billy el 2026-08-20 sin cambios, así que el avance pasa al cierre reflexivo del Capítulo 1. Siguen abiertas las tres notas de verificación marcadas dentro del texto de 1.5 (ENIF INEGI-CNBV, OCDE/INFE, Ley del SAR/CONSAR), que deliberadamente NO llevan cifras hasta confirmarlas; se resuelven en la etapa de verificación integral del capítulo.
+- **Estado de la sección en curso:** `borrador_listo_para_revision` — borrador del cierre reflexivo del Capítulo 1 escrito el 2026-08-20 e insertado en `manuscrito.md` después de 1.5, antes de la bibliografía. Consolida el capítulo en tres desplazamientos de mirada, hace explícito por primera vez el método clínico de seis movimientos (observar, diagnosticar, comprender, intervenir, medir, mantener), declara con honestidad tres límites (el trabajo emocional no sustituye el ingreso; AFC es un modelo propuesto por el autor y aún sin evaluación empírica formal; hay cifras deliberadamente pendientes de verificación) y cierra con la herramienta "hoja de ingreso". No incorpora fuentes nuevas, así que la bibliografía no cambió. Esperando revisión de Billy.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -20,8 +20,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 ## Hoja de ruta (orden a seguir, según memoria del proyecto)
 
 1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy el 2026-08-20*
-2. Cierre reflexivo del Capítulo 1 — **en curso**
-3. Revisión integral del Capítulo 1 completo (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
+2. Cierre reflexivo del Capítulo 1 — *borrador listo para revisión, 2026-08-20*
+3. Revisión integral del Capítulo 1 completo — **siguiente, solo tras aprobación del cierre** (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
 4. Bibliografía consolidada y verificada del Capítulo 1
 5. Capítulo 2 (Sección 2: Pilares de una vida financiera consciente) — Producción de ingresos
 6. Administración del dinero
