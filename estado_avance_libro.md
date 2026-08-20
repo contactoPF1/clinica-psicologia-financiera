@@ -7,7 +7,7 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 - **Última actualización:** 2026-08-19
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
 - **Sección en curso:** 1.5 Importancia de la psicología financiera en el mundo moderno
-- **Estado de la sección en curso:** `borrador_listo_para_revision` — borrador completo redactado el 2026-08-19. Se conservaron los dos párrafos originales (se completó la frase cortada en "bienesta...") y se desarrolló la sección entera: premisas histórico-socioculturales de Díaz-Guerrero como "opción predeterminada" cultural, memoria económica heredada de las crisis, multiplicación de decisiones y escasez de atención (Simon, 1971), asimetría entre diseñadores profesionales del comportamiento y decisor individual, distinción inclusión financiera vs. educación financiera, escasez y carga cognitiva (Mani et al., 2013), riesgo de largo plazo y descuento temporal, caso ilustrativo (Karina), herramienta "radiografía de una semana", reflexión y puente. Quedan tres notas de verificación marcadas dentro del texto (ENIF INEGI-CNBV, OCDE/INFE, Ley del SAR/CONSAR) que deliberadamente NO llevan cifras hasta confirmarlas.
+- **Estado de la sección en curso:** `aprobado` — Billy revisó el borrador el 2026-08-20 y lo aprobó sin cambios. Quedan tres notas de verificación marcadas dentro del texto (ENIF INEGI-CNBV, OCDE/INFE, Ley del SAR/CONSAR) que deliberadamente NO llevan cifras hasta confirmarlas; revisar en la etapa de verificación integral del capítulo, no bloquean la aprobación.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -19,8 +19,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Hoja de ruta (orden a seguir, según memoria del proyecto)
 
-1. 1.5 Importancia de la psicología financiera en el mundo moderno — *borrador entregado 2026-08-19, en espera de revisión de Billy*
-2. Cierre reflexivo del Capítulo 1 — **siguiente (solo tras aprobación de 1.5)**
+1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy el 2026-08-20*
+2. Cierre reflexivo del Capítulo 1 — **siguiente**
 3. Revisión integral del Capítulo 1 completo (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
 4. Bibliografía consolidada y verificada del Capítulo 1
 5. Capítulo 2 (Sección 2: Pilares de una vida financiera consciente) — Producción de ingresos
