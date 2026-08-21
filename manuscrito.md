@@ -15,7 +15,7 @@ He visto empresarios talentosos para generar ingresos, pero incapaces de retener
 
 Mi misión es difundir este conocimiento, acercándome a cada persona que desee mejorar su relación con el dinero. Sé que para transformar nuestros resultados financieros es necesario comprender quiénes somos y controlar nuestras decisiones desde nuestra identidad y hacia el futuro que queremos construir. Por ello, esta iniciativa es una ventana para que otros visualicen elementos que contribuyan a su crecimiento personal, como hace años configuré mi propósito de vida: compartir conocimiento que impulse el desarrollo de los demás.
 
-Éste es mi viaje y hoy deseo compartirlo contigo, apoyado en mis años de experiencia en ventas, en la terapia financiera y en la psicología organizacional. Cada paso cuenta. Te invito a conocer este mundo y a descubrir cómo puede ayudarte a avanzar de una manera más plena y consciente. Gracias por visitarnos.
+Éste es mi viaje y hoy deseo compartirlo contigo, apoyado en mis años de experiencia en ventas, en la terapia financiera y en la psicología organizacional. Cada paso cuenta. Te invito a conocer este mundo y a descubrir cómo puede ayudarte a avanzar de una manera más plena y consciente. Gracias por leernos.
 
 ---
 
