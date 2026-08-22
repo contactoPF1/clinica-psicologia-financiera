@@ -21,6 +21,8 @@ Académico-divulgativo + narrativo + emocional + práctico. Debe sonar como un a
 
 Efecto buscado en el lector, en dos tiempos: primero "ahora entiendo por qué hago esto con mi dinero", después "ahora sé qué puedo comenzar a cambiar".
 
+**Regla de moneda (agregada 2026-08-20):** el libro es para lectores de toda América Latina, no solo México. Cada vez que se mencione una cantidad de dinero en pesos (o cualquier moneda específica) en un ejemplo, agregar la aclaración "(o el equivalente en la moneda de tu país)" justo después de la cifra, para que ningún lector se sienta excluido. Ejemplo aplicado: "el dolor de perder 100 pesos (o el equivalente en la moneda de tu país) se siente psicológicamente más intenso...". Aplica a todo el libro de aquí en adelante, no solo a la sección donde se detectó.
+
 ## Estructura ideal de un microcapítulo (arquitectura narrativa, no encabezados literales obligatorios)
 Apertura (idea/pregunta/situación cotidiana) → Explicación (fenómeno psicológico o financiero) → Evidencia (autor, teoría, estudio, estadística) → Ejemplo (situación cotidiana mexicana/latinoamericana) → Interpretación psicológica (¿por qué ocurre?) → Implicación financiera (¿cómo afecta dinero, ahorro, deuda, inversión, patrimonio?) → Herramienta (¿qué puede hacer el lector?) → Reflexión (pregunta personal) → Puente (conexión con el siguiente apartado).
 
