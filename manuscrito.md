@@ -127,7 +127,7 @@ En contraste, en culturas más individualistas como las de Europa occidental o E
 
 No solo las emociones negativas influyen en las decisiones financieras. También emociones positivas, como el optimismo, pueden sesgar el comportamiento económico. En momentos de auge económico, especialmente entre los jóvenes, se observa una tendencia a la sobreconfianza: asumir que las buenas condiciones se mantendrán indefinidamente.
 
-Dan Ariely (2008) señala que este exceso de optimismo lleva a subestimar riesgos, invertir en proyectos altamente especulativos o contraer deudas confiando en ingresos futuros que no están garantizados. En América Latina, donde la educación financiera es limitada, este sesgo se acentúa. Ejemplos claros son los picos de inversión en esquemas piramidales, la compra masiva de criptomonedas en momentos de alza o el gasto desmedido tras un aumento salarial, sin considerar la posibilidad de una crisis posterior, aunado a que buena parte de la población latinoamericana nunca ha recibido educación financiera formal. *(Nota pendiente de verificación: una cifra específica de "68%" citada en una versión anterior de este texto no pudo confirmarse en una fuente primaria confiable durante la revisión; buscar un dato verificado en reportes de CAF, BID, OCDE/INFE o CONDUSEF antes de la revisión integral del capítulo.)*
+Dan Ariely (2008) señala que este exceso de optimismo lleva a subestimar riesgos, invertir en proyectos altamente especulativos o contraer deudas confiando en ingresos futuros que no están garantizados. En América Latina, donde la educación financiera es limitada, este sesgo se acentúa. Ejemplos claros son los picos de inversión en esquemas piramidales, la compra masiva de criptomonedas en momentos de alza o el gasto desmedido tras un aumento salarial, sin considerar la posibilidad de una crisis posterior, aunado a que en México, según la Estrategia Nacional de Educación Financiera (CONDUSEF y SHCP, 2024), el 59% de las personas no recibió educación financiera de sus padres, 6 de cada 10.
 
 **El miedo a la pérdida como motor universal**
 
@@ -449,6 +449,9 @@ Díaz-Guerrero, R. *Psicología del mexicano: descubrimiento de la etnopsicolog�
 
 **Fuente verificada e incorporada en 1.2**
 Karlan, D., McConnell, M., Mullainathan, S., & Zinman, J. (2016). Getting to the Top of Mind: How Reminders Increase Saving. *Management Science*, 62(12). (Versión previa como working paper: NBER Working Paper No. 16205, 2010. Estudio de campo con Ecofuturo en Bolivia, Bank of Ica en Perú y First Valley Bank en Filipinas.)
+
+**Fuente verificada e incorporada en 1.3**
+CONDUSEF & Secretaría de Hacienda y Crédito Público (SHCP). (2024). Estrategia Nacional de Educación Financiera (ENEF) 2025-2030. Gobierno de México. (Dato citado: 59% de las personas en México no recibió educación financiera de sus padres.)
 
 *Otras fuentes citadas en el texto sin ficha completa (verificar y completar en la revisión integral): Shefrin (2000), López Rossetti (2018), Tversky & Kahneman (1974), Thaler (1999), Simon (1955), Kahneman & Tversky (1979), Thaler & Sunstein (2008), Shiller (2000), Loewenstein & Lerner (2003), Ariely (2008).*
 
