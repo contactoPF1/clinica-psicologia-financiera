@@ -29,7 +29,7 @@ La psicología financiera es una disciplina que se ubica en la intersección ent
 
 **La tensión entre razón y emoción**
 
-Una de las cuestiones centrales que aborda esta disciplina es si los seres humanos son realmente racionales al manejar el dinero o si, por el contrario, sus decisiones están gobernadas por sus emociones. El médico y divulgador argentino Daniel López Rossetti (2018) plantea una reflexión provocadora: ¿somos seres racionales o seres emocionales que intentan razonar? Según él, lo que prima en nuestra vida diaria son las emociones, y la razón aparece como un recurso secundario que justifica o da estructura a esas emociones.
+Una de las cuestiones centrales que aborda esta disciplina es si los seres humanos son realmente racionales al manejar el dinero o si, por el contrario, sus decisiones están gobernadas por sus emociones. El médico y divulgador argentino Daniel López Rossetti (2018) plantea una reflexión provocadora: ¿somos seres racionales o seres emocionales que intentan razonar? Según él, lo que predomina en nuestra vida diaria son las emociones, y la razón aparece como un recurso secundario que justifica o da estructura a esas emociones.
 
 Esta idea se confirma en la práctica financiera cotidiana. Muchas personas saben que no deberían endeudarse más allá de sus posibilidades, pero ceden ante la tentación de una tarjeta de crédito. Otras conocen la importancia del ahorro, pero postergan indefinidamente este hábito porque el placer inmediato de gastar resulta más poderoso que la promesa abstracta de un futuro seguro. La psicología financiera explica precisamente esa brecha entre lo que sabemos y lo que hacemos.
 
