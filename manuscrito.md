@@ -87,7 +87,9 @@ Otro hito decisivo fue el trabajo de Richard Thaler, quien, influido por las inv
 
 Thaler también popularizó el concepto de nudges o "empujones", pequeñas intervenciones en el entorno que ayudan a las personas a tomar mejores decisiones sin restringir su libertad de elección (Thaler & Sunstein, 2008). Ejemplos de nudges son los programas de inscripción automática a planes de pensión, donde el trabajador queda registrado a menos que decida salirse, o los recordatorios digitales que invitan a ahorrar de manera periódica. Estas ideas tuvieron un impacto enorme, no solo en las finanzas personales, sino también en el diseño de políticas públicas en todo el mundo.
 
-*(Pendiente: agregar un ejemplo de nudge más cercano al contexto latinoamericano.)*
+Más cerca de nuestra región, este mismo principio opera todos los días dentro del sistema de pensiones mexicano: cuando un trabajador no elige activamente una Afore ni un fondo de inversión, la Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR) lo asigna por default a una Siefore generacional acorde a su edad, con mayor exposición al riesgo cuando es joven y más conservadora conforme se acerca el retiro. Es un nudge silencioso que ordena millones de cuentas sin que la mayoría de los trabajadores lo note siquiera.
+
+Y no es solo diseño institucional: también hay evidencia experimental de la región. Un estudio de campo con clientes de instituciones financieras en Bolivia, Perú y Filipinas encontró que enviarles mensajes de texto recordándoles su meta de ahorro concreta aumentaba cuánto realmente ahorraban, comparado con no enviar recordatorio alguno (Karlan, McConnell, Mullainathan y Zinman). Un mensaje de texto, bien diseñado y en el momento correcto, puede pesar más que la mejor de las intenciones. *(Nota pendiente de verificación: confirmar año exacto y datos completos de publicación del estudio de Karlan, McConnell, Mullainathan y Zinman antes de la revisión integral.)*
 
 **El papel de las emociones colectivas y las crisis económicas**
 
@@ -441,7 +443,7 @@ Mullainathan, S., & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So
 Simon, H. A. (1971). Designing organizations for an information-rich world. En M. Greenberger (Ed.), *Computers, Communications, and the Public Interest* (pp. 37-72). The Johns Hopkins Press.
 Díaz-Guerrero, R. *Psicología del mexicano: descubrimiento de la etnopsicología*. Trillas. *(Pendiente: confirmar año y edición exactos antes de la versión final.)*
 
-*Otras fuentes citadas en el texto sin ficha completa (verificar y completar en la revisión integral): Shefrin (2000), López Rossetti (2018), Tversky & Kahneman (1974), Thaler (1999), Simon (1955), Kahneman & Tversky (1979), Thaler & Sunstein (2008), Shiller (2000), Loewenstein & Lerner (2003), Ariely (2008).*
+*Otras fuentes citadas en el texto sin ficha completa (verificar y completar en la revisión integral): Shefrin (2000), López Rossetti (2018), Tversky & Kahneman (1974), Thaler (1999), Simon (1955), Kahneman & Tversky (1979), Thaler & Sunstein (2008), Shiller (2000), Loewenstein & Lerner (2003), Ariely (2008), Karlan, McConnell, Mullainathan & Zinman (estudio de campo sobre recordatorios de ahorro por SMS en Bolivia, Perú y Filipinas; falta confirmar año y ficha exacta de publicación).*
 
 *Datos pendientes de verificación señalados dentro del texto de 1.5, aún sin cifras: Encuesta Nacional de Inclusión Financiera (INEGI-CNBV); estudio de la OCDE/INFE sobre competencias financieras de adultos; Ley del SAR, reforma de 1997 y reformas posteriores en aportaciones y semanas de cotización (CONSAR / Diario Oficial de la Federación).*
 
