@@ -195,7 +195,7 @@ El estrés financiero es una de las principales causas ocultas de bajo rendimien
 
 La arquitectura de un programa transformador incluye un diagnóstico anónimo sobre el estado financiero emocional del equipo, talleres esenciales (presupuesto 70/20/10, necesidades, deudas, fondo de emergencia), asesoría uno a uno con metas personalizadas y seguimiento, intervenciones automáticas (ahorro por nómina, auto-escalamiento, caja de ahorro), micro-hábitos gamificados (retos de treinta días sin tarjeta, sin delivery, con comida hecha en casa), educación en seguros y prevención de fraudes, y entrenamiento AFC antes de viáticos, compras o autorizaciones rápidas.
 
-La medición emocional-financiera del progreso es tan importante como el ROI: porcentaje de empleados con fondo de ahorro de al menos un mes, caída en el uso de adelantos de nómina, caída en la solicitud de préstamos, reducción del estrés financiero autodeclarado. Un empleado financieramente sereno es más presente, más leal y más creativo. Existen estadísticas que apoyan esta idea: estudios muestran que el bienestar financiero reduce el estrés y mejora la concentración, y que las empresas que invierten en educación y bienestar financiero de sus empleados observan un aumento en la retención de talento de hasta un 30% y una mejora en la productividad de hasta un 20% (https://blogs-es.psico-smart.com/articulo-el-impacto-psicologico-del-bienestar-financiero-en-la-productividad-laboral-182669).
+La medición emocional-financiera del progreso es tan importante como el ROI: porcentaje de empleados con fondo de ahorro de al menos un mes, caída en el uso de adelantos de nómina, caída en la solicitud de préstamos, reducción del estrés financiero autodeclarado. Un empleado financieramente sereno es más presente, más leal y más creativo. La encuesta *Employee Financial Wellness Survey* de PwC (2026), realizada a casi 3,500 empleados, encontró que el 76% reporta que el estrés financiero afecta negativamente su rendimiento laboral, y que las empresas con programas robustos de bienestar financiero reportan aumentos de productividad de hasta 40% y reducciones de hasta 23% en el ausentismo.
 
 ##### 1.4.4 Educación financiera con enfoque emocional para los hijos
 
@@ -452,6 +452,9 @@ Karlan, D., McConnell, M., Mullainathan, S., & Zinman, J. (2016). Getting to the
 
 **Fuente verificada e incorporada en 1.3**
 CONDUSEF & Secretaría de Hacienda y Crédito Público (SHCP). (2024). Estrategia Nacional de Educación Financiera (ENEF) 2025-2030. Gobierno de México. (Dato citado: 59% de las personas en México no recibió educación financiera de sus padres.)
+
+**Fuente verificada e incorporada en 1.4.3**
+PwC. (2026). *Employee Financial Wellness Survey*. (Encuesta en línea a cerca de 3,500 empleados, enero 2026. Datos citados: 76% reporta que el estrés financiero afecta negativamente su rendimiento laboral; empresas con programas robustos de bienestar financiero reportan aumentos de productividad de hasta 40% y reducciones de hasta 23% en el ausentismo.)
 
 *Otras fuentes citadas en el texto sin ficha completa (verificar y completar en la revisión integral): Shefrin (2000), López Rossetti (2018), Tversky & Kahneman (1974), Thaler (1999), Simon (1955), Kahneman & Tversky (1979), Thaler & Sunstein (2008), Shiller (2000), Loewenstein & Lerner (2003), Ariely (2008).*
 
