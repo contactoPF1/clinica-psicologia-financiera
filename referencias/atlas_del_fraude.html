@@ -1,0 +1,531 @@
+<!doctype html><html><head><!-- frame-runtime --><base href="/_f/1787762709-b55b/"><script>window.__FRAME_PREAMBLE={"v":1,"capabilities":{"artifact":"artifact.oqIe8shs.js","assets":"assets.DBUJcvq_.js","comments":"comments.GLuHR3zP.js","db":"db.CRhVHzSt.js","downloads":"downloads.C3GSvEDP.js","embed":"embed.CxGAyc-v.js","mcp":"mcp.Bvma3qD7.js","network":"network.B5UA9Su4.js","permissions":"permissions.BNySkLV5.js","room":"room.DE7EMui-.js","sample":"sample.BW2Uysoh.js","self":"artifact.oqIe8shs.js","user":"user.BpKav-Rf.js"},"transforms":"_transforms.CQm3TZ9K.js","comments":"_comments.PBVy184F.js","translate":"_translate.5HCW4BJh.js"}</script><script>(function(){"use strict";var Z=["light","dark","system"],J=/^[A-Za-z0-9_-]{1,64}$/,z=/^[a-zA-Z_:][a-zA-Z0-9_:.-]{0,127}$/,Q=new Set(["class","hidden","value","checked"]);function ee(e){const t=e.toLowerCase();return t.startsWith("data-")||t.startsWith("aria-")||Q.has(t)}var Me="http://www.w3.org/1999/xhtml",te="http://www.w3.org/2000/svg",re=new Set(["script","style","iframe","noscript","noframes","noembed","xmp","plaintext","template","title","textarea","object","embed"]),ne=new Set(["script","style"]);function oe(e){const t=e.localName.toLowerCase();return e.namespaceURI==="http://www.w3.org/1999/xhtml"?!re.has(t):e.namespaceURI===te?!ne.has(t):!1}var se=new Set(["html","head","body","frameset"]);function ae(e){return e.namespaceURI==="http://www.w3.org/1999/xhtml"&&se.has(e.localName)}function ie(e){if(e===null||typeof e!="object")return!1;const t=e;if(typeof t.target!="string"||!J.test(t.target)||t.text!==void 0&&typeof t.text!="string")return!1;if(t.attrsSet!==void 0){if(t.attrsSet===null||typeof t.attrsSet!="object")return!1;for(const[r,n]of Object.entries(t.attrsSet))if(!z.test(r)||typeof n!="string")return!1}if(t.attrsRemoved!==void 0){if(!Array.isArray(t.attrsRemoved))return!1;for(const r of t.attrsRemoved)if(typeof r!="string"||!z.test(r))return!1}return!0}function ce(e,t){if(e===null||typeof e!="object")return!1;const{seq:r,elements:n}=e;if(typeof r!="number"||!Number.isSafeInteger(r)||!Array.isArray(n)||n.length===0||n.length>64)return!1;for(let s=0;s<n.length;s++)if(!t(n[s]))return!1;return!0}function le(e){return e===null||typeof e!="object"?!1:ce(e.__frame_patch,ie)}function ue(e){if(e===null||typeof e!="object")return!1;const t=e.__frame_init;return t!==null&&typeof t=="object"}function fe(e){return e!==null&&typeof e=="object"&&e.__frame_size_poke===!0}function pe(e){if(e===null||typeof e!="object")return!1;const t=e.__frame_theme;if(t===null||typeof t!="object")return!1;const r=t.theme;return typeof r=="string"&&Z.includes(r)}var g=/^[\w.-]+\.js$/;function de(e,t,r){return r?"inert":typeof t=="string"&&g.test(t)?e?[t]:"inert":e?"inert":"framed"}function me(){return{post(e,t){parent.postMessage(e,t)},on(e){const t=r=>{r.source===parent&&e(r.data,r.origin)};return addEventListener("message",t),()=>removeEventListener("message",t)}}}function he(){return{post:()=>{},on:()=>()=>{}}}var O="__frame_scroll",_e=150,ve=310,ye=160,we=3e4;function be(){let e=0,t=!1,r=!1,n=!1,s=0,a=null;const u=i=>{try{sessionStorage.setItem(O,JSON.stringify({y:i}))}catch{}},f=()=>{if(clearTimeout(e),a===null)return;const i=a;a=null,u(i)},R=()=>{if(t){t=!1;return}r=!0,a=scrollY,clearTimeout(e),e=setTimeout(f,_e)};try{addEventListener("scroll",R,{passive:!0}),addEventListener("pagehide",f)}catch{}const v=()=>{let i;try{i=sessionStorage.getItem(O)}catch{return null}if(i===null)return null;let m;try{m=JSON.parse(i)}catch{m=null}const l=m?.y;if(!(typeof l=="number"&&Number.isFinite(l)&&l>=0)){try{sessionStorage.removeItem(O)}catch{}return null}return l};let S=!1;const h=i=>{try{const m=scrollY;scrollTo({top:i,left:0,behavior:"instant"}),s=i,n=!0,clearTimeout(e),a=null,u(i);const l=scrollY;l!==m&&(t=!0),l!==i&&!S&&(S=!0,addEventListener("load",()=>{try{if(scrollY===l){const k=v();h(k!==null?k:s)}}catch{}},{once:!0}))}catch{}},y=()=>{try{return!!location.hash}catch{return!0}};let o=!1;const p=()=>{try{if(o||innerWidth>ve||innerHeight>ye)return;o=!0;const i=Date.now(),m=()=>{try{removeEventListener("resize",m)}catch{}if(Date.now()-i>we||r||y())return;const l=v();h(l!==null?l:s)};addEventListener("resize",m)}catch{}};let _=!1,w=!1;return{restore(){if(_||(_=!0,y()))return;const i=v();i!==null&&(h(i),p())},promoted(){if(w||(w=!0,y()))return;const i=v();i!==null?(h(i),p()):n&&h(s)}}}function Ee(e,t,r){let n=null;try{n=window.trustedTypes?.createPolicy("frame-runtime",{createScriptURL:f=>f})??null}catch{}const s=window.Worker,a=s?.prototype,u=Object.freeze({Worker:s,workerOn:a?.addEventListener,workerPost:a?.postMessage,workerTerminate:a?.terminate,fetch:window.fetch.bind(window),preventDefault:Event.prototype.preventDefault,policy:n});t(e).then(f=>f?.bootTopLevel?f.bootTopLevel(u,{settle:r}):r()).catch(r)}var Oe="modulepreload",Ce=function(e){return"/"+e},je={},ge=function(t,r,n){let s=Promise.resolve();function a(u){const f=new Event("vite:preloadError",{cancelable:!0});if(f.payload=u,window.dispatchEvent(f),!f.defaultPrevented)throw u}return s.then(u=>{for(const f of u||[])f.status==="rejected"&&a(f.reason);return t().catch(a)})},Ae=window===top,H=Object.getOwnPropertyDescriptor(window,"claude"),T=de(Ae,window.__FRAME_PREAMBLE?.topLevel,H?.writable===!1),C=typeof T=="object"&&T[0],d=C?he():me();(function(){const e=Object.defineProperty,t=globalThis,r=["RTCPeerConnection","webkitRTCPeerConnection","RTCDataChannel","RTCIceCandidate","RTCSessionDescription","RTCRtpSender","RTCRtpReceiver"];let n=0;for(let s=0;s<r.length;s++){const a=r[s];try{e(t,a,{value:void 0,writable:!1,configurable:!1})}catch{try{delete t[a]}catch{}try{e(t,a,{value:void 0,writable:!1,configurable:!0})}catch{}}typeof t[a]=="function"&&n++}if(n&&T==="framed")try{d.post({__frame_rtc_lockdown_failed:n},"*")}catch{}})();var Re=1e4,Se=Object.freeze([...window.__FRAME_PREAMBLE?.origins??["https://claude.ai","https://preview.claude.ai"]]);function q(e){for(const t of Se)if(t.endsWith(":*"))try{const r=new URL(e);if(`${r.protocol}//${r.hostname}:*`===t)return!0}catch{}else if(e===t)return!0;return!1}var L=Object.freeze({...window.__FRAME_PREAMBLE?.capabilities}),j=window.__FRAME_PREAMBLE?.transforms,N=window.__FRAME_PREAMBLE?.comments,I=window.__FRAME_PREAMBLE?.translate;function A(e){return ge(()=>import("/_runtime/"+e),void 0)}function W(e,t){return{contract:e.contract,changes:new Set(e.changes??[]),flags:new Set(e.flags??[]),capabilities:e.capabilities??{},capBudgets:e.capBudgets??{},transforms:new Map,shellOrigin:t,mount:G,pipe:()=>({wrap:(r,n)=>(...s)=>{try{return n(...s)}catch(a){return Promise.reject(a)}}})}}var P=null,b=null;function $(e,t,r){try{Object.defineProperty(e,t,{value:r,writable:!1,configurable:!1,enumerable:!0})}catch{try{Object.defineProperty(e,t,{value:r,writable:!1,configurable:!0,enumerable:!0})}catch{}}}var B=!1;function ke(e,t){const r=[];for(const n of e.elements){const s=document.querySelector(`[data-id="${n.target}"]`);if(!s){d.post({__frame_patch_miss:{seq:e.seq}},t);return}if([...Object.keys(n.attrsSet??{}),...n.attrsRemoved??[]].some(a=>!ee(a))){d.post({__frame_patch_miss:{seq:e.seq}},t);return}if(n.text!==void 0&&(!oe(s)||ae(s))){d.post({__frame_patch_miss:{seq:e.seq}},t);return}for(const[a,u]of Object.entries(n.attrsSet??{}))if(!Y(s,a)){try{s.setAttribute(a,u)}catch{}K(s,a,u)}for(const a of n.attrsRemoved??[])Y(s,a)||(s.removeAttribute(a),K(s,a,null));typeof n.text=="string"&&(s.textContent=n.text),r.push(n.target)}try{document.dispatchEvent(new CustomEvent("claude:edit",{detail:{seq:e.seq,targets:r}}))}catch{}}function K(e,t,r){if(!(e instanceof HTMLInputElement))return;const n=t.toLowerCase();n==="checked"?e.checked=r!==null:n==="value"&&e.type!=="file"&&(e.value=r??"")}function Y(e,t){const r=t.toLowerCase(),n=e;return r==="data-id"||(r==="value"||r==="checked")&&(n.__artifactSecret===!0||/^(password|hidden|file)$/.test(n.type??"")||/(^|\s)(cc-|one-time-code|current-password|new-password)/i.test(`${e.getAttribute("autocomplete")??""} ${n.autocomplete??""}`))}function X(e){const t=document.documentElement;e==="light"||e==="dark"?(t.dataset.theme=e,t.style.colorScheme=e,B=!0):B&&(delete t.dataset.theme,t.style.colorScheme="",B=!1)}var M=new Map;function Te(){let e;const t={u:new Promise(r=>{e=r}),r:r=>{t.done=!0,e(r)},done:!1,nulled:!1};return t}function U(){for(const e of M.values())e.done||(e.nulled=!0,e.r(null))}var Le=Object.freeze(Object.assign(Object.create(null),{call:Function.prototype.call,apply:Function.prototype.apply,bind:Function.prototype.bind})),G=(e,t)=>{const r=M.get(e);if(!r||r.done){r?.nulled&&b&&d.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:e}},b);return}const n=typeof t=="function"?Object.setPrototypeOf(t,Le):Object.assign(Object.create(null),t);typeof n.then=="function"&&delete n.then,r.r(Object.freeze(n))};function V(){const e=H?.value??{};$(window,"claude",e);for(const t of Object.keys(L)){if(e[t]!==void 0){$(e,t,e[t]);continue}M.set(t,Te())}if(e.use===void 0){const t=r=>{if(typeof r!="string"||!Object.hasOwn(L,r))return Promise.resolve(null);const n=M.get(r);return n?n.u:Promise.resolve(e[r]??null)};try{Object.defineProperty(e,"use",{value:t,writable:!0,configurable:!0,enumerable:!1})}catch{}}}if(T==="framed"){const e=j&&g.test(j)?A(j).catch(()=>{}):Promise.resolve(void 0),t=o=>{if(o.type==="auxclick"&&o.button!==1)return;const p=o.target,_=p&&p.closest?p.closest("a[href],area[href]"):null;if(!_)return;const w=_.getAttribute("href");if(!w)return;let i;try{i=new URL(w,document.baseURI)}catch{return}if((i.protocol==="http:"||i.protocol==="https:")&&i.origin!==location.origin){o.preventDefault();const m=(_.getAttribute("target")??"").toLowerCase(),l=o.type==="auxclick"||o.metaKey||o.ctrlKey||o.shiftKey||o.altKey||!["","_self","_top","_parent"].includes(m);d.post({__frame_nav:!0,url:i.href,newTab:l},"*")}};addEventListener("click",t,!0),addEventListener("auxclick",t,!0);const r={},n=o=>{o.isTrusted&&(r.pointer=!0)},s=o=>{o.isTrusted&&(r.click=!0)};addEventListener("pointermove",n,{capture:!0,passive:!0}),addEventListener("click",s,{capture:!0,passive:!0}),e.then(o=>{o?.wireNav&&(o.wireNav(),removeEventListener("click",t,!0),removeEventListener("auxclick",t,!0),removeEventListener("pointermove",n,!0),removeEventListener("click",s,!0),o.wireEngagement?.(r))});let a=null;try{a=be()}catch{}V();let u=null,f=null,R=0;const v=d.on((o,p)=>{q(p)&&ue(o)&&(u=o.__frame_init,b=p,v(),clearTimeout(R),f?.())});d.post({__frame_connect:!0},"*");const S=new Promise(o=>{f=o,R=setTimeout(()=>{v(),o()},Re)}),h=document.readyState==="loading"?new Promise(o=>document.addEventListener("DOMContentLoaded",()=>o(),{once:!0})):Promise.resolve();h.then(()=>{try{a?.restore()}catch{}});const y={cb:null};d.on((o,p)=>{if(q(p)&&fe(o)){try{a?.promoted()}catch{}y.cb?.()}}),S.then(async()=>{if(!u||!b){U();return}X(u.theme);const o=b;let p=!1,_=!1;d.on((c,D)=>{if(D!==o)return;pe(c)&&X(c.__frame_theme.theme),le(c)&&ke(c.__frame_patch,o);const E=c?.__fc_mode;E&&typeof E=="object"&&!p&&N&&g.test(N)&&(p=!0,A(N).then(F=>F.install?.(o,E.on===!0)).catch(()=>{}));const x=c?.__ft_cmd;x&&typeof x=="object"&&!_&&I&&g.test(I)&&(_=!0,A(I).then(F=>F.install?.(o,x)).catch(()=>{}))});const w=Object.keys(u.capabilities??{}).filter(c=>Object.hasOwn(L,c)).map(c=>[c,L[c]]).filter(c=>typeof c[1]=="string"&&g.test(c[1])),i=await Promise.allSettled(w.map(([,c])=>A(c))),m=await e,l=b;if(m?.buildBoot||d.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:"_transforms"}},l),m?.buildBoot)try{P=m.buildBoot(u,m.TRANSFORMS??{},{shellOrigin:l,mount:G},c=>d.post({__frame_cap_telemetry:c},l))}catch{d.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:"_transforms"}},l),P=W(u,l)}else P=W(u,l);const k=c=>d.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:c}},l),Pe=P;i.forEach((c,D)=>{const E=w[D][0];if(c.status!=="fulfilled"){k(E);return}try{c.value?.install?.(Pe)}catch{k(E)}}),U(),await h,d.post({__frame_ready:!0},b),e.then(c=>c?.installSizeReporter?.(l,y))})}else C&&(V(),Ee(C,A,U))})();</script><!-- /frame-runtime --><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}</style></head><body>
+<title>Atlas del Fraude</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap');
+
+  :root{
+    --paper:#EFEEE8;
+    --surface:#FFFFFF;
+    --ink:#1E201C;
+    --ink-soft:#5B5D56;
+    --ink-faint:#8B8C84;
+    --line:#DCD9CE;
+    --line-strong:#C7C3B5;
+    --red:#A6301F;
+    --red-soft:#F4E4DF;
+    --teal:#0F6B5C;
+    --teal-soft:#E1EFEB;
+    --amber:#93630B;
+    --amber-soft:#F2E8D3;
+    --focus:#1D6FB8;
+    --shadow: 0 1px 2px rgba(30,32,28,0.06), 0 8px 24px -12px rgba(30,32,28,0.12);
+  }
+
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#15171A;
+      --surface:#1C1F22;
+      --ink:#ECEAE2;
+      --ink-soft:#B2B0A6;
+      --ink-faint:#7C7D77;
+      --line:#2C2F31;
+      --line-strong:#3A3D3F;
+      --red:#E36A57;
+      --red-soft:#3A211D;
+      --teal:#4FBBA5;
+      --teal-soft:#173430;
+      --amber:#E0B24C;
+      --amber-soft:#3A2F17;
+      --focus:#6CB2ED;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#15171A;
+    --surface:#1C1F22;
+    --ink:#ECEAE2;
+    --ink-soft:#B2B0A6;
+    --ink-faint:#7C7D77;
+    --line:#2C2F31;
+    --line-strong:#3A3D3F;
+    --red:#E36A57;
+    --red-soft:#3A211D;
+    --teal:#4FBBA5;
+    --teal-soft:#173430;
+    --amber:#E0B24C;
+    --amber-soft:#3A2F17;
+    --focus:#6CB2ED;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+  }
+
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Source Sans 3', ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size:17px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{ background: var(--amber-soft); }
+  a{ color:var(--focus); text-decoration-thickness:1px; text-underline-offset:2px; }
+  a:focus-visible, button:focus-visible, [tabindex]:focus-visible{
+    outline:2px solid var(--focus); outline-offset:3px; border-radius:2px;
+  }
+
+  .wrap{ max-width:760px; margin:0 auto; padding:0 24px 96px; }
+
+  /* ---------- Header ---------- */
+  header.masthead{
+    max-width:760px; margin:0 auto; padding:56px 24px 32px;
+    border-bottom:1px solid var(--line);
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:12.5px; font-weight:600; letter-spacing:.11em; text-transform:uppercase;
+    color:var(--red); margin:0 0 18px;
+    display:flex; align-items:center; gap:10px;
+  }
+  .eyebrow .rule{ height:1px; flex:1; background:var(--line-strong); }
+  h1{
+    font-family:'Fraunces', Georgia, 'Times New Roman', serif;
+    font-optical-sizing:auto;
+    font-weight:600;
+    font-size:clamp(2.1rem, 5vw, 3rem);
+    line-height:1.08;
+    letter-spacing:-.01em;
+    margin:0 0 18px;
+    text-wrap:balance;
+  }
+  .dek{
+    font-size:1.08rem; color:var(--ink-soft); max-width:58ch; margin:0 0 22px;
+  }
+  .meta-row{
+    display:flex; flex-wrap:wrap; gap:8px 22px; font-size:14px; color:var(--ink-faint);
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+  }
+  .meta-row strong{ color:var(--ink-soft); font-weight:600; }
+
+  /* ---------- Index ---------- */
+  nav.index{
+    max-width:760px; margin:0 auto; padding:28px 24px 8px;
+  }
+  nav.index h2{
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:12.5px; font-weight:600; letter-spacing:.11em; text-transform:uppercase;
+    color:var(--ink-faint); margin:0 0 14px;
+  }
+  .index-grid{
+    display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;
+  }
+  @media (max-width:520px){ .index-grid{ grid-template-columns:1fr; } }
+  .index-item{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:13px 16px; background:var(--surface); border:1px solid var(--line);
+    text-decoration:none; color:var(--ink); font-weight:600; font-size:15px;
+    transition: border-color .15s ease, transform .15s ease;
+  }
+  .index-item:hover{ border-color:var(--line-strong); }
+  .index-item .count{
+    font-family:'IBM Plex Mono', ui-monospace, monospace; font-weight:500;
+    font-size:13px; color:var(--ink-faint); flex:none;
+  }
+  .index-item .swatch{
+    width:8px; height:8px; border-radius:50%; flex:none; margin-right:2px;
+  }
+  .index-item .label-group{ display:flex; align-items:center; gap:10px; min-width:0; }
+  .index-item .label-group span.txt{ overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+
+  /* ---------- Section ---------- */
+  section.category{
+    max-width:760px; margin:0 auto; padding:52px 24px 8px;
+  }
+  .cat-head{
+    display:flex; align-items:baseline; gap:14px; margin-bottom:6px;
+    padding-bottom:14px; border-bottom:2px solid var(--cat-color, var(--ink));
+  }
+  .cat-index{
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:13px; color:var(--cat-color, var(--ink-faint)); font-weight:600;
+  }
+  .cat-head h2{
+    font-family:'Fraunces', Georgia, serif; font-weight:600;
+    font-size:1.5rem; margin:0; letter-spacing:-.01em;
+  }
+  .cat-intro{ color:var(--ink-soft); font-size:15.5px; margin:14px 0 30px; max-width:60ch; }
+
+  /* ---------- Entry card ---------- */
+  .entry{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-left:3px solid var(--cat-color, var(--ink-faint));
+    padding:22px 24px 24px;
+    margin-bottom:16px;
+  }
+  .entry h3{
+    font-family:'Fraunces', Georgia, serif; font-weight:600;
+    font-size:1.18rem; margin:0 0 3px; letter-spacing:-.005em;
+  }
+  .entry .aka{
+    font-size:13px; color:var(--ink-faint); margin:0 0 12px; font-style:italic;
+  }
+  .entry p.desc{ margin:0 0 16px; color:var(--ink); font-size:15.5px; }
+  .facets{
+    display:grid; grid-template-columns:1fr; gap:10px 24px;
+  }
+  @media (min-width:600px){
+    .facets{ grid-template-columns:1fr 1fr; }
+  }
+  .facet .flabel{
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:11px; font-weight:600; letter-spacing:.08em; text-transform:uppercase;
+    display:block; margin-bottom:4px;
+  }
+  .facet.signal .flabel{ color:var(--amber); }
+  .facet.shield .flabel{ color:var(--teal); }
+  .facet p{ margin:0; font-size:14.5px; color:var(--ink-soft); line-height:1.5; }
+
+  /* ---------- Law note ---------- */
+  .lawnote{
+    max-width:760px; margin:52px auto 0; padding:24px 24px;
+    background:var(--surface); border:1px solid var(--line);
+    font-size:14.5px; color:var(--ink-soft);
+  }
+  .lawnote strong{ color:var(--ink); }
+
+  /* ---------- Footer ---------- */
+  footer{
+    max-width:760px; margin:40px auto 0; padding:32px 24px 0;
+    border-top:1px solid var(--line);
+  }
+  footer h2{
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:12.5px; font-weight:600; letter-spacing:.11em; text-transform:uppercase;
+    color:var(--ink-faint); margin:0 0 14px;
+  }
+  .sources{ columns:2; column-gap:32px; font-size:14px; margin:0 0 24px; padding:0; list-style:none; }
+  .sources li{ break-inside:avoid; margin-bottom:9px; }
+  @media (max-width:560px){ .sources{ columns:1; } }
+  .disclaimer{ font-size:13.5px; color:var(--ink-faint); max-width:64ch; margin-bottom:8px;}
+  .fineprint{ font-size:12.5px; color:var(--ink-faint); padding-bottom:40px; }
+</style>
+
+<header class="masthead">
+  <p class="eyebrow">Educación financiera <span class="rule"></span> México</p>
+  <h1>Atlas del fraude en México</h1>
+  <p class="dek">Un mapa de referencia con las modalidades de fraude que las autoridades financieras mexicanas —y la prensa que las sigue— documentan con más frecuencia: cómo operan, qué señales delatan al estafador y cómo blindarte.</p>
+  <div class="meta-row">
+    <span><strong>20</strong> modalidades · 6 categorías</span>
+    <span>Compilado 26 ago 2026</span>
+    <span>Fuente principal: Condusef</span>
+  </div>
+</header>
+
+<nav class="index" aria-label="Categorías">
+  <h2>Saltar a una categoría</h2>
+  <div class="index-grid">
+    <a class="index-item" href="#ciber">
+      <span class="label-group"><span class="swatch" style="background:#7A4FBF"></span><span class="txt">Ciberfraude</span></span>
+      <span class="count">7</span>
+    </a>
+    <a class="index-item" href="#tarjetas">
+      <span class="label-group"><span class="swatch" style="background:var(--red)"></span><span class="txt">Tarjetas y cajeros</span></span>
+      <span class="count">3</span>
+    </a>
+    <a class="index-item" href="#credito">
+      <span class="label-group"><span class="swatch" style="background:var(--amber)"></span><span class="txt">Crédito e inversión</span></span>
+      <span class="count">4</span>
+    </a>
+    <a class="index-item" href="#identidad">
+      <span class="label-group"><span class="swatch" style="background:var(--focus)"></span><span class="txt">Identidad y telecom</span></span>
+      <span class="count">2</span>
+    </a>
+    <a class="index-item" href="#extorsion">
+      <span class="label-group"><span class="swatch" style="background:var(--teal)"></span><span class="txt">Extorsión y engaño social</span></span>
+      <span class="count">2</span>
+    </a>
+    <a class="index-item" href="#tradicional">
+      <span class="label-group"><span class="swatch" style="background:var(--ink-faint)"></span><span class="txt">Documentales y tradicionales</span></span>
+      <span class="count">2</span>
+    </a>
+  </div>
+</nav>
+
+<!-- ================= CIBERFRAUDE ================= -->
+<section class="category" id="ciber" style="--cat-color:#7A4FBF">
+  <div class="cat-head">
+    <span class="cat-index">01</span>
+    <h2>Ciberfraude</h2>
+  </div>
+  <p class="cat-intro">Condusef agrupa bajo "fraude cibernético" las estafas que usan internet y las redes móviles para robar información financiera, explotando el poco cuidado de los usuarios de banca en línea.</p>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Phishing</h3>
+    <p class="aka">Suplantación de identidad por correo electrónico</p>
+    <p class="desc">El estafador se hace pasar por un banco o institución financiera y envía un correo masivo advirtiendo un "error" en tu cuenta. Al dar clic e ingresar tus datos, obtiene números de tarjeta, claves y contraseñas con los que puede vaciar tus cuentas o pedir créditos a tu nombre.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Usa la imagen oficial del banco, incluye una liga a un sitio "para actualizar tus datos" y en ocasiones pide los dígitos de tu token.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Nunca entregues datos financieros por correo; los bancos no los solicitan por internet si tú no iniciaste la operación. Ante la duda, llama directo a tu banco.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Vishing</h3>
+    <p class="aka">Phishing telefónico</p>
+    <p class="desc">Una llamada donde el delincuente se hace pasar por empleado de tu banco y asegura que tu cuenta tiene cargos irregulares o requiere verificación, para convencerte de compartir tus datos por teléfono.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Urgencia artificial, tácticas alarmistas y solicitudes de información que impiden pensar con calma.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Cuelga y marca tú mismo al número oficial de tu banco para corroborar antes de decir nada.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Smishing</h3>
+    <p class="aka">Phishing por SMS</p>
+    <p class="desc">Mensajes de texto que te dirigen a una página web fraudulenta con el fin de obtener tu información bancaria para operar en tu nombre.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>SMS no solicitado con una liga corta y un pretexto urgente (bloqueo de cuenta, paquetería, premio).</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>No toques ligas de SMS inesperados; entra a tu banca en línea escribiendo tú mismo la dirección.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Pharming</h3>
+    <p class="aka">Redirección a sitios falsos</p>
+    <p class="desc">Ventanas emergentes que te redirigen a una página falsa, típicamente anunciando un premio o sorteo, para robarte datos personales antes de "entregarlo".</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Mensajes tipo "¡eres el visitante un millón!" y solicitud de datos antes de cualquier premio.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Verifica que el sitio use https y candado cerrado; ignora anuncios de premios que no solicitaste.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Correo basura (spam)</h3>
+    <p class="aka">Vector de entrada para malware</p>
+    <p class="desc">Mensajes no solicitados con fines publicitarios que invitan a visitar una página o descargar un archivo que, por lo general, es un virus que roba la información de tu dispositivo.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Remitente desconocido, ofertas agresivas, archivos adjuntos inesperados.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Instala un antivirus, no abras vínculos sospechosos y descarga apps solo de tiendas oficiales.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Quishing</h3>
+    <p class="aka">Fraude con códigos QR</p>
+    <p class="desc">Modalidad más reciente reportada en medios: se coloca un código QR falso —sobre uno legítimo en un parquímetro, menú o anuncio— o se envía por mensaje, y al escanearlo lleva a un sitio clonado que captura datos de pago.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Una calcomanía QR que luce pegada sobre otra, o un QR recibido de un contacto que no esperabas.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Revisa la URL que arroja el QR antes de introducir cualquier dato; si algo no cuadra, no continúes.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:#7A4FBF">
+    <h3>Malware en cajeros y terminales</h3>
+    <p class="aka">Ej. el software "Prilex" alertado por Condusef</p>
+    <p class="desc">Programas maliciosos instalados en cajeros automáticos o terminales punto de venta que copian la información de la banda o el chip de la tarjeta en el momento mismo de la transacción.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Cajeros o terminales con piezas añadidas, sueltas o que lucen distintas a las demás de la misma sucursal.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Prefiere cajeros dentro de sucursales bancarias y activa notificaciones de movimientos en tiempo real.</p></div>
+    </div>
+  </article>
+</section>
+
+<!-- ================= TARJETAS ================= -->
+<section class="category" id="tarjetas" style="--cat-color:var(--red)">
+  <div class="cat-head">
+    <span class="cat-index">02</span>
+    <h2>Tarjetas y cajeros</h2>
+  </div>
+  <p class="cat-intro">Fraudes que dependen de un contacto físico con tu tarjeta o tus documentos, no solo de un engaño digital.</p>
+
+  <article class="entry" style="--cat-color:var(--red)">
+    <h3>Clonación de tarjetas</h3>
+    <p class="aka">Skimming</p>
+    <p class="desc">Dispositivos ("skimmers") instalados discretamente en cajeros o terminales de pago copian los datos de la banda magnética o el chip; con ellos se fabrica una tarjeta duplicada para hacer compras o retiros.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Cargos que no reconoces, retiros en cajeros que nunca usaste.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Cubre el teclado al marcar tu NIP, inspecciona la ranura del cajero y activa alertas de movimientos.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--red)">
+    <h3>Tallado de tarjeta</h3>
+    <p class="aka">Trampa en la ranura del cajero</p>
+    <p class="desc">Manipulan el cajero para que la tarjeta se atore. Un "buen samaritano" se ofrece a ayudarte, cambia tu tarjeta por una falsa mientras finge "limpiarla" y, tras ver tu NIP, usa la original para retirar tu dinero.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Alguien que se acerca a "ayudar" justo cuando el cajero falla; personal bancario nunca te pide la tarjeta.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>No aceptes ayuda de desconocidos ni fuerces una tarjeta atorada: llama a tu banco desde ahí mismo.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--red)">
+    <h3>Trashing</h3>
+    <p class="aka">Robo de datos en la basura</p>
+    <p class="desc">Estados de cuenta, recibos o solicitudes desechados en la basura contienen datos suficientes para que un tercero los use en fraudes posteriores.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Cargos o cuentas nuevas que no reconoces meses después de tirar documentos financieros.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Destruye —no solo tires— los documentos con datos personales o bancarios antes de desecharlos.</p></div>
+    </div>
+  </article>
+</section>
+
+<!-- ================= CREDITO E INVERSION ================= -->
+<section class="category" id="credito" style="--cat-color:var(--amber)">
+  <div class="cat-head">
+    <span class="cat-index">03</span>
+    <h2>Crédito e inversión</h2>
+  </div>
+  <p class="cat-intro">Condusef identificó estas dos modalidades entre las de mayor crecimiento reciente, junto con esquemas de inversión que prometen rendimientos imposibles de sostener.</p>
+
+  <article class="entry" style="--cat-color:var(--amber)">
+    <h3>Crédito exprés</h3>
+    <p class="aka">"Aparta tu crédito" por adelantado</p>
+    <p class="desc">Créditos ofrecidos por llamada, SMS, WhatsApp, volante o app, de forma rápida y sin revisar historial crediticio, a cambio de un depósito previo por "gastos de gestoría", un seguro o para "apartar" el crédito. En cuanto depositas, el otorgante desaparece.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Aprobación inmediata, cero requisitos, y cualquier pago solicitado antes de recibir el dinero.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Ningún crédito legítimo cobra por adelantado. Verifica al otorgante en el registro SIPRES de Condusef.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--amber)">
+    <h3>Suplantación de instituciones financieras</h3>
+    <p class="aka">Falsos ejecutivos y empresas "filiales"</p>
+    <p class="desc">Usan el nombre, logotipo, dirección y teléfono de bancos o financieras reales —en páginas apócrifas, anuncios o redes sociales— para ofrecer créditos de auto, personales o vía nómina y cobrar comisiones de apertura. Cuando buscas seguimiento, el teléfono ya no existe o el domicilio es falso.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Contacto solo por WhatsApp o Facebook, contratos de adhesión que no coinciden con los de la institución real.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Confirma directamente con la institución por sus canales oficiales antes de entregar dinero o documentos.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--amber)">
+    <h3>Pirámide financiera</h3>
+    <p class="aka">Esquema Ponzi</p>
+    <p class="desc">Cada participante recluta a otros para invertir en un negocio, prometiendo rendimientos elevados. Los pagos a los primeros inversionistas salen del dinero de los últimos en entrar; cuando el reclutamiento se frena, el esquema colapsa y solo quienes lo iniciaron obtuvieron ganancia real.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Rendimientos "garantizados" muy por encima del mercado y presión por invitar a más gente.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Antes de invertir, confirma que quien capta el dinero esté autorizado y supervisado por el sistema financiero.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--amber)">
+    <h3>Inversión fraudulenta en criptoactivos</h3>
+    <p class="aka">Rendimientos "fijos" no regulados</p>
+    <p class="desc">Plataformas que prometen ganancias fijas o garantizadas en criptomonedas. Condusef recuerda que un activo virtual no es moneda de curso legal, no está respaldado por el Banco de México y sus operaciones no se pueden revertir una vez ejecutadas.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Garantía de rendimiento fijo pese a la volatilidad real del activo; opacidad sobre en qué se invierte el dinero.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Lee los términos y condiciones de la plataforma y de cualquier Institución de Tecnología Financiera antes de firmar.</p></div>
+    </div>
+  </article>
+</section>
+
+<!-- ================= IDENTIDAD Y TELECOM ================= -->
+<section class="category" id="identidad" style="--cat-color:var(--focus)">
+  <div class="cat-index"></div>
+  <div class="cat-head">
+    <span class="cat-index">04</span>
+    <h2>Identidad y telecomunicaciones</h2>
+  </div>
+  <p class="cat-intro">Fraudes donde el delincuente se apropia de quién eres —tu nombre, tu línea telefónica— para operar como si fuera tú.</p>
+
+  <article class="entry" style="--cat-color:var(--focus)">
+    <h3>Robo de identidad</h3>
+    <p class="desc">Con datos personales obtenidos por engaño, filtración de información o documentos desechados (CURP, INE, RFC, número de cuenta), un tercero abre cuentas, solicita créditos o realiza operaciones a tu nombre sin tu consentimiento.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Créditos o cuentas que no reconoces al revisar tu historial crediticio.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Revisa tu historial crediticio con regularidad y no compartas copias de tus identificaciones sin saber para qué se usarán.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--focus)">
+    <h3>SIM swapping</h3>
+    <p class="aka">Intercambio o duplicado de SIM</p>
+    <p class="desc">El estafador se hace pasar por ti ante tu compañía telefónica, alega que perdiste el chip o se dañó, y con una identificación falsa consigue que te expidan una SIM de repuesto. Con el control de tu número recibe los códigos de verificación por SMS y entra a tus cuentas bancarias, correo o redes.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Tu celular pierde señal de repente y no puedes hacer ni recibir llamadas ni SMS.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Activa un PIN adicional para reposición de SIM con tu compañía y usa apps de autenticación en vez de SMS cuando puedas. En 2026 la Suprema Corte determinó que las compañías telefónicas pueden ser responsables si no verifican bien la identidad antes de reponer una SIM.</p></div>
+    </div>
+  </article>
+</section>
+
+<!-- ================= EXTORSION ================= -->
+<section class="category" id="extorsion" style="--cat-color:var(--teal)">
+  <div class="cat-head">
+    <span class="cat-index">05</span>
+    <h2>Extorsión y engaño social</h2>
+  </div>
+  <p class="cat-intro">No siempre pasan por un sitio falso ni una tarjeta clonada: explotan el miedo, la confianza o la ilusión de haber ganado algo.</p>
+
+  <article class="entry" style="--cat-color:var(--teal)">
+    <h3>Extorsión telefónica</h3>
+    <p class="aka">"Secuestro virtual"</p>
+    <p class="desc">El delincuente llama fingiendo tener retenido a un familiar, o haciéndose pasar por policía o autoridad, y exige un depósito o transferencia inmediata a cambio de su "liberación" o para evitar un supuesto problema legal —aprovechando el miedo para que la víctima no verifique nada antes de pagar. Medios locales reportan que sigue siendo una de las modalidades más activas en 2026.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Presión para no colgar, exigencia de secrecía absoluta y pago inmediato en efectivo o transferencia.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Cuelga y comunícate tú mismo con el familiar supuestamente afectado antes de hacer cualquier pago; evita publicar en redes tus viajes o rutinas en tiempo real.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--teal)">
+    <h3>Falsos premios y sorteos</h3>
+    <p class="desc">Te avisan —por teléfono, correo o ventana emergente— que ganaste un premio, viaje o sorteo, pero debes pagar antes un "impuesto", trámite o envío para recibirlo, o entregar tus datos personales y bancarios.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Un sorteo en el que no recuerdas haber participado y que exige un pago antes de entregar el premio.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Ningún sorteo legítimo cobra por adelantado para entregarte lo que ganaste.</p></div>
+    </div>
+  </article>
+</section>
+
+<!-- ================= TRADICIONALES ================= -->
+<section class="category" id="tradicional" style="--cat-color:var(--ink-faint)">
+  <div class="cat-head">
+    <span class="cat-index">06</span>
+    <h2>Documentales y tradicionales</h2>
+  </div>
+  <p class="cat-intro">Modalidades más antiguas que la banca en línea, pero que Condusef sigue reportando junto a las digitales.</p>
+
+  <article class="entry" style="--cat-color:var(--ink-faint)">
+    <h3>Alteración de cheques</h3>
+    <p class="desc">Modificación del monto, beneficiario o datos de un cheque físico —por ejemplo "lavándolo" con solventes— para cobrar una cantidad mayor o desviar el pago a otra persona.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Cheques con espacios en blanco o que muestran alteraciones visibles en tinta o papel.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Usa tinta indeleble, cruza el cheque o márcalo "no negociable" y no dejes espacios vacíos al llenarlo.</p></div>
+    </div>
+  </article>
+
+  <article class="entry" style="--cat-color:var(--ink-faint)">
+    <h3>Fraude inmobiliario y de tiempo compartido</h3>
+    <p class="desc">En tiempo compartido: atraen a turistas con desayunos gratis y "ofertas únicas" para firmar contratos el mismo día, con cláusulas que dificultan la cancelación; en la reventa, falsos compradores piden pagos anticipados por "impuestos" o "certificados" y luego desaparecen. En bienes raíces, se ofrecen propiedades con documentos apócrifos o que no pertenecen a quien las vende o renta.</p>
+    <div class="facets">
+      <div class="facet signal"><span class="flabel">Señales</span><p>Presión para firmar el mismo día y cualquier pago "administrativo" antes de una venta o cancelación.</p></div>
+      <div class="facet shield"><span class="flabel">Protección</span><p>Nunca firmes bajo presión; verifica al comprador, vendedor y la propiedad por tu cuenta antes de pagar nada.</p></div>
+    </div>
+  </article>
+</section>
+
+<div class="lawnote">
+  <strong>Marco legal.</strong> En México el fraude está tipificado como delito genérico en el Código Penal Federal y en los códigos penales de cada estado, además de las disposiciones específicas que vigilan la Condusef, la CNBV y el Banco de México para el sector financiero. Una queja ante Condusef no sustituye una denuncia penal cuando el hecho constituye un delito.
+</div>
+
+<footer>
+  <h2>Fuentes</h2>
+  <ul class="sources">
+    <li><a href="https://www.condusef.gob.mx/?p=tipos-de-fraude" target="_blank" rel="noopener">Condusef — Cuida tu información en la red (ciberfraude)</a></li>
+    <li><a href="https://www.condusef.gob.mx/?p=contenido&idc=1989&idcat=1" target="_blank" rel="noopener">Condusef — Protege tu dinero, ojo con los fraudes financieros</a></li>
+    <li><a href="https://www.condusef.gob.mx/?p=contenido&idc=389&idcat=1" target="_blank" rel="noopener">Condusef — Alerta por suplantación de instituciones financieras</a></li>
+    <li><a href="https://www.gob.mx/condusef/articulos/clonacion-de-tarjeta" target="_blank" rel="noopener">Condusef (gob.mx) — Clonación de tarjeta</a></li>
+    <li><a href="https://www.condusef.gob.mx/?p=contenido&idc=370&idcat=1" target="_blank" rel="noopener">Condusef — Malware "Prilex" para clonar tarjetas</a></li>
+    <li><a href="https://lasillarota.com/dinero/2026/7/24/condusef-alerta-por-el-tallado-de-tarjetas-asi-roban-tu-dinero-en-cajeros-automaticos-609992.html" target="_blank" rel="noopener">La Silla Rota — Condusef alerta por el "tallado de tarjetas"</a></li>
+    <li><a href="https://www.condusef.gob.mx/?p=contenido&idc=1594&idcat=3" target="_blank" rel="noopener">Condusef — Modalidad de fraude SIM Swapping</a></li>
+    <li><a href="https://www.infobae.com/mexico/2026/05/02/robaron-tu-numero-telefonico-suprema-corte-obliga-a-las-empresas-a-responder-por-el-sim-swapping-asi-funciona-este-nuevo-fraude/" target="_blank" rel="noopener">Infobae — SCJN y responsabilidad de telefónicas en SIM swapping</a></li>
+    <li><a href="https://www.milenio.com/negocios/finanzas-personales/robo-de-identidad-que-es-y-como-prevenirlo-segun-condusef" target="_blank" rel="noopener">Milenio — Robo de identidad, según Condusef</a></li>
+    <li><a href="https://www.dineroenimagen.com/tu-dinero/asi-operan-fraudes-tiempo-compartido-mexico" target="_blank" rel="noopener">Dinero en Imagen — Así operan los fraudes de tiempo compartido</a></li>
+    <li><a href="https://www.fincen.gov/sites/default/files/2024-10/FinCEN-Joint-Notice-Timeshare-Mexico-Translation-FINAL-508C.pdf" target="_blank" rel="noopener">FinCEN — Aviso conjunto sobre fraude de tiempo compartido en México</a></li>
+    <li><a href="https://www.eldiariodechihuahua.mx/local/2026/jul/19/alertan-por-secuestros-virtuales-819180.html" target="_blank" rel="noopener">El Diario de Chihuahua — Alertan por secuestros virtuales</a></li>
+  </ul>
+  <p class="disclaimer">Esta guía es informativa y no sustituye asesoría legal o financiera profesional. Para presentar una queja formal, contacta directamente a Condusef (55 5340 0999) o a la institución financiera involucrada.</p>
+  <p class="fineprint">Compilado a partir de fuentes públicas de Condusef y prensa mexicana especializada. Última revisión: 26 de agosto de 2026.</p>
+</footer>
+
+</body></html>

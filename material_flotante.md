@@ -4,6 +4,8 @@ Este archivo guarda material ya desarrollado (voz del autor, listo para insertar
 
 Todo el material proviene de casos anonimizados vistos en sesión (roles genéricos, sin nombres ni datos identificables), tratados como ilustraciones clínicas compuestas, nunca como evidencia científica validada, siguiendo el mismo criterio ya usado en 1.4.6.
 
+**Regla de anonimización de casos (agregada 2026-08-26):** antes de llevar un caso real al manuscrito, cambiar el giro del negocio y la geografía (el patrón psicológico no depende del sector); fusionar o alterar el número de hijos/nietos y sus roles si eso ayuda a diluir la identificación; sustituir montos exactos por rangos u órdenes de magnitud ("varios millones de pesos" en vez de la cifra literal). Conservar intactos los mecanismos psicológicos y las frases o diálogos-tipo citados textualmente entre comillas: ese es el verdadero valor del caso, no el sector ni los nombres.
+
 ---
 
 ## Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
@@ -19,6 +21,9 @@ En vez de un corte drástico, una pareja decidió reducir la mesada de sus hijos
 
 **Cuando ni los números son confiables**
 Durante varios meses de una crisis financiera, ni siquiera los intereses de los propios créditos quedaron correctamente registrados en la contabilidad de una familia, no por descuido, sino porque el caos operativo de la reestructura hizo que el dinero se "traspapelara" entre cuentas. Hay una capa de psicología financiera que rara vez se nombra: en las crisis severas no solo se pierde el control del dinero, se pierde también la capacidad de confiar en los propios datos, lo cual alimenta más ansiedad y más parálisis, en un ciclo que se retroalimenta.
+
+**La opacidad financiera como pacto familiar silencioso**
+En varias unidades de un mismo negocio familiar aparece el mismo síntoma: cuentas personales y de la empresa mezcladas, nadie lleva un registro básico, y quien está a cargo de los números prefiere "no rascarle más" por miedo a meterse en problemas con la familia. No es incompetencia, es protección colectiva de una ambigüedad que a nadie le conviene resolver del todo, porque resolverla obligaría a nombrar cosas incómodas: quién se está beneficiando de qué, y desde cuándo. La opacidad financiera en las familias casi nunca es accidental; es funcional, mantiene una paz aparente.
 
 ---
 
@@ -43,6 +48,9 @@ Frente a la narrativa de que toda deuda es vergonzosa, existe un reencuadre más
 **La "carrera de la rata" nombrada en voz alta**
 Usar una línea de crédito revolvente como parche diario de liquidez, disponer, pagar, volver a disponer, mes tras mes, tiene un nombre que una familia le puso sin que nadie se lo sugiriera: "una carrera de la rata." Es un momento de lucidez notable: reconocer conscientemente que se está atrapado en un mecanismo de supervivencia que no es sostenible, y seguir usándolo porque la alternativa inmediata se siente peor. Es estructuralmente el mismo patrón que la psicología conductual describe en otros mecanismos de alivio a corto plazo con costo acumulado, solo que aquí el objeto no es una sustancia: es una línea de crédito.
 
+**El vínculo forjado en la crisis financiera compartida** *(cruce con Capítulo 19)*
+Dos personas que atravesaron juntas una deuda importante años atrás, y salieron adelante, desarrollan una lealtad que después complica decisiones racionales de negocio: una se resiste a que la otra se vaya, no por conveniencia operativa, sino por el peso emocional de esa historia compartida. Es algo poco explorado en los libros de finanzas conductuales: las deudas no solo se pagan en dinero, también se pagan en lealtad indefinida.
+
 ---
 
 ## Capítulo 10 — Tu actitud frente al ahorro
@@ -53,6 +61,9 @@ Un fin de semana sin salir a cenar, por elección, para ahorrar, dejó a una fam
 ---
 
 ## Capítulo 15 — Educación financiera familiar
+
+**Tesis unificadora del capítulo (candidata)**
+El dinero rara vez es el problema: es el idioma en el que una familia expresa lo que no sabe decir de otra forma, control, culpa, lealtad, amor y miedo a desaparecer. Casi todos los casos de este capítulo son, en el fondo, esa misma frase con distintos disfraces.
 
 **Dinero como sustituto de amor y culpa**
 El momento más revelador de una sesión fue cuando una madre dijo en voz alta: "yo pensaba que darle dinero era darle amor". Es una de las confesiones más comunes y menos habladas en la psicología financiera: cuando falta vocabulario para expresar amor, culpa o ausencia, el dinero ocupa ese lugar. El tiempo no dado a un hijo se compensa con una transferencia; la culpa se paga en efectivo. Y muchas veces ese patrón no nace en la persona que lo repite, sino en la infancia que lo enseñó.
@@ -68,6 +79,12 @@ Antes de morir, el fundador de un negocio familiar sacó créditos personales pa
 
 **Cuando la herencia se convierte en un tribunal de justicia percibida**
 Repartir una pensión o un patrimonio entre distintas figuras familiares rara vez es un problema aritmético. Es, casi siempre, una disyuntiva entre lo legal (un reparto matemático, igualitario) y lo justo (honrar a quien realmente sostuvo el negocio o la familia día a día, aunque su nombre no esté en los papeles). Quien ha vivido ese reparto lo describe, con razón, como una pelea entre el cerebro y el corazón. El dinero heredado casi nunca se disputa por su valor numérico: se disputa por lo que representa sobre quién fue reconocido y quién fue invisible.
+
+**"Ayudas desordenadas": el dinero como sustituto del vínculo**
+El patrón se repite con variaciones: dar dinero a un familiar de edad avanzada que ni siquiera lo disfruta abiertamente, dar semanalmente a los nietos sin que los padres lo sepan, sentirse obligado a ayudar aunque nadie lo pida. Ayudar no es el problema; el problema es cuando ayudar deja de ser una elección y se vuelve una obligación silenciosa. Una prueba diagnóstica simple sirve para distinguirlo, y cualquier lector podría aplicársela a sí mismo: esta ayuda, ¿me costó dinero, o me costó paz?
+
+**La "hipoteca social" y la crianza de herederos con entitlement**
+Un heredero con propiedades y bienes a su nombre que se niega a vender ninguno, esperando siempre el rescate de quien sostiene el patrimonio, ilustra algo que la literatura de empresa familiar ya nombra pero que pocos libros de psicología financiera aterrizan bien: ese patrimonio no es del heredero, es de quienes vienen después de él. Cuando se transmite dinero sin transmitir la responsabilidad que lo acompaña, no se siembra continuidad, se siembra derecho.
 
 **Nota — subtema sin capítulo propio todavía:** "Desnudar las finanzas" (la vulnerabilidad de ser visto con dinero). Revisar las finanzas de alguien, dijo una persona en sesión, es "casi como salir a la calle desnudo". Incluso entre quienes llevan décadas juntos, mostrar en detalle en qué se gasta el dinero genera una vergüenza muy particular, distinta a cualquier otra forma de intimidad. La transparencia financiera dentro de una pareja no es un trámite administrativo; es un acto de vulnerabilidad que merece el mismo cuidado que cualquier otra conversación íntima. *Candidato a subtema propio dentro de este capítulo (intimidad financiera en pareja) — decidir con Billy cuando se redacte 15.*
 
@@ -91,12 +108,38 @@ En toda crisis financiera familiar o empresarial, alguien tiene que encarnar el 
 **Pedir que te cuestionen: liderazgo bajo presión que busca ancla externa**
 En un momento de tensión, quien lidera puede pedir explícitamente que su equipo la contradiga con datos, que la "golpeen" con preguntas incómodas antes de avanzar. Es una petición de vulnerabilidad poco común en contextos de autoridad: reconocer que, bajo el peso emocional de la crisis, el propio juicio puede estar sesgado, y que la corrección solo puede venir de fuera. Es, tal vez, el gesto más sano de todo el proceso.
 
+**La paradoja de la dependencia del fundador** *(cruce con Capítulo 23)*
+Un fundador puede, sin darse cuenta, entrenar a sus propios sucesores para que no estén listos (los integra jóvenes, sin estudios, sin experiencia externa) y después usar esa misma falta de preparación como argumento para no soltar el control. No es hipocresía consciente, es una trampa psicológica que se retroalimenta sola: cuanto menos preparado mantiene al sucesor, más se confirma a sí mismo que soltar sería un error. *Candidato también a subtema propio de "sucesión empresarial familiar", aún sin capítulo dedicado en el índice.*
+
 ---
 
 ## Capítulo 21 — Atención Financiera Consciente
 
 **La brecha entre saber y actuar** *(candidata a tesis central del capítulo, o referencia cruzada desde el Capítulo 1)*
 Un equipo puede nombrar, en voz alta, el patrón que los tiene atrapados: cada decisión que sabían que tenían que tomar, la retrasaron por "un sentido de culpabilidad, angustia, moral." No era falta de información, el análisis financiero ya apuntaba a la decisión correcta desde antes. Lo que faltaba era permiso emocional para actuar contra el malestar de tomarla. Es, quizás, la tesis más honesta que puede ofrecer este libro: la mayoría de las decisiones financieras difíciles no fallan por falta de datos, sino por la fricción moral de actuar sobre ellos.
+
+---
+
+## Capítulo 23 — Reinvención financiera
+
+**La fusión entre identidad y patrimonio**
+Un fundador que lleva casi veinticinco años al frente de su empresa no solo la dirige, es la empresa, en su propia mente. La pregunta clínicamente más reveladora de un proceso así no es financiera, es identitaria: ¿quién soy si no soy el que dirige esto? Los síntomas físicos que aparecen (colitis nerviosa recurrente, presión alta, fatiga) no son aleatorios, aparecen justo en los momentos en que se le pide soltar control. Es un patrón clásico de psicología financiera, el patrimonio como prótesis de identidad, y explica por qué ningún argumento racional ("delega, así creces mejor") funciona si no se atiende primero la pregunta de fondo.
+
+**Dos monedas de la sucesión: dinero e identidad** *(imagen de cierre, cruce con Capítulo 19)*
+En un mismo proceso de sucesión, una salida (la de un directivo de confianza) puede estar condicionada a que se libere dinero, un obstáculo puramente financiero y, en el fondo, fácil de resolver. La otra salida (la del propio fundador) está condicionada a algo que ningún cheque puede resolver: una identidad de reemplazo. El contraste entre ambas, una sucesión que espera una firma bancaria, la otra que espera una respuesta existencial, es de las imágenes más poderosas para cerrar un capítulo sobre reinvención.
+
+---
+
+## Capítulo 24 — Educación financiera como herencia
+
+**El testamento como espejo del miedo a la muerte, no del amor a los hijos**
+Años de posponer un testamento o la unificación de escrituras, no por falta de recursos ni de tiempo, sino por evitar una deuda incómoda que "delataría" un error administrativo antiguo, muestran cómo la planeación patrimonial se convierte en un proxy emocional. Planear la herencia se siente, para muchos, como planear el propio funeral, así que se evita indefinidamente. El vacío legal que queda no es descuido: es evitación disfrazada de descuido.
+
+---
+
+## Recursos y referencias (no son casos, son material de consulta)
+
+**Atlas del fraude financiero (México)** — `referencias/atlas_del_fraude.html` (guardado en este repositorio, artifact original de Claude fechado 2026-08-26). Guía compilada con fuentes de Condusef y prensa mexicana especializada: seis categorías de fraude (digital/phishing, tarjetas y cajeros, crédito e inversión, identidad y telecomunicaciones, extorsión y engaño social, documentales/tradicionales), cada una con señales de alerta y protección. Relevante para el libro porque casi todo fraude financiero explota una vulnerabilidad emocional (miedo, urgencia, confianza, vergüenza), el mismo terreno que trabaja la psicología financiera. Candidato de ubicación: Capítulo 13 (Sesgos cognitivos, como ejemplo de cómo el miedo y la urgencia anulan el juicio) o como apéndice/recurso práctico independiente. Decidir con Billy cuando se llegue a esa parte del libro.
 
 ---
 
