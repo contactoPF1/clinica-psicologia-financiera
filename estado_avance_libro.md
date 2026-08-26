@@ -31,6 +31,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 10. Integración de los pilares financieros
 11. (continuar según el índice completo en la memoria del proyecto: `project_libro_clinica_estructura.md`)
 
+## Material flotante (casos de sesión ya desarrollados, pendientes de integrar)
+
+Existe `material_flotante.md` en este repositorio: contiene pasajes ya redactados (voz del autor) a partir de casos reales de sesión, cada uno etiquetado con el capítulo del índice al que pertenece (2, 8, 9, 10, 15, 16, 19, 21). Ninguno de esos capítulos se ha escrito todavía en `manuscrito.md`. **Antes de redactar cualquiera de esos capítulos, revisar primero `material_flotante.md` e integrar el material correspondiente** (con los ajustes de tono/transición necesarios), en vez de partir de cero. Al integrar un bloque, borrarlo de `material_flotante.md` para no duplicar contenido. Si surge material nuevo de sesiones antes de llegar a su capítulo, agregarlo ahí con el mismo formato.
+
 ## Reglas para la rutina diaria (resumen, ver memoria completa)
 
 - Seguir el estilo y las reglas de `feedback_libro_clinica_estilo_y_reglas.md` (memoria del proyecto): académico-divulgativo, sin moralizar, ejemplos de México/Latam, no inventar estadísticas, no presentar AFC como validada científicamente, verificar fuentes citadas.
