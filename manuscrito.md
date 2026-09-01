@@ -323,6 +323,8 @@ El dinero puede ser fuente de ansiedad, o un vehículo de libertad. Lo que hace 
 
 El modelo AFC no es una técnica: es una brújula. Una forma de volver a ti mismo antes de decidir. Un espacio donde la decisión correcta no se impone, sino que se encuentra dentro de ti, con pausa, claridad y propósito.
 
+Vale la pena detenerse en la palabra que le da nombre a esta clínica. No hablamos de un consultorio médico ni prometemos diagnósticos clínicos en el sentido tradicional: hablamos de una forma de trabajar. Como en cualquier proceso clínico serio, primero se observa lo que está ocurriendo sin juzgarlo, después se busca comprender qué patrones y qué historia sostienen ese comportamiento, y solo entonces se interviene, se mide el resultado con honestidad, y se acompaña para que el cambio se sostenga en el tiempo. Ese es el espíritu detrás de cada aplicación que acabamos de recorrer, desde la persona que revisa su presupuesto hasta la empresa que mide el bienestar financiero de su equipo: no recetar soluciones genéricas, sino entender primero qué hay detrás del comportamiento antes de proponer un cambio.
+
 #### 1.5 Importancia de la psicología financiera en el mundo moderno
 
 La psicología financiera ha demostrado ser una herramienta invaluable en la comprensión de cómo las personas toman decisiones económicas en un mundo cada vez más complejo. Sin embargo, es crucial entender que estas decisiones no ocurren en un vacío cultural. En el caso de América Latina, y particularmente en México, el contexto social, histórico y cultural influye profundamente en la manera en que las personas manejan su dinero, toman decisiones financieras y reaccionan ante la incertidumbre económica.
@@ -419,7 +421,7 @@ El tercero es de responsabilidad. La fuerza de voluntad dejó de ser el personaj
 
 **El método que sostiene todo el libro**
 
-Si estos tres desplazamientos son el resultado, hay algo más que conviene dejar explícito antes de avanzar: el método. La palabra "clínica" en el título de este libro no es un adorno ni una promesa terapéutica. Es una forma de trabajar, y tiene seis movimientos.
+Si estos tres desplazamientos son el resultado, vale la pena retomar algo que ya adelantamos en este capítulo: el método. La palabra "clínica" en el título de este libro no es un adorno ni una promesa terapéutica. Es una forma de trabajar, y aquí conviene nombrarla con precisión: tiene seis movimientos.
 
 Primero observar, que consiste simplemente en registrar lo que ocurre sin interpretarlo todavía ni corregirlo. Después diagnosticar, es decir, encontrar el patrón: no el gasto suelto, sino la repetición. Luego comprender, que es la parte que casi nadie hace, y consiste en averiguar qué pensamiento, qué emoción, qué historia familiar o qué sesgo sostiene ese patrón en su lugar. Solo entonces intervenir, modificando algo pequeño y concreto. Después medir, con honestidad y sin maquillaje, para saber si eso que hicimos realmente movió algo. Y por último mantener, que es convertir en hábito lo que funcionó, porque una mejora que no sobrevive tres meses no fue una mejora, fue un buen momento.
 
@@ -454,8 +456,6 @@ Ponle fecha y guárdala. La vas a releer al final de este viaje. Junto con la ra
 **Reflexión**
 
 Suelo decir que el dinero es libertad acuñada. Me gusta la frase por lo que esconde: acuñar es un acto, alguien tiene que hacerlo, y ningún billete trae la libertad incluida de fábrica. Con eso en mente, la pregunta con la que te dejo es esta: si dentro de un año tu situación financiera fuera exactamente igual a la de hoy, ¿qué habría seguido decidiendo en tu lugar?
-
-**Puente**
 
 Aquí termina la parte del libro en la que hablo yo. Lo que sigue no se puede leer, se tiene que hacer, porque el primer movimiento de la clínica es observar y ese movimiento solo puede ocurrir en tu vida, con tus cifras, tus horarios y tus conversaciones pendientes. Vamos a mirar de frente tu realidad financiera y los hábitos que la construyen todos los días, sin prisa por corregir nada todavía. Y lo haremos con el propósito que le da sentido a todo este viaje: más allá de vivir siendo ricos, vivamos siendo plenos.
 
