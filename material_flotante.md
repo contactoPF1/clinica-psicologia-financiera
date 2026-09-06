@@ -10,9 +10,6 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ## Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
 
-**El experimento pequeño como herramienta de cambio** *(alternativa: Capítulo 21, como ejemplo del método AFC en acción)*
-En vez de un corte drástico, una pareja decidió reducir la mesada de sus hijos de forma moderada y explícita, tratándolo como "un experimento" con seguimiento consciente de la reacción, no como un castigo. El cambio de comportamiento financiero sostenible casi siempre necesita dosis pequeñas y observables, no rupturas abruptas. Es el mismo principio detrás de cualquier intervención clínica bien hecha: se ajusta, se observa, se vuelve a ajustar.
-
 **Cuando ni los números son confiables**
 Durante varios meses de una crisis financiera, ni siquiera los intereses de los propios créditos quedaron correctamente registrados en la contabilidad de una familia, no por descuido, sino porque el caos operativo de la reestructura hizo que el dinero se "traspapelara" entre cuentas. Hay una capa de psicología financiera que rara vez se nombra: en las crisis severas no solo se pierde el control del dinero, se pierde también la capacidad de confiar en los propios datos, lo cual alimenta más ansiedad y más parálisis, en un ciclo que se retroalimenta.
 
