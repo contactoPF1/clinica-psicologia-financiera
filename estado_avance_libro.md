@@ -4,10 +4,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Estado actual
 
-- **Última actualización:** 2026-09-01
+- **Última actualización:** 2026-09-05
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** Bibliografía consolidada y verificada del Capítulo 1
-- **Estado de la sección en curso:** `pendiente_de_redactar` — El Capítulo 1 completo está aprobado por Billy (Prólogo, 1.1-1.5 con los 12 bloques de 1.5 numerados, Cierre reflexivo) Y la revisión integral formal ya se hizo (2026-09-01), con hallazgos corregidos: (1) un bug real donde el párrafo de resolución de la nota pendiente sobre la reforma de pensiones (CONSAR/Ley del SAR) se había mostrado en chat pero nunca se aplicó al archivo, ya corregido; (2) repetición de "aversión a la pérdida" casi textual en 1.1/1.2/1.3, recortada para que solo 1.2 la explique a fondo; (3) repetición de "contabilidad mental" con el mismo ejemplo en 1.1/1.2, recortada igual; (4) AFC se revelaba parcialmente en 1.3 antes de su presentación formal en 1.4.1, suavizado. Queda pendiente el último paso antes del Capítulo 2: la bibliografía consolidada final (completar fichas de Shefrin, López Rossetti, Tversky & Kahneman, Thaler, Simon, Kahneman & Tversky, Thaler & Sunstein, Shiller, Loewenstein & Lerner, que Billy decidió dejar para el cierre).
+- **Sección en curso:** Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
+- **Estado de la sección en curso:** `pendiente_de_redactar` — **El Capítulo 1 está oficialmente cerrado y completo.** Prólogo, 1.1-1.5 (12 bloques numerados), Cierre reflexivo: todo aprobado por Billy. Revisión integral hecha el 2026-09-01 (bug de la nota de pensiones corregido, repeticiones de "aversión a la pérdida" y "contabilidad mental" recortadas, AFC ya no se adelanta en 1.3). Bibliografía consolidada completada el 2026-09-05: las 10 fichas pendientes (Shefrin, López Rosetti, Tversky & Kahneman, Kahneman & Tversky, Thaler, Simon, Thaler & Sunstein, Shiller, Loewenstein & Lerner, Ariely) verificadas contra libros físicos en `Libros Base` o fuentes académicas, encontrando y corrigiendo dos errores: Shefrin estaba citado como 2000 (correcto: 2002) y "López Rossetti" estaba mal escrito con año incorrecto (correcto: López Rosetti, 2017, una sola "s"). **Antes de escribir el Capítulo 2, revisar `material_flotante.md`**: ya tiene 4 pasajes desarrollados para este capítulo (documentar vs. sentir que controlas, gasto fantasma, experimento pequeño, números poco confiables en crisis), integrarlos en vez de partir de cero.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -22,8 +22,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy, punto por punto (1.5.1-1.5.12), el 2026-09-01*
 2. Cierre reflexivo del Capítulo 1 — *aprobado por Billy el 2026-09-01*
 3. Revisión integral del Capítulo 1 completo — *hecha el 2026-09-01, hallazgos corregidos (ver arriba)*
-4. Bibliografía consolidada y verificada del Capítulo 1 — **siguiente paso, aún no hecho**
-5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera *(nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
+4. Bibliografía consolidada y verificada del Capítulo 1 — *hecha el 2026-09-05*
+5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — **siguiente paso, aún no hecho** *(revisar `material_flotante.md` primero; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
 6. Capítulo 3 — Ikigai y vida financiera con propósito
 7. Capítulo 4 — Pensamientos, creencias y realidad financiera
 8. Capítulo 5 — Emociones y dinero
