@@ -435,7 +435,11 @@ El kakeibo intuyó este principio casi un siglo antes de que la psicología lo d
 
 ##### 1.5.11 Reflexión
 
-Si el entorno en el que decides fue diseñado por alguien que no te conoce y que gana cuando tú actúas rápido, ¿cuánto de lo que hoy llamas "mi forma de ser con el dinero" es realmente tuya, y cuánto es simplemente el resultado de nunca haber mirado el diseño?
+Cierra los ojos un momento y piensa en la última vez que compraste algo sin haberlo planeado. Quizás fue esa notificación que apareció justo cuando ibas a dormir, esa cuenta regresiva que decía que solo quedaban dos piezas, o simplemente el cansancio de un día largo que te hizo abrir una aplicación de comida. Detrás de esa pantalla no hay un enemigo con rostro, ni una persona que sepa tu nombre, tus deudas o tus miedos. Hay equipos enteros de gente que nunca te ha visto, que diseñan cada botón, cada color y cada palabra para que decidas más rápido de lo que decidirías si te dieran tiempo para pensar. No te conocen a ti; conocen el patrón promedio de millones de personas que se parecen un poco a ti, y ese patrón les basta.
+
+Y "actuar rápido" no es un defecto de carácter, es justamente el objetivo de ese diseño: entre más rápido decidas, menos posibilidad tienes de preguntarte si de verdad lo necesitas, si te alcanza, o si mañana te vas a arrepentir. Cada segundo que ganan de tu impulso es, casi siempre, un peso que pierdes tú.
+
+Con todo esto en la mesa, la memoria heredada de tu familia, la cultura que te enseñó a decidir en compañía, la fatiga de las once de la noche, la letra pequeña que nunca terminas de leer, vale la pena hacerte una pregunta honesta, sin culpa y sin juicio: de lo que hoy llamas "así soy yo con el dinero", ¿cuánto decidiste tú de verdad, con calma y a conciencia, y cuánto es simplemente la huella de un entorno que nunca te preguntó si estabas de acuerdo?
 
 ##### 1.5.12 Puente
 
