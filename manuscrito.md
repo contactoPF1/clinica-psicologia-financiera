@@ -505,6 +505,32 @@ Aquí termina la parte del libro en la que hablo yo. Lo que sigue no se puede le
 
 ---
 
+### Capítulo 2. Consciencia y hábitos: confrontando tu realidad financiera
+
+##### 2.1 La ilusión del autocontrol: por qué sentir que tienes disciplina no es lo mismo que tenerla
+
+*Nadie miente tanto sobre sus finanzas como se miente a sí mismo.*
+
+Si te preguntara ahora mismo qué tan ordenado eres con tu dinero, probablemente responderías algo como "bastante", "más o menos" o "podría ser peor". Es una respuesta honesta, y esa es justo la trampa: la honestidad con la que respondemos esa pregunta no tiene nada que ver con la exactitud de la respuesta. Sentir que tienes control sobre tus finanzas y tenerlo de verdad son dos experiencias distintas, y la primera no garantiza en absoluto la segunda.
+
+La investigación en educación financiera tiene un nombre para esto: la brecha entre el conocimiento financiero autopercibido y el conocimiento financiero real. Un estudio de de Zwaan, Lee, Liu y Chardon (2017) encontró algo revelador: las personas con menor conocimiento financiero real tienden, en promedio, a sentirse igual de confiadas, o más, que quienes sí tienen un conocimiento sólido. No es que finjan saber más de lo que saben; genuinamente creen que su nivel de control es mayor del que en realidad ejercen. La confianza y la competencia, en el terreno del dinero, se desarrollan por caminos distintos, y con frecuencia ni siquiera se cruzan.
+
+Vimos una versión clínica exacta de este fenómeno en una pareja que llegó a terapia financiera convencida de que administraba bien su dinero. No era una postura defensiva ni una exageración; genuinamente se percibían como razonablemente ordenados. El ejercicio que cambió todo no fue una recomendación ni un regaño, fue simplemente pedirles que documentaran, con honestidad y sin editar, cada movimiento de dinero del negocio familiar durante unas semanas. Al ver el registro completo por primera vez, el esposo dijo una frase que resume el hallazgo entero: "veo que refleja solo la mitad de la realidad". No habían mentido antes; simplemente nunca habían mirado con esa resolución.
+
+¿Por qué nos pasa esto? En parte porque documentar con precisión es incómodo, y la mente prefiere una sensación general de "voy bien" a la evidencia específica de un gasto que no recuerdas haber decidido. Y en parte porque la sensación de control es autoprotectora: cuesta menos sostener la idea de que administramos bien nuestro dinero que enfrentar la posibilidad de que no. La percepción financiera funciona más como un mecanismo de defensa emocional que como un instrumento de medición.
+
+El costo de esta ilusión es concreto. Mientras la sensación de control se sostenga sin evidencia que la respalde, no hay ninguna razón interna para cambiar nada: no se corrige lo que no se percibe como roto. Los gastos hormiga se acumulan, los patrones de sobreendeudamiento se repiten y las metas de ahorro se posponen, todo bajo la creencia genuina de que "no estoy tan mal". La sensación de control sin datos que la sostengan no es un punto de partida seguro; es, con frecuencia, el obstáculo principal para empezar.
+
+**Herramienta: la sesión semanal de honestidad financiera**
+
+La radiografía de siete días que hicimos en el Capítulo 1 fue un diagnóstico puntual, una sola fotografía. Aquí el ejercicio es distinto: convertir esa fotografía en una práctica sostenida. Una vez a la semana, siempre el mismo día y a la misma hora, siéntate quince minutos con tu registro de gastos, sea una libreta, una app o un kakeibo, y responde por escrito tres preguntas, sin editar ni suavizar la respuesta: ¿qué gasté esta semana que no había planeado?, ¿hay algo aquí que me incomoda ver escrito?, y ¿qué haría distinto la próxima semana si nadie más fuera a leer esto? La tercera pregunta es la que de verdad importa: si tu respuesta cambia según quién la vaya a leer, todavía le estás mintiendo un poco a la hoja.
+
+Vale la pena preguntarte, antes de seguir: si alguien más documentara tu semana financiera con el mismo detalle que tú crees tener, ¿qué encontraría que tú no habías visto?
+
+Con esta pregunta abierta, toca ahora ir al otro lado de la misma moneda: por qué, aun sabiendo que documentar ayuda, tantas veces preferimos no hacerlo.
+
+---
+
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
 
 **Referencia principal (obra completa)**
@@ -566,6 +592,9 @@ Shiller, R. J. (2000). *Irrational Exuberance*. Princeton University Press.
 Loewenstein, G., & Lerner, J. S. (2003). The role of affect in decision making. En R. Davidson, H. Goldsmith, & K. Scherer (Eds.), *Handbook of Affective Science* (pp. 619-642). Oxford University Press.
 Ariely, D. (2008). *Predictably Irrational: The Hidden Forces That Shape Our Decisions*. HarperCollins.
 Mehrabian, A. (1971). *Silent Messages*. Wadsworth Publishing Company. (Aclaración: la difundida cifra de que "el 93% de la comunicación es no verbal" es una interpretación popular exagerada del estudio original, no su hallazgo literal. Incorporado en 1.4.1.)
+
+**Fuente verificada e incorporada en 2.1**
+de Zwaan, L., Lee, C., Liu, Y., & Chardon, T. (2017). Overconfidence in Financial Literacy: Implications for Planners. *Financial Planning Research Journal*, 3(2), 31-46. (Hallazgo citado: las personas con menor conocimiento financiero real tienden a sentirse igual o más confiadas sobre su propio conocimiento que quienes sí lo tienen sólido.)
 Tetaz, M. (2014). *Psychonomics: la economía está en tu mente*. Penguin (Random House Mondadori). (Nota: el manuscrito escribía el título como "Psyconomics", sin la "h"; corregido en el Prólogo. Libro que el autor menciona como origen personal de su interés en psicología financiera.)
 
 *Datos pendientes de verificación señalados dentro del texto de 1.5, aún sin cifras: Encuesta Nacional de Inclusión Financiera (INEGI-CNBV); estudio de la OCDE/INFE sobre competencias financieras de adultos; Ley del SAR, reforma de 1997 y reformas posteriores en aportaciones y semanas de cotización (CONSAR / Diario Oficial de la Federación).*
