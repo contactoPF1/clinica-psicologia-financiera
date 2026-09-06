@@ -6,8 +6,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 - **Última actualización:** 2026-09-01
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** Revisión integral del Capítulo 1 completo
-- **Estado de la sección en curso:** `pendiente_de_redactar` — Billy revisó y aprobó el Capítulo 1 completo punto por punto en sesión directa conmigo (Prólogo, 1.1, 1.2, 1.3, 1.4 con sus 8 subapartados, 1.5 con sus 12 bloques ya numerados 1.5.1-1.5.12, y el Cierre reflexivo del Capítulo 1). En el proceso se resolvieron las tres notas de verificación pendientes con fuentes reales (PwC en 1.4.3, ENIF/OCDE-INFE y CONSAR en 1.5), se agregó material nuevo verificado (Díaz-Guerrero y el dinero, terremotos/Venezuela, Akerlof, Scarcity/tunneling, Hershfield, kakeibo/Pennebaker) y se numeraron los bloques de 1.5 (decisión de mantener o quitar esa numeración sigue pendiente para el cierre del libro). Todavía NO se ha hecho la revisión integral formal (progresión, repeticiones, sustento científico, presencia México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor) ni la bibliografía consolidada final. No avanzar a Capítulo 2 hasta completar esos dos pasos.
+- **Sección en curso:** Bibliografía consolidada y verificada del Capítulo 1
+- **Estado de la sección en curso:** `pendiente_de_redactar` — El Capítulo 1 completo está aprobado por Billy (Prólogo, 1.1-1.5 con los 12 bloques de 1.5 numerados, Cierre reflexivo) Y la revisión integral formal ya se hizo (2026-09-01), con hallazgos corregidos: (1) un bug real donde el párrafo de resolución de la nota pendiente sobre la reforma de pensiones (CONSAR/Ley del SAR) se había mostrado en chat pero nunca se aplicó al archivo, ya corregido; (2) repetición de "aversión a la pérdida" casi textual en 1.1/1.2/1.3, recortada para que solo 1.2 la explique a fondo; (3) repetición de "contabilidad mental" con el mismo ejemplo en 1.1/1.2, recortada igual; (4) AFC se revelaba parcialmente en 1.3 antes de su presentación formal en 1.4.1, suavizado. Queda pendiente el último paso antes del Capítulo 2: la bibliografía consolidada final (completar fichas de Shefrin, López Rossetti, Tversky & Kahneman, Thaler, Simon, Kahneman & Tversky, Thaler & Sunstein, Shiller, Loewenstein & Lerner, que Billy decidió dejar para el cierre).
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -21,8 +21,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy, punto por punto (1.5.1-1.5.12), el 2026-09-01*
 2. Cierre reflexivo del Capítulo 1 — *aprobado por Billy el 2026-09-01*
-3. Revisión integral del Capítulo 1 completo — **siguiente paso, aún no hecho** (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
-4. Bibliografía consolidada y verificada del Capítulo 1
+3. Revisión integral del Capítulo 1 completo — *hecha el 2026-09-01, hallazgos corregidos (ver arriba)*
+4. Bibliografía consolidada y verificada del Capítulo 1 — **siguiente paso, aún no hecho**
 5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera *(nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
 6. Capítulo 3 — Ikigai y vida financiera con propósito
 7. Capítulo 4 — Pensamientos, creencias y realidad financiera
