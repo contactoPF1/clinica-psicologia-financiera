@@ -4,10 +4,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Estado actual
 
-- **Última actualización:** 2026-08-20
+- **Última actualización:** 2026-09-01
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** Cierre reflexivo del Capítulo 1
-- **Estado de la sección en curso:** `borrador_listo_para_revision` — borrador del cierre reflexivo del Capítulo 1 escrito el 2026-08-20 e insertado en `manuscrito.md` después de 1.5, antes de la bibliografía. Consolida el capítulo en tres desplazamientos de mirada, hace explícito por primera vez el método clínico de seis movimientos (observar, diagnosticar, comprender, intervenir, medir, mantener), declara con honestidad tres límites (el trabajo emocional no sustituye el ingreso; AFC es un modelo propuesto por el autor y aún sin evaluación empírica formal; hay cifras deliberadamente pendientes de verificación) y cierra con la herramienta "hoja de ingreso". No incorpora fuentes nuevas, así que la bibliografía no cambió. Esperando revisión de Billy.
+- **Sección en curso:** Revisión integral del Capítulo 1 completo
+- **Estado de la sección en curso:** `pendiente_de_redactar` — Billy revisó y aprobó el Capítulo 1 completo punto por punto en sesión directa conmigo (Prólogo, 1.1, 1.2, 1.3, 1.4 con sus 8 subapartados, 1.5 con sus 12 bloques ya numerados 1.5.1-1.5.12, y el Cierre reflexivo del Capítulo 1). En el proceso se resolvieron las tres notas de verificación pendientes con fuentes reales (PwC en 1.4.3, ENIF/OCDE-INFE y CONSAR en 1.5), se agregó material nuevo verificado (Díaz-Guerrero y el dinero, terremotos/Venezuela, Akerlof, Scarcity/tunneling, Hershfield, kakeibo/Pennebaker) y se numeraron los bloques de 1.5 (decisión de mantener o quitar esa numeración sigue pendiente para el cierre del libro). Todavía NO se ha hecho la revisión integral formal (progresión, repeticiones, sustento científico, presencia México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor) ni la bibliografía consolidada final. No avanzar a Capítulo 2 hasta completar esos dos pasos.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -19,17 +19,19 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Hoja de ruta (orden a seguir, según memoria del proyecto)
 
-1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy el 2026-08-20*
-2. Cierre reflexivo del Capítulo 1 — *borrador listo para revisión, 2026-08-20*
-3. Revisión integral del Capítulo 1 completo — **siguiente, solo tras aprobación del cierre** (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
+1. 1.5 Importancia de la psicología financiera en el mundo moderno — *aprobada por Billy, punto por punto (1.5.1-1.5.12), el 2026-09-01*
+2. Cierre reflexivo del Capítulo 1 — *aprobado por Billy el 2026-09-01*
+3. Revisión integral del Capítulo 1 completo — **siguiente paso, aún no hecho** (progresión, repeticiones, sustento de afirmaciones científicas, presencia de México/Latam, equilibrio psicología/finanzas, momento de aparición de AFC, voz del autor)
 4. Bibliografía consolidada y verificada del Capítulo 1
-5. Capítulo 2 (Sección 2: Pilares de una vida financiera consciente) — Producción de ingresos
-6. Administración del dinero
-7. Cómo vives con tus deudas
-8. Tu actitud frente al ahorro
-9. Inversión y sus frutos
-10. Integración de los pilares financieros
-11. (continuar según el índice completo en la memoria del proyecto: `project_libro_clinica_estructura.md`)
+5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera *(nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
+6. Capítulo 3 — Ikigai y vida financiera con propósito
+7. Capítulo 4 — Pensamientos, creencias y realidad financiera
+8. Capítulo 5 — Emociones y dinero
+9. Capítulo 6 — Inteligencia emocional y desempeño financiero
+10. Capítulo 7 — Producción de ingresos (inicio de la Sección 2: Pilares de una vida financiera consciente)
+11. (continuar según el índice completo de 25 capítulos en la memoria del proyecto: `project_libro_clinica_estructura.md`)
+
+**Corrección importante (2026-09-01):** una versión anterior de este archivo saltaba directo de "Capítulo 1" a "Producción de ingresos" como si fuera el Capítulo 2. Eso era un error: según el índice real de 25 capítulos (Sección 1: Fundamentos = capítulos 1-6), el verdadero Capítulo 2 es "Consciencia y hábitos: confrontando tu realidad financiera", y "Producción de ingresos" es el Capítulo 7, al inicio de la Sección 2. No saltarse los capítulos 2-6 de la Sección 1.
 
 ## Material flotante (casos de sesión ya desarrollados, pendientes de integrar)
 
