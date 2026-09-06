@@ -10,9 +10,6 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ## Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
 
-**"No podemos medir lo que no documentamos"**
-La disciplina financiera percibida y la disciplina financiera real casi nunca son la misma cosa. Una pareja puede vivir convencida de que administra bien su dinero durante años, hasta el día en que empieza a documentarlo de verdad. No es que antes mintieran; es que la sensación de control y el control real son dos fenómenos distintos, y solo el segundo se puede corregir. "Veo que refleja solo la mitad de la realidad", dijo uno de ellos al ver por primera vez el registro completo de gastos del negocio. Esa frase resume el hallazgo: documentar no es un ejercicio contable, es un ejercicio de honestidad.
-
 **El "gasto fantasma" y la comodidad de no saber**
 Durante meses, un negocio mostró un margen de gasto de apenas 14-17% de lo facturado. No porque fuera eficiente, sino porque gastos reales (insumos, nómina completa) simplemente no se estaban capturando. La ignorancia financiera casi siempre se siente bien a corto plazo: es más cómodo no saber que confrontar el número real. Por eso el diagnóstico financiero honesto casi siempre incomoda antes de aliviar, igual que cualquier diagnóstico clínico serio.
 
