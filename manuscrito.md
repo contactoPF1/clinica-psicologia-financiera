@@ -529,6 +529,28 @@ Vale la pena preguntarte, antes de seguir: si alguien más documentara tu semana
 
 Con esta pregunta abierta, toca ahora ir al otro lado de la misma moneda: por qué, aun sabiendo que documentar ayuda, tantas veces preferimos no hacerlo.
 
+##### 2.2 Por qué evitamos mirar: la comodidad de no saber
+
+*Lo que no se mira, todavía no puede dolerte.*
+
+Hay una razón concreta por la que tantas personas evitan abrir su estado de cuenta, revisar el saldo de la tarjeta después de un mes difícil, o sumar cuánto deben en total. No es pereza, ni siquiera la irresponsabilidad que solemos atribuirle a esa evasión: es una estrategia, aunque nadie la elija conscientemente, para proteger el bienestar emocional inmediato a costa de la claridad financiera futura.
+
+La economía conductual le puso nombre a este patrón: el "efecto avestruz". Karlsson, Loewenstein y Seppi (2009) documentaron algo que cualquier asesor financiero reconoce de inmediato: los inversionistas revisan su portafolio con mucha frecuencia cuando el mercado sube, y dejan de revisarlo casi por completo cuando baja. No es que dejen de importarles sus inversiones; es que buscan activamente información cuando esperan que las noticias sean buenas, y la evitan cuando temen que sean malas. El nombre viene del mito popular de que los avestruces esconden la cabeza en la arena ante el peligro: no es cierto de los avestruces, pero describe con precisión incómoda lo que hacemos con el dinero.
+
+Vimos un ejemplo particularmente claro de esto en un negocio que, durante meses, mostró un margen de gasto de apenas 14% a 17% de lo facturado, una cifra que, de ser real, habría sido excepcional. No lo era. Gastos reales, insumos, nómina completa, simplemente no se estaban capturando en los registros. Nadie mentía deliberadamente; el sistema de captura tenía huecos que nadie se había tomado el trabajo de cerrar, porque cerrarlos habría significado ver un número menos favorable del que todos preferían creer.
+
+La ignorancia financiera casi siempre se siente bien a corto plazo. Es más cómodo sostener la idea vaga de "vamos bien" que confrontar el número exacto que podría contradecirla. Por eso el diagnóstico financiero honesto casi siempre incomoda antes de aliviar, igual que cualquier diagnóstico clínico serio: nadie sale contento de la báscula si venía evitándola, pero el número seguía ahí, ejerciendo su efecto, se mirara o no.
+
+Esto tiene una consecuencia práctica que vale la pena decir con todas sus letras: evitar la información no detiene el problema, solo lo saca de tu campo de visión mientras sigue ocurriendo. Un gasto que no se registra no deja de gastarse. Una deuda que no se revisa no deja de generar intereses. El efecto avestruz no es neutral; tiene un costo compuesto, silencioso, que crece exactamente en la proporción en que dejamos de mirarlo.
+
+**Herramienta: la regla del número más incómodo**
+
+La próxima vez que sientas la tentación de posponer una revisión financiera, "ya la hago después", "no es buen momento", identifica primero cuál es el número específico que más te da pereza o miedo mirar: el saldo total de tus tarjetas, el balance real de tu negocio, cuánto le debes a un familiar. Revísalo primero, antes que cualquier otro, y antes de decidir qué hacer con él. La regla es simple: el número que más evitas suele ser el que más información tiene para darte, precisamente porque tu propia evitación es la señal de que ahí hay algo que merece atención.
+
+¿Cuál es, en este momento, el número financiero que llevas más tiempo evitando mirar de frente?
+
+Documentar y mirar de frente son el primer movimiento, observar. Pero una vez que se mira con honestidad, aparece la siguiente pregunta, más difícil todavía: ¿cómo se cambia lo que ya se vio, sin que el cambio mismo se sienta tan abrumador que termine abandonándose a las dos semanas?
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -595,6 +617,9 @@ Mehrabian, A. (1971). *Silent Messages*. Wadsworth Publishing Company. (Aclaraci
 
 **Fuente verificada e incorporada en 2.1**
 de Zwaan, L., Lee, C., Liu, Y., & Chardon, T. (2017). Overconfidence in Financial Literacy: Implications for Planners. *Financial Planning Research Journal*, 3(2), 31-46. (Hallazgo citado: las personas con menor conocimiento financiero real tienden a sentirse igual o más confiadas sobre su propio conocimiento que quienes sí lo tienen sólido.)
+
+**Fuente verificada e incorporada en 2.2**
+Karlsson, N., Loewenstein, G., & Seppi, D. (2009). The Ostrich Effect: Selective Attention to Information. *Journal of Risk and Uncertainty*, 38(2), 95-115. (Hallazgo citado: los inversionistas revisan su portafolio con más frecuencia cuando el mercado sube, y dejan de revisarlo cuando baja, el "efecto avestruz".)
 Tetaz, M. (2014). *Psychonomics: la economía está en tu mente*. Penguin (Random House Mondadori). (Nota: el manuscrito escribía el título como "Psyconomics", sin la "h"; corregido en el Prólogo. Libro que el autor menciona como origen personal de su interés en psicología financiera.)
 
 *Datos pendientes de verificación señalados dentro del texto de 1.5, aún sin cifras: Encuesta Nacional de Inclusión Financiera (INEGI-CNBV); estudio de la OCDE/INFE sobre competencias financieras de adultos; Ley del SAR, reforma de 1997 y reformas posteriores en aportaciones y semanas de cotización (CONSAR / Diario Oficial de la Federación).*

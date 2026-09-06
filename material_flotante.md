@@ -10,9 +10,6 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ## Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
 
-**El "gasto fantasma" y la comodidad de no saber**
-Durante meses, un negocio mostró un margen de gasto de apenas 14-17% de lo facturado. No porque fuera eficiente, sino porque gastos reales (insumos, nómina completa) simplemente no se estaban capturando. La ignorancia financiera casi siempre se siente bien a corto plazo: es más cómodo no saber que confrontar el número real. Por eso el diagnóstico financiero honesto casi siempre incomoda antes de aliviar, igual que cualquier diagnóstico clínico serio.
-
 **El experimento pequeño como herramienta de cambio** *(alternativa: Capítulo 21, como ejemplo del método AFC en acción)*
 En vez de un corte drástico, una pareja decidió reducir la mesada de sus hijos de forma moderada y explícita, tratándolo como "un experimento" con seguimiento consciente de la reacción, no como un castigo. El cambio de comportamiento financiero sostenible casi siempre necesita dosis pequeñas y observables, no rupturas abruptas. Es el mismo principio detrás de cualquier intervención clínica bien hecha: se ajusta, se observa, se vuelve a ajustar.
 
