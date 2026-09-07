@@ -10,8 +10,7 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ## Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
 
-**La opacidad financiera como pacto familiar silencioso**
-En varias unidades de un mismo negocio familiar aparece el mismo síntoma: cuentas personales y de la empresa mezcladas, nadie lleva un registro básico, y quien está a cargo de los números prefiere "no rascarle más" por miedo a meterse en problemas con la familia. No es incompetencia, es protección colectiva de una ambigüedad que a nadie le conviene resolver del todo, porque resolverla obligaría a nombrar cosas incómodas: quién se está beneficiando de qué, y desde cuándo. La opacidad financiera en las familias casi nunca es accidental; es funcional, mantiene una paz aparente.
+*Sin material pendiente. Todos los pasajes de este capítulo ya fueron integrados al manuscrito (2.1 documentar vs. sentir que se controla; 2.2 gasto fantasma; 2.3 el experimento pequeño; 2.4 números poco confiables en crisis; 2.5 la opacidad financiera como pacto familiar silencioso). Si surge material nuevo de sesiones para este capítulo, agregarlo aquí con el formato habitual.*
 
 ---
 

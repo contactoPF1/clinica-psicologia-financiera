@@ -4,10 +4,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Estado actual
 
-- **Última actualización:** 2026-09-05
+- **Última actualización:** 2026-09-07
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
 - **Sección en curso:** Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
-- **Estado de la sección en curso:** `pendiente_de_redactar` — **El Capítulo 1 está oficialmente cerrado y completo.** Prólogo, 1.1-1.5 (12 bloques numerados), Cierre reflexivo: todo aprobado por Billy. Revisión integral hecha el 2026-09-01 (bug de la nota de pensiones corregido, repeticiones de "aversión a la pérdida" y "contabilidad mental" recortadas, AFC ya no se adelanta en 1.3). Bibliografía consolidada completada el 2026-09-05: las 10 fichas pendientes (Shefrin, López Rosetti, Tversky & Kahneman, Kahneman & Tversky, Thaler, Simon, Thaler & Sunstein, Shiller, Loewenstein & Lerner, Ariely) verificadas contra libros físicos en `Libros Base` o fuentes académicas, encontrando y corrigiendo dos errores: Shefrin estaba citado como 2000 (correcto: 2002) y "López Rossetti" estaba mal escrito con año incorrecto (correcto: López Rosetti, 2017, una sola "s"). **Antes de escribir el Capítulo 2, revisar `material_flotante.md`**: ya tiene 4 pasajes desarrollados para este capítulo (documentar vs. sentir que controlas, gasto fantasma, experimento pequeño, números poco confiables en crisis), integrarlos en vez de partir de cero.
+- **Estado de la sección en curso:** `borrador_listo_para_revision` — **El Capítulo 2 está completo en borrador y espera la revisión de Billy.** Contiene cinco subapartados y un cierre: 2.1 La ilusión del autocontrol (de Zwaan et al., 2017), 2.2 Por qué evitamos mirar (efecto avestruz, Karlsson, Loewenstein y Seppi, 2009), 2.3 Cómo se cambian los hábitos financieros sin romperlo todo de golpe (Clear, kaizen, regla de los dos minutos, bloque papel-vs-digital y bloque del socio corresponsable), 2.4 Cuando la crisis rompe hasta la confianza en tus propios números (indefensión aprendida, Seligman y Maier, 1967) y 2.5 La opacidad financiera como pacto silencioso (Dana, Weber y Kuang, 2007; Darley y Latané, 1968; Tagiuri y Davis, 1996), más el Cierre reflexivo del Capítulo 2, que incluye tres advertencias honestas, la herramienta de la línea base y el puente al Capítulo 3. **Nota de proceso:** 2.1 a 2.4 se escribieron en sesiones previas (5 y 6 de septiembre) sin que este campo se actualizara a `borrador_listo_para_revision`, así que Billy todavía no ha revisado formalmente ninguna parte del capítulo; la revisión pendiente es del capítulo completo, no solo de 2.5. `material_flotante.md` ya no tiene material pendiente del Capítulo 2. El Capítulo 1 sigue cerrado y aprobado (ver historial abajo).
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -23,7 +23,7 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 2. Cierre reflexivo del Capítulo 1 — *aprobado por Billy el 2026-09-01*
 3. Revisión integral del Capítulo 1 completo — *hecha el 2026-09-01, hallazgos corregidos (ver arriba)*
 4. Bibliografía consolidada y verificada del Capítulo 1 — *hecha el 2026-09-05*
-5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — **siguiente paso, aún no hecho** *(revisar `material_flotante.md` primero; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
+5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — *borrador completo (2.1-2.5 y cierre reflexivo) terminado el 2026-09-07, en espera de revisión de Billy* *(material flotante del capítulo ya integrado; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
 6. Capítulo 3 — Ikigai y vida financiera con propósito
 7. Capítulo 4 — Pensamientos, creencias y realidad financiera
 8. Capítulo 5 — Emociones y dinero
