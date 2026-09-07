@@ -581,6 +581,12 @@ Aquí conviene una nota de honestidad, porque circula mucho una cifra que suena 
 
 Un sistema híbrido razonable, entonces, es este: usa el papel, o el kakeibo, para las metas y el presupuesto del mes, donde la fricción y el compromiso emocional importan más; usa la aplicación o la hoja de cálculo para el registro diario y el análisis de patrones, donde la memoria y la exactitud matemática importan más. No es una guerra entre lo análogo y lo digital; es asignarle a cada herramienta la tarea que mejor resuelve.
 
+**El costo social de romper el compromiso**
+
+Hay una tercera pieza que completa el sistema, y tiene que ver no con lo fácil que sea empezar, sino con lo costoso que sea abandonar. James Clear cuenta el caso de Thomas Frank, un emprendedor que programó un tuit automático: si no se despertaba a las 5:55 de la mañana, el mensaje se publicaba solo, ofreciendo pagar 5 dólares por PayPal a quien le respondiera, como penalización pública por no cumplir (Clear, 2018). No necesitó fuerza de voluntad extraordinaria; necesitó que el costo de fallar se volviera público, social, incómodo.
+
+Nos importa mucho lo que los demás piensen de nosotros, y esa es precisamente la palanca detrás de lo que Clear llama un "socio corresponsable" o un "contrato de hábitos": comprometerse con alguien de confianza, por escrito y en voz alta, a una meta financiera concreta, con una consecuencia real, aunque sea simbólica, si no se cumple. No es necesario llegar al extremo de pagarle a un desconocido en internet; basta con decirle a tu pareja, a un amigo o a un familiar "voy a ahorrar tal cantidad este mes, y quiero que me preguntes el día 30 si lo logré". El simple hecho de que alguien más lo sepa, y vaya a preguntar, cambia la ecuación: ya no es una promesa silenciosa que solo tú puedes romper sin testigos.
+
 Con esto, ya sabemos documentar, mirar de frente y cambiar en dosis sostenibles. Pero hay un escenario que pone a prueba los tres movimientos al mismo tiempo: qué pasa cuando la crisis es tan profunda que ni siquiera los propios números, los que se supone deberían ser el territorio más seguro, resultan confiables.
 
 ---
