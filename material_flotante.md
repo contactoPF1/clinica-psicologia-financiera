@@ -10,9 +10,6 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ## Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
 
-**Cuando ni los números son confiables**
-Durante varios meses de una crisis financiera, ni siquiera los intereses de los propios créditos quedaron correctamente registrados en la contabilidad de una familia, no por descuido, sino porque el caos operativo de la reestructura hizo que el dinero se "traspapelara" entre cuentas. Hay una capa de psicología financiera que rara vez se nombra: en las crisis severas no solo se pierde el control del dinero, se pierde también la capacidad de confiar en los propios datos, lo cual alimenta más ansiedad y más parálisis, en un ciclo que se retroalimenta.
-
 **La opacidad financiera como pacto familiar silencioso**
 En varias unidades de un mismo negocio familiar aparece el mismo síntoma: cuentas personales y de la empresa mezcladas, nadie lleva un registro básico, y quien está a cargo de los números prefiere "no rascarle más" por miedo a meterse en problemas con la familia. No es incompetencia, es protección colectiva de una ambigüedad que a nadie le conviene resolver del todo, porque resolverla obligaría a nombrar cosas incómodas: quién se está beneficiando de qué, y desde cuándo. La opacidad financiera en las familias casi nunca es accidental; es funcional, mantiene una paz aparente.
 

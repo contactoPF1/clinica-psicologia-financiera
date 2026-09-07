@@ -589,6 +589,24 @@ Nos importa mucho lo que los demás piensen de nosotros, y esa es precisamente l
 
 Con esto, ya sabemos documentar, mirar de frente y cambiar en dosis sostenibles. Pero hay un escenario que pone a prueba los tres movimientos al mismo tiempo: qué pasa cuando la crisis es tan profunda que ni siquiera los propios números, los que se supone deberían ser el territorio más seguro, resultan confiables.
 
+##### 2.4 Cuando la crisis rompe hasta la confianza en tus propios números
+
+*En una crisis severa, lo primero que se pierde no es el dinero. Es la certeza de que se puede saber cuánto queda.*
+
+Todo lo que hemos construido hasta aquí, documentar (2.1), mirar de frente (2.2), cambiar en dosis pequeñas (2.3), asume algo que casi nunca se dice en voz alta: que los números, una vez registrados, se quedan quietos y confiables. Hay un escenario donde ni siquiera eso es cierto. Durante varios meses de una crisis financiera profunda, una familia descubrió que ni los intereses de sus propios créditos quedaban correctamente registrados en su contabilidad. No por descuido: el caos operativo de una reestructuración hizo que el dinero se "traspapelara" entre cuentas, una y otra vez, a pesar de que todos intentaban llevar el control.
+
+Esto añade una capa de psicología financiera que rara vez se nombra, porque casi toda la conversación sobre finanzas asume que basta con tener la voluntad de mirar. En las crisis severas no solo se pierde el control del dinero: se pierde también la capacidad de confiar en los propios datos. Y esa segunda pérdida es la más peligrosa, porque alimenta un ciclo que se retroalimenta: cada intento fallido de entender la situación real aumenta la ansiedad, la ansiedad reduce todavía más la capacidad de documentar con orden, y ese desorden alimenta el siguiente fallo.
+
+La psicología tiene un nombre para el mecanismo que sostiene este ciclo: la indefensión aprendida. Seligman y Maier (1967) documentaron que, después de experimentar repetidamente que sus acciones no cambiaban el resultado, los sujetos de su estudio dejaban de intentar escapar de una situación adversa, incluso cuando después sí existía una salida disponible. La lección clínica es incómoda pero importante: no es que la persona en crisis se haya vuelto negligente o perezosa con sus finanzas. Es que, después de suficientes intentos fallidos de poner orden en un caos genuino, la mente aprende que intentarlo no sirve, y esa lección se queda instalada incluso cuando la situación cambia y el esfuerzo sí volvería a funcionar.
+
+Esto tiene una implicación financiera concreta y urgente: en este punto, decirle a alguien "solo necesitas ser más disciplinado con tus números" no es solo inútil, es cruel, porque ignora que la persona ya lo intentó, varias veces, y el sistema mismo se lo impidió. La salida no empieza con más disciplina. Empieza con recuperar, aunque sea en una sola área diminuta, la experiencia de que el esfuerzo sí produce un resultado verificable.
+
+**Herramienta: el ancla mínima de control**
+
+Cuando la desconfianza en los propios datos es tan profunda que documentar todo se siente imposible, no lo intentes todo. Elige una sola cifra, la más pequeña y verificable que puedas encontrar, el saldo de una sola cuenta, el monto exacto de un solo pago recurrente, y confírmala hoy, con una sola llamada o una sola revisión. No se trata de resolver la crisis completa; se trata de demostrarle a tu propia mente, con evidencia concreta, que todavía es posible saber algo con certeza. Esa primera cifra confirmada es la grieta por donde vuelve a entrar la confianza; el resto del sistema se reconstruye después, una cifra verificada a la vez.
+
+Si hoy sintieras que ya no puedes confiar en ninguno de tus números, ¿cuál sería la cifra más pequeña y más fácil de verificar con la que podrías empezar a recuperar esa confianza?
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -667,6 +685,9 @@ Askvik, E. O., van der Weel, F. R., & van der Meer, A. L. H. (2020). The Importa
 Miller, G. A. (1956). The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information. *Psychological Review*, 63(2), 81-97.
 Risko, E. F., & Gilbert, S. J. (2016). Cognitive Offloading. *Trends in Cognitive Sciences*, 20(9), 676-688.
 Matthews, G. (2015). *Goal Research Summary*. Dominican University of California. (Nota de rigor: estudio real con 267 participantes, pero nunca publicado en una revista científica arbitrada; solo presentado en conferencia y difundido por comunicado de prensa. La cifra de "42% más de probabilidad" citada ampliamente en internet no tiene el respaldo peer-reviewed que aparenta. Incorporado en 2.3 con esta advertencia explícita.)
+
+**Fuente verificada e incorporada en 2.4**
+Seligman, M. E. P., & Maier, S. F. (1967). Failure to Escape Traumatic Shock. *Journal of Experimental Psychology*, 74(1), 1-9. (Estudio fundacional sobre la indefensión aprendida.)
 Tetaz, M. (2014). *Psychonomics: la economía está en tu mente*. Penguin (Random House Mondadori). (Nota: el manuscrito escribía el título como "Psyconomics", sin la "h"; corregido en el Prólogo. Libro que el autor menciona como origen personal de su interés en psicología financiera.)
 
 *Datos pendientes de verificación señalados dentro del texto de 1.5, aún sin cifras: Encuesta Nacional de Inclusión Financiera (INEGI-CNBV); estudio de la OCDE/INFE sobre competencias financieras de adultos; Ley del SAR, reforma de 1997 y reformas posteriores en aportaciones y semanas de cotización (CONSAR / Diario Oficial de la Federación).*
