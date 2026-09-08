@@ -4,10 +4,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Estado actual
 
-- **Última actualización:** 2026-09-07
+- **Última actualización:** 2026-09-08
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** Revisión integral del Capítulo 2 completo
-- **Estado de la sección en curso:** `pendiente_de_redactar` — **El Capítulo 2 está terminado y aprobado por Billy, en vivo, sección por sección.** Contiene 2.1 La ilusión del autocontrol (de Zwaan et al., 2017), 2.2 Por qué evitamos mirar (efecto avestruz, Karlsson, Loewenstein y Seppi, 2009), 2.3 Cómo se cambian los hábitos financieros sin romperlo todo de golpe (Clear, kaizen, dos minutos, papel-vs-digital, socio corresponsable), 2.4 Cuando la crisis rompe hasta la confianza en tus propios números (indefensión aprendida, Seligman y Maier, 1967), 2.5 El sistema completo: de la observación al hábito (síntesis + Lally et al., 2010, sobre los 66 días para formar un hábito), y el Cierre reflexivo del Capítulo 2 (tres desplazamientos, tres advertencias, observación personal con la frase de Tim Maurer verificada, herramienta de la línea base, reflexión y puente al Capítulo 3). Falta, igual que se hizo con el Capítulo 1, la revisión integral formal (progresión, repeticiones, sustento científico, presencia México/Latam, voz del autor) antes de dar por cerrado el capítulo y pasar al 3. La rutina automática puede retomar su función normal para el Capítulo 3 en adelante; ya no hay riesgo de colisión con esta sesión sobre el Capítulo 2.
+- **Sección en curso:** Bibliografía consolidada y verificada del Capítulo 2
+- **Estado de la sección en curso:** `pendiente_de_redactar` — **La revisión integral del Capítulo 2 ya se hizo el 2026-09-07** (hallazgos pospuestos por decisión de Billy al corte final del libro, ver sección de pendientes abajo), pero el campo de estado se quedó sin actualizar. Se cierra ese punto y se avanza al siguiente paso real de la hoja de ruta: consolidar y verificar la bibliografía del Capítulo 2, revisando que cada fuente citada en 2.1-2.5 y en el Cierre reflexivo tenga su ficha completa, correcta y con la nota de rigor que corresponda. No se escribe contenido narrativo nuevo del capítulo en este paso.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
