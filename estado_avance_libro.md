@@ -6,8 +6,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 - **Última actualización:** 2026-09-07
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** Capítulo 2 — Consciencia y hábitos: confrontando tu realidad financiera
-- **Estado de la sección en curso:** `cambios_solicitados` — **ATENCIÓN RUTINA AUTOMÁTICA: NO ESCRIBIR NADA EN ESTE CAPÍTULO NI EN 2.5 NI EN EL CIERRE REFLEXIVO.** Billy está co-escribiendo el Capítulo 2 en vivo, en sesión directa, en este momento (7 de septiembre). 2.1 a 2.4 ya están aprobados (La ilusión del autocontrol; Por qué evitamos mirar; Cómo se cambian los hábitos financieros sin romperlo todo de golpe; Cuando la crisis rompe hasta la confianza en tus propios números). 2.5 también está aprobado, pero su tema real es **"El sistema completo: de la observación al hábito"** (síntesis de las cuatro herramientas + estudio de Lally et al. 2010 sobre los 66 días para formar un hábito), no opacidad financiera. El Cierre reflexivo del Capítulo 2 todavía no existe y se está escribiendo en vivo con Billy ahora mismo. **Incidente registrado (2026-09-07):** una corrida anterior de esta rutina escribió, sin supervisión en vivo, un 2.5 sobre "opacidad financiera" y un Cierre reflexivo completo, mientras Billy trabajaba en su propia versión de 2.5 en sesión directa. Billy decidió conservar su propia versión; el contenido de opacidad (con fuentes Dana/Weber/Kuang 2007, Darley/Latané 1968, Tagiuri/Davis 1996) se rescató y vive ahora en `material_flotante.md`, Capítulo 15, para no perderse. **Lección para la rutina:** cuando el campo de este archivo no refleje con certeza que no hay trabajo en vivo en curso, preferir no avanzar y esperar a la próxima corrida, en vez de redactar contenido nuevo para un capítulo que podría estar en edición activa.
+- **Sección en curso:** Revisión integral del Capítulo 2 completo
+- **Estado de la sección en curso:** `pendiente_de_redactar` — **El Capítulo 2 está terminado y aprobado por Billy, en vivo, sección por sección.** Contiene 2.1 La ilusión del autocontrol (de Zwaan et al., 2017), 2.2 Por qué evitamos mirar (efecto avestruz, Karlsson, Loewenstein y Seppi, 2009), 2.3 Cómo se cambian los hábitos financieros sin romperlo todo de golpe (Clear, kaizen, dos minutos, papel-vs-digital, socio corresponsable), 2.4 Cuando la crisis rompe hasta la confianza en tus propios números (indefensión aprendida, Seligman y Maier, 1967), 2.5 El sistema completo: de la observación al hábito (síntesis + Lally et al., 2010, sobre los 66 días para formar un hábito), y el Cierre reflexivo del Capítulo 2 (tres desplazamientos, tres advertencias, observación personal con la frase de Tim Maurer verificada, herramienta de la línea base, reflexión y puente al Capítulo 3). Falta, igual que se hizo con el Capítulo 1, la revisión integral formal (progresión, repeticiones, sustento científico, presencia México/Latam, voz del autor) antes de dar por cerrado el capítulo y pasar al 3. La rutina automática puede retomar su función normal para el Capítulo 3 en adelante; ya no hay riesgo de colisión con esta sesión sobre el Capítulo 2.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -23,13 +23,15 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 2. Cierre reflexivo del Capítulo 1 — *aprobado por Billy el 2026-09-01*
 3. Revisión integral del Capítulo 1 completo — *hecha el 2026-09-01, hallazgos corregidos (ver arriba)*
 4. Bibliografía consolidada y verificada del Capítulo 1 — *hecha el 2026-09-05*
-5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — *borrador completo (2.1-2.5 y cierre reflexivo) terminado el 2026-09-07, en espera de revisión de Billy* *(material flotante del capítulo ya integrado; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
-6. Capítulo 3 — Ikigai y vida financiera con propósito
-7. Capítulo 4 — Pensamientos, creencias y realidad financiera
-8. Capítulo 5 — Emociones y dinero
-9. Capítulo 6 — Inteligencia emocional y desempeño financiero
-10. Capítulo 7 — Producción de ingresos (inicio de la Sección 2: Pilares de una vida financiera consciente)
-11. (continuar según el índice completo de 25 capítulos en la memoria del proyecto: `project_libro_clinica_estructura.md`)
+5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — *aprobado por Billy en vivo, sección por sección, el 2026-09-07 (2.1-2.5 y Cierre reflexivo)* *(material flotante del capítulo ya integrado; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
+6. Revisión integral del Capítulo 2 completo — **siguiente paso, aún no hecho**
+7. Bibliografía consolidada y verificada del Capítulo 2 (ya casi completa; revisar que no falten fichas)
+8. Capítulo 3 — Ikigai y vida financiera con propósito
+9. Capítulo 4 — Pensamientos, creencias y realidad financiera
+10. Capítulo 5 — Emociones y dinero
+11. Capítulo 6 — Inteligencia emocional y desempeño financiero
+12. Capítulo 7 — Producción de ingresos (inicio de la Sección 2: Pilares de una vida financiera consciente)
+13. (continuar según el índice completo de 25 capítulos en la memoria del proyecto: `project_libro_clinica_estructura.md`)
 
 **Corrección importante (2026-09-01):** una versión anterior de este archivo saltaba directo de "Capítulo 1" a "Producción de ingresos" como si fuera el Capítulo 2. Eso era un error: según el índice real de 25 capítulos (Sección 1: Fundamentos = capítulos 1-6), el verdadero Capítulo 2 es "Consciencia y hábitos: confrontando tu realidad financiera", y "Producción de ingresos" es el Capítulo 7, al inicio de la Sección 2. No saltarse los capítulos 2-6 de la Sección 1.
 
