@@ -627,6 +627,46 @@ Y aquí quiero ser honesto contigo sobre algo que sostiene todo este capítulo p
 
 De las cuatro piezas de este capítulo, documentar, mirar de frente, cambiar en dosis pequeñas, sostener un ancla mínima en crisis, ¿cuál te cuesta más a ti específicamente? Esa, y no las otras tres, es probablemente la que más vale la pena empezar a practicar esta semana.
 
+#### Cierre reflexivo del Capítulo 2
+
+*Una radiografía no cura nada tampoco. Pero después de verla, ya no puedes fingir que no sabías.*
+
+Este capítulo fue exactamente eso: la radiografía. Empezamos preguntando si sentir que tienes control es lo mismo que tenerlo (casi nunca lo es), seguimos con las razones por las que preferimos no mirar aunque sepamos que deberíamos, pasamos por cómo se cambia un hábito sin que el esfuerzo lo mate a las dos semanas, revisamos qué pasa cuando ni los propios números son confiables, y cerramos integrando todo eso en un solo sistema semanal. Si el Capítulo 1 te dio el lenguaje para entender por qué decides como decides, este capítulo te dio la herramienta para empezar a mirarte a ti mismo con ese lenguaje.
+
+**Tres desplazamientos, otra vez**
+
+El primero es de sentir a saber. Empezamos el capítulo con una pregunta incómoda: la sensación de tener control financiero y el control financiero real casi nunca coinciden, y la única forma de saber en cuál de los dos estás parado es documentar, sin editar. Lo que sientes sobre tu dinero es información sobre ti mismo; lo que documentas sobre tu dinero es información sobre tu dinero. Las dos importan, pero no son intercambiables.
+
+El segundo es de evitar a mirar. Descubrimos que no mirar los números no es pereza ni irresponsabilidad: es una estrategia emocional, tan antigua como el instinto de cerrar los ojos ante algo que asusta. El problema es que el dinero, a diferencia de lo que se puede evitar mirando hacia otro lado, sigue moviéndose exista o no el registro que lo documenta.
+
+El tercero es de la perfección a la sostenibilidad. Un sistema que exige perfección se rompe en la primera semana mala, y las semanas malas son, estadísticamente, la mayoría. Un sistema diseñado para sobrevivir al fracaso ocasional, en cambio, tiene una oportunidad real de convertirse en algo automático, aunque tarde meses en lograrlo.
+
+**Lo que este capítulo no resolvió**
+
+Otra vez, tres advertencias honestas.
+
+La primera: documentar tu realidad financiera no fabrica dinero que no existe. Si terminas este capítulo con un registro impecable y sigues sin llegar a fin de mes, no fallaste en nada; hiciste bien tu parte, y el problema que queda por resolver pertenece a otro terreno, el de cuánto produces, que veremos más adelante en el libro.
+
+La segunda: los casos de este capítulo son ilustraciones clínicas compuestas, no evidencia científica. Están anonimizados y modificados deliberadamente para proteger a las personas reales detrás de ellos. Lo único que se conserva intacto son los mecanismos psicológicos y las frases dichas en sesión, porque ahí está el valor real del caso.
+
+La tercera: nada de este capítulo se escribió como acusación. Si al leer sobre la ilusión del autocontrol o el efecto avestruz reconociste algo tuyo, la lectura correcta no es "he sido negligente todo este tiempo", es "ahora entiendo el mecanismo que me tenía atrapado". La vergüenza no documenta nada; solo esconde.
+
+**Una observación personal, no un dato**
+
+En estos años he confirmado algo una y otra vez, y cada vez me sorprende más: el bienestar financiero de alguien nunca depende del método que use, depende de la persona que lo usa. He visto a alguien lograr calma financiera real con sobres de efectivo etiquetados a mano, y he visto a otra persona lograr exactamente la misma calma con una hoja de cálculo minuciosa, y a una tercera con una aplicación que ni siquiera revisa a diario, solo confía en ella. Ninguno de los tres métodos es superior a los otros en abstracto. El único método que de verdad funciona es el que la propia persona elige, no el que copia del vecino, no el que le recomendó su cuñado exitoso, no el que este libro te sugiera si a ti no te resuena. El asesor financiero Tim Maurer lo dijo mejor de lo que yo podría decirlo, en un artículo de 2011 que se volvió, con razón, una de las frases más citadas de las finanzas conductuales: las finanzas personales son más personales que finanzas. Yo llevo años repitiéndola en consulta, y cada año la encuentro más cierta.
+
+**Herramienta de cierre: tu línea base**
+
+Antes de pasar al siguiente capítulo, escribe en una sola hoja, con la fecha de hoy, tres datos y nada más: cuánto ingresó el último mes completo, cuánto salió, y cuál es tu deuda total en este momento. No los interpretes, no los justifiques. Tres cifras y una fecha. Guarda esta hoja junto a la que escribiste al cerrar el Capítulo 1; entre las dos ya empiezan a formar tu expediente real.
+
+**Reflexión**
+
+Si observar es el primer movimiento de la clínica, la pregunta que se abre ahora es inevitable: observar, ¿para qué? Documentar sin una razón que valga la pena se convierte, en pocas semanas, en un trámite más, y los trámites se abandonan.
+
+**Puente**
+
+Por eso el capítulo que sigue no habla de números. Habla de propósito, de esa palabra japonesa, ikigai, que responde a la pregunta que este capítulo entero estuvo rodeando sin formular: ¿para qué quieres, en el fondo, el dinero que tanto trabajo te está costando empezar a mirar de frente?
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -712,6 +752,9 @@ Tetaz, M. (2014). *Psychonomics: la economía está en tu mente*. Penguin (Rando
 
 **Fuente verificada e incorporada en 2.5**
 Lally, P., van Jaarsveld, C. H. M., Potts, H. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, 40(6), 998-1009. (Hallazgo citado: el promedio real para formar un hábito es de 66 días, con un rango de 18 a 254 días, desmintiendo el mito popular de los "21 días".)
+
+**Fuente verificada e incorporada en el Cierre reflexivo del Capítulo 2**
+Maurer, T. (2011, 7 de diciembre). Personal Finance Is More Personal Than It Is Finance. *Forbes*. (Origen de la frase "las finanzas personales son más personales que finanzas", citada en el cierre del capítulo.)
 
 *Datos pendientes de verificación señalados dentro del texto de 1.5, aún sin cifras: Encuesta Nacional de Inclusión Financiera (INEGI-CNBV); estudio de la OCDE/INFE sobre competencias financieras de adultos; Ley del SAR, reforma de 1997 y reformas posteriores en aportaciones y semanas de cotización (CONSAR / Diario Oficial de la Federación).*
 
