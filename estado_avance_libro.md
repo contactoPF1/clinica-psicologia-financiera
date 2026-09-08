@@ -24,8 +24,8 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 3. Revisión integral del Capítulo 1 completo — *hecha el 2026-09-01, hallazgos corregidos (ver arriba)*
 4. Bibliografía consolidada y verificada del Capítulo 1 — *hecha el 2026-09-05*
 5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — *aprobado por Billy en vivo, sección por sección, el 2026-09-07 (2.1-2.5 y Cierre reflexivo)* *(material flotante del capítulo ya integrado; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
-6. Revisión integral del Capítulo 2 completo — **siguiente paso, aún no hecho**
-7. Bibliografía consolidada y verificada del Capítulo 2 (ya casi completa; revisar que no falten fichas)
+6. Revisión integral del Capítulo 2 completo — *hecha el 2026-09-07; hallazgos pospuestos al corte final del libro (ver sección de pendientes arriba), no se corrigieron ahora por decisión de Billy*
+7. Bibliografía consolidada y verificada del Capítulo 2 (ya casi completa; revisar que no falten fichas) — **siguiente paso**
 8. Capítulo 3 — Ikigai y vida financiera con propósito
 9. Capítulo 4 — Pensamientos, creencias y realidad financiera
 10. Capítulo 5 — Emociones y dinero
@@ -34,6 +34,12 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 13. (continuar según el índice completo de 25 capítulos en la memoria del proyecto: `project_libro_clinica_estructura.md`)
 
 **Corrección importante (2026-09-01):** una versión anterior de este archivo saltaba directo de "Capítulo 1" a "Producción de ingresos" como si fuera el Capítulo 2. Eso era un error: según el índice real de 25 capítulos (Sección 1: Fundamentos = capítulos 1-6), el verdadero Capítulo 2 es "Consciencia y hábitos: confrontando tu realidad financiera", y "Producción de ingresos" es el Capítulo 7, al inicio de la Sección 2. No saltarse los capítulos 2-6 de la Sección 1.
+
+## Pendientes para el corte final del libro (no atender ahora, solo no perderlos)
+
+Hallazgos de revisiones integrales que Billy decidió posponer hasta la revisión completa de cierre del libro, no corregir capítulo por capítulo:
+
+- **Capítulo 2 (revisión integral hecha el 2026-09-07):** (a) el capítulo tiene poco anclaje explícito a México/Latinoamérica comparado con el Capítulo 1 (los casos de 2.1-2.4 son genéricos sin geografía, y el único ejemplo con nombre propio, Thomas Frank en 2.3, es estadounidense); considerar agregar un ejemplo o dato regional. (b) la voz en primera persona del autor está concentrada casi toda en 2.5 y el Cierre reflexivo, distinto al Capítulo 1 donde estaba distribuida a lo largo de todo el capítulo. (c) en 2.3, solo el primer bloque de herramienta lleva el prefijo "Herramienta:" ("la regla de los dos minutos"); los otros dos ("Papel o pantalla...", "El costo social...") no lo llevan, inconsistencia de formato menor.
 
 ## Material flotante (casos de sesión ya desarrollados, pendientes de integrar)
 
