@@ -669,6 +669,20 @@ Por eso el capítulo que sigue no habla de números. Habla de propósito, de esa
 
 ---
 
+### Capítulo 3. Ikigai y vida financiera con propósito
+
+##### 3.1 Qué es realmente el ikigai (y qué no)
+
+Seguramente has visto el diagrama: cuatro círculos que se sobreponen, "lo que amas", "en lo que eres bueno", "lo que el mundo necesita" y "por lo que te pueden pagar", con la palabra ikigai justo en el centro, donde los cuatro se cruzan. Se presenta casi siempre como una antigua sabiduría japonesa sobre el propósito de vida. Vale la pena, antes de construir un capítulo entero sobre este concepto, saber de dónde viene realmente, porque la historia real es más interesante, y más útil, que la versión que circula en redes.
+
+La palabra ikigai sí es japonesa, y sí es antigua: su rastro se remonta al periodo Heian, entre los años 794 y 1185. El primer trabajo académico serio sobre el concepto lo escribió la psiquiatra japonesa Mieko Kamiya en 1966, en un libro llamado *Ikigai-ni-tsuite* ("Sobre el ikigai"), basado en entrevistas con pacientes de lepra, personas para quienes el sentido de vida tenía que sostenerse en circunstancias devastadoras, muy lejos de cualquier conversación sobre carrera profesional. Para Kamiya, y para la tradición japonesa en general, el ikigai puede encontrarse en una relación, en un pasatiempo, en un ritual cotidiano o en un momento pequeño de alegría. No necesita, ni remotamente, conectarse con un ingreso.
+
+El diagrama de los cuatro círculos tiene un origen completamente distinto y mucho más reciente. En 2011, el autor español Andrés Zuzunaga creó un "diagrama del propósito" con cuatro círculos, pasión, misión, vocación y profesión, que apareció publicado por primera vez en un libro de Borja Vilaseca en 2012. En 2014, un consultor inglés llamado Marc Winn vio una charla TED del explorador Dan Buettner sobre las Zonas Azules y la longevidad en Okinawa, donde se mencionaba la palabra ikigai. Winn tomó el diagrama de Zuzunaga, cambió la palabra "propósito" por "ikigai", y publicó la idea en su blog. Le tomó, según él mismo ha contado, unos cuarenta y cinco minutos. El diagrama se volvió viral, y lo han visto decenas de millones de personas desde entonces. El propio Winn, en una publicación posterior titulada "Meme seeding" ("sembrando un meme"), reconoció que no tenía un conocimiento profundo de la cultura japonesa cuando lo creó, y aclaró que su diagrama no captura el significado japonés original. Años más tarde, el bestseller internacional *Ikigai: los secretos de Japón para una vida larga y feliz*, de Héctor García y Francesc Miralles (2016), terminó de popularizar el concepto en todo el mundo, aunque incluso ese libro matiza que la vida con sentido no depende de encontrar el trabajo perfecto.
+
+Nada de esto significa que el diagrama sea inútil, ni que este capítulo lo vaya a descartar. Significa que hay que usarlo con honestidad: no como una fórmula japonesa milenaria para encontrar el trabajo ideal que además te pague bien, sino como una herramienta occidental, moderna, útil para pensar, que conviene distinguir de la idea japonesa real, más modesta y, en el fondo, más generosa. Y esa distinción tiene una consecuencia directa para este libro: tu ikigai, lo que hace que tu vida valga la pena vivirse, no tiene que ser también la fuente de tu ingreso. Puedes amar la pintura y nunca venderla, y aun así vivir una vida financiera con propósito. Lo que este capítulo va a explorar no es cómo monetizar tu pasión, sino algo distinto y, para muchos lectores, más liberador: para qué quieres el dinero que ya trabajas tanto por conseguir.
+
+---
+
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
 
 **Referencia principal (obra completa)**
@@ -702,6 +716,12 @@ Hershfield, H. E., Goldstein, D. G., Sharpe, W. F., Fox, J., Yeykelis, L., Carst
 Pennebaker, J. W. (1986). Confiding traumatic experiences and health. En la línea de investigación iniciada por este estudio (Universidad de Texas en Austin), sobre escritura expresiva y su efecto en la salud física y psicológica. Incorporado en 1.5.
 
 Motoko, H. (1904). Origen del kakeibo (método japonés de contabilidad doméstica). Popularizado en años recientes por Chiba, F. *Kakebo: El arte japonés de ahorrar dinero*. Incorporado en 1.5.
+
+**Fuentes incorporadas en 3.1 (origen real y origen popular del ikigai)**
+Kamiya, M. (1966). *Ikigai-ni-tsuite* [Sobre el ikigai]. Misuzu Shobo. (Primer trabajo académico/psiquiátrico sobre el concepto, basado en entrevistas con pacientes de lepra; establece el ikigai como sentido de vida no ligado a la carrera o el ingreso. Incorporado en 3.1.)
+Zuzunaga, A. (2011). Diagrama del propósito (pasión, misión, vocación, profesión). Publicado por primera vez en Vilaseca, B. (2012). *Encontrar tu camino*. Alienta. (Origen del diagrama de los cuatro círculos, sin relación con la palabra ikigai en su formulación original. Incorporado en 3.1.)
+Winn, M. (2014). "Purpose at work" y "Meme seeding" [entradas de blog]. TheViewInside.co.uk (Blog de Marc Winn). (Winn fusionó el diagrama de Zuzunaga con la charla TED de Dan Buettner sobre Okinawa, sustituyendo "propósito" por "ikigai"; en "Meme seeding" reconoce que el diagrama no captura el significado japonés original. Incorporado en 3.1.)
+García, H., & Miralles, F. (2016). *Ikigai: los secretos de Japón para una vida larga y feliz*. Urano. (Bestseller que popularizó internacionalmente el concepto. Incorporado en 3.1.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 

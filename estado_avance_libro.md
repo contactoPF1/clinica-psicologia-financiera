@@ -4,10 +4,10 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 
 ## Estado actual
 
-- **Última actualización:** 2026-09-07
+- **Última actualización:** 2026-09-12
 - **Manuscrito de trabajo:** `manuscrito.md` (este repositorio)
-- **Sección en curso:** Revisión integral del Capítulo 2 completo
-- **Estado de la sección en curso:** `pendiente_de_redactar` — **El Capítulo 2 está terminado y aprobado por Billy, en vivo, sección por sección.** Contiene 2.1 La ilusión del autocontrol (de Zwaan et al., 2017), 2.2 Por qué evitamos mirar (efecto avestruz, Karlsson, Loewenstein y Seppi, 2009), 2.3 Cómo se cambian los hábitos financieros sin romperlo todo de golpe (Clear, kaizen, dos minutos, papel-vs-digital, socio corresponsable), 2.4 Cuando la crisis rompe hasta la confianza en tus propios números (indefensión aprendida, Seligman y Maier, 1967), 2.5 El sistema completo: de la observación al hábito (síntesis + Lally et al., 2010, sobre los 66 días para formar un hábito), y el Cierre reflexivo del Capítulo 2 (tres desplazamientos, tres advertencias, observación personal con la frase de Tim Maurer verificada, herramienta de la línea base, reflexión y puente al Capítulo 3). Falta, igual que se hizo con el Capítulo 1, la revisión integral formal (progresión, repeticiones, sustento científico, presencia México/Latam, voz del autor) antes de dar por cerrado el capítulo y pasar al 3. La rutina automática puede retomar su función normal para el Capítulo 3 en adelante; ya no hay riesgo de colisión con esta sesión sobre el Capítulo 2.
+- **Sección en curso:** Capítulo 3 — Ikigai y vida financiera con propósito — 3.1 Qué es realmente el ikigai (y qué no)
+- **Estado de la sección en curso:** `borrador_listo_para_revision` — 3.1 ya está escrita en `manuscrito.md` y su bibliografía (Kamiya 1966, Zuzunaga 2011/Vilaseca 2012, Winn 2014, García & Miralles 2016) ya está en la sección de BIBLIOGRAFÍA. Distingue el origen académico/real del ikigai (Kamiya, sin relación con el ingreso) del diagrama popular de los cuatro círculos (invención occidental de Zuzunaga/Winn, no japonesa), siguiendo el patrón del libro de desmentir mitos populares antes de usar un concepto constructivamente. Sección redactada en vivo con Billy; **ATENCIÓN RUTINA AUTOMÁTICA: no redactar nada nuevo de 3.1 en adelante hasta que Billy confirme aprobación y este campo cambie a `aprobado`** — sesión en vivo en curso sobre el Capítulo 3.
 - **Modo de avance:** espera aprobación explícita del usuario entre secciones. No redactar la siguiente sección hasta que el estado de la actual sea `aprobado`.
 
 ## Valores posibles del campo "Estado de la sección en curso"
@@ -26,7 +26,7 @@ Este archivo lo usa la rutina automática diaria para saber qué sección redact
 5. Capítulo 2 (Sección 1: Fundamentos) — Consciencia y hábitos: confrontando tu realidad financiera — *aprobado por Billy en vivo, sección por sección, el 2026-09-07 (2.1-2.5 y Cierre reflexivo)* *(material flotante del capítulo ya integrado; nota: el índice completo tiene 25 capítulos en 6 secciones; el Capítulo 2 real es este, no "Producción de ingresos" — ver corrección abajo)*
 6. Revisión integral del Capítulo 2 completo — *hecha el 2026-09-07; hallazgos pospuestos al corte final del libro (ver sección de pendientes arriba), no se corrigieron ahora por decisión de Billy*
 7. Bibliografía consolidada y verificada del Capítulo 2 (ya casi completa; revisar que no falten fichas) — **siguiente paso**
-8. Capítulo 3 — Ikigai y vida financiera con propósito
+8. Capítulo 3 — Ikigai y vida financiera con propósito — **en curso: 3.1 escrita el 2026-09-12, pendiente de aprobación de Billy; faltan 3.2, 3.3, 3.4, 3.5 y Cierre reflexivo**
 9. Capítulo 4 — Pensamientos, creencias y realidad financiera
 10. Capítulo 5 — Emociones y dinero
 11. Capítulo 6 — Inteligencia emocional y desempeño financiero
