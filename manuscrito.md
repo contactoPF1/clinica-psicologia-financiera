@@ -811,6 +811,46 @@ Si tu obstáculo actual es la procrastinación, el ejercicio es un plan si-enton
 
 Con esto, el capítulo ya te dio lo que puede darte: un propósito verificado, distinguido de sus imitaciones, y un mapa de los ocho estados por los que probablemente vas a pasar más de una vez en el camino hacia él. Lo que falta es cerrar el capítulo como cerramos el anterior, con una mirada hacia atrás, honesta sobre lo que este capítulo no resuelve, y hacia adelante, hacia lo que sigue.
 
+#### Cierre reflexivo del Capítulo 3
+
+*Saber para qué quieres el dinero no lo hace aparecer. Pero deja de administrarte por inercia lo que sí tienes.*
+
+Este capítulo empezó desmontando un mito, siguió explicando por qué el dinero sin razón propia se siente como trámite, te dio una definición precisa de propósito y una forma de encontrarlo, te enseñó a distinguirlo de la meta específica que puede fallar sin que el propósito muera con ella, y cerró con un mapa de por qué, aun con todo claro, tantas personas se quedan atoradas antes de actuar. Si el Capítulo 1 te dio el lenguaje y el Capítulo 2 te dio el sistema para mirarte con honestidad, este capítulo te dio la razón por la que valdría la pena seguir mirando.
+
+**Tres desplazamientos, otra vez**
+
+El primero es de la fórmula prestada al propósito propio. Empezamos quitándote un diagrama que probablemente ya conocías, cuatro círculos que prometían una fórmula universal, y terminamos con algo menos vistoso pero más tuyo: una definición de propósito que no exige que tu pasión también sea tu forma de ganarte la vida.
+
+El segundo es del deseo vago a la razón nombrada. "Quiero tranquilidad financiera" y "quiero tener la libertad de cerrar mi negocio tres meses al año para viajar con mi hermana mientras las dos podamos caminar bien" no son la misma frase, aunque la primera suene a la versión resumida de la segunda. Solo la segunda sostiene una meta cuando la meta específica falla.
+
+El tercero es de entenderlo a activarlo. Puedes terminar este capítulo con una claridad total sobre tu propósito y seguir sin moverte ni un paso, porque entender y actuar viven en partes distintas de la mente. Por eso el capítulo no termina en 3.4, con el propósito ya definido; termina en 3.5, con un mecanismo concreto para cruzar la procrastinación que casi siempre se interpone entre los dos.
+
+**Lo que este capítulo no resolvió**
+
+Tres advertencias honestas, otra vez.
+
+La primera: este capítulo trató tu propósito financiero como algo que se descubre y se decide en soledad. Para muchas personas no es así: el dinero se comparte con una pareja, con una familia, y el propósito de uno no siempre coincide con el propósito del otro. Qué hacer cuando dos propósitos legítimos compiten por el mismo ingreso es una conversación que este libro todavía no ha tenido.
+
+La segunda: en 3.4 fuimos explícitos en que, cuando la brecha entre propósito e ingreso es estructural, ningún ejercicio de autoconocimiento la cierra. Ese sigue siendo el caso. Lo que este capítulo ofrece es dirección y sentido mientras esa brecha se resuelve por otro lado, en el terreno de cuánto produces, que este libro todavía tiene pendiente.
+
+La tercera: los ejercicios de este capítulo, las tres preguntas, las tres rutas, el plan si-entonces, asumen que hacerlos una vez es suficiente para que el patrón cambie. No siempre lo es. Si terminas este capítulo y tu propósito sigue sintiéndose borroso, o si llevas más de una vuelta completa por la espiral del Modelo de Cambio Personal sin lograr cruzarla, eso no es una falla tuya ni del ejercicio; es, con frecuencia, una señal de que vale la pena acompañar ese trabajo con ayuda profesional, no solo con un libro.
+
+**Una observación personal, no un dato**
+
+Más allá de las creencias, te vas a topar con algo todavía más profundo: una realidad que es solamente tuya, que no se parece a la de ninguna otra persona, por más similitudes que a veces encuentres. Ahí, en esa realidad que nadie más habita exactamente igual que tú, es donde tu intuición, tu esencia y tu identidad entran a jugar su parte, de manera coyuntural, para que las cosas que tienen que suceder, sucedan, y para que construyas el futuro financiero que quieres. Y, casi como por ósmosis, al construir el tuyo, construyes también el de quienes te rodean. Por eso, entrégate al proceso de hacer las cosas bien, aunque no estés del todo seguro, o segura, del resultado. Solo entrégate.
+
+**Herramienta de cierre: tu propósito, en una hoja**
+
+Antes de pasar al siguiente capítulo, reúne en una sola hoja cuatro cosas que ya construiste: tu propósito financiero en una frase (3.3), la ruta que elegiste intentar primero (3.4), tu plan si-entonces para cruzar la procrastinación (3.5), y el estado de la espiral en el que te encuentras hoy. Guarda esta hoja junto a las que escribiste al cerrar los capítulos 1 y 2. Ya llevas tres.
+
+**Reflexión**
+
+Ahora que tienes un propósito nombrado y un mecanismo para moverte hacia él, ¿qué es lo que de verdad crees sobre el dinero que podría estar saboteando ese movimiento sin que lo hayas notado todavía?
+
+**Puente**
+
+Esa pregunta abre el siguiente capítulo. Puedes tener el propósito más claro del mundo y un plan si-entonces perfectamente diseñado, y aun así no moverte, no porque falte voluntad ni dirección, sino porque una creencia instalada hace años, "el dinero es sucio", "no soy bueno para esto", "en mi familia nunca hubo abundancia", decide por ti antes de que la decisión llegue a ser consciente. De esas creencias, de dónde vienen y cómo se transforman, trata el capítulo que sigue.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
