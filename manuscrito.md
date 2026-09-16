@@ -851,8 +851,6 @@ Ahora que tienes un propósito nombrado y un mecanismo para moverte hacia él, �
 
 Esa pregunta abre el siguiente capítulo. Puedes tener el propósito más claro del mundo y un plan si-entonces perfectamente diseñado, y aun así no moverte, no porque falte voluntad ni dirección, sino porque una creencia instalada hace años, "el dinero es sucio", "no soy bueno para esto", "en mi familia nunca hubo abundancia", decide por ti antes de que la decisión llegue a ser consciente. De esas creencias, de dónde vienen y cómo se transforman, trata el capítulo que sigue.
 
----
-
 ### Capítulo 4. Pensamientos, creencias y realidad financiera
 
 ##### 4.1 Una creencia no es una opinión
