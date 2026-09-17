@@ -926,6 +926,32 @@ Piensa en la última decisión de dinero de la que te arrepentiste. Si pudieras 
 
 Hay, sin embargo, una pregunta que este apartado dejó sin tocar: por qué, entre dos personas con la misma información financiera, una confía en su propia capacidad de manejarla y la otra no. Eso ya no es un guion sobre el dinero. Es un guion sobre ti mismo con el dinero, y de eso trata el siguiente apartado.
 
+##### 4.3 Lo que crees sobre ti mismo con el dinero
+
+"Soy malo con el dinero." La frase suena a diagnóstico, casi a rasgo de personalidad, del mismo tipo que "soy introvertido" o "soy impaciente". Pero fíjate en lo que en realidad describe: casi nunca es sobre matemáticas, la misma persona que dice esto calcula propinas, compara precios en el supermercado y hace cuentas complejas en su trabajo sin dificultad. Lo que describe es otra cosa: no una carencia de habilidad, sino una creencia sobre la propia capacidad de ejercer esa habilidad en el terreno del dinero específicamente.
+
+El psicólogo Albert Bandura (1977) le dio a esto un nombre preciso: autoeficacia, la creencia de una persona en su propia capacidad para ejecutar las conductas necesarias para lograr un resultado específico. La palabra clave es específico. Bandura fue enfático en algo que se pierde con frecuencia cuando la gente usa el término de forma casual: la autoeficacia no es un rasgo global, no es "confío en mí mismo" como estado permanente. Es un juicio ligado a un dominio concreto. La misma persona puede tener una autoeficacia altísima como líder de equipo, hablando en público, resolviendo crisis operativas, y una autoeficacia casi nula frente a una hoja de cálculo con sus propias finanzas. No es contradictorio. Son dos dominios distintos, con dos historias de aprendizaje distintas detrás.
+
+Esto importa mucho para este capítulo porque conecta directamente con lo que vimos en 4.2. Bandura encontró algo con consecuencias prácticas enormes: la autoeficacia determina si una persona siquiera comienza una conducta, cuánto esfuerzo le dedica, y cuánto tiempo persiste frente a obstáculos. No es un detalle motivacional secundario. Es, con frecuencia, la variable que decide si alguien abre la aplicación del banco o la cierra sin mirar, si se sienta a hacer un presupuesto o lo pospone otra semana más. El pensamiento automático que identificamos en 4.2, "esto no es para mí", "yo no sirvo para esto", casi siempre es la voz de una autoeficacia baja hablando en primera persona, disfrazada de hecho.
+
+Jean Lown (2011), al construir un instrumento específico para medir esto en el terreno del dinero, tomó una decisión metodológica reveladora: combinó explícitamente el marco de Bandura con el modelo de etapas de cambio de Prochaska y DiClemente, el mismo que usamos en 3.2 para entender por qué alguien finalmente decide mirar sus finanzas. No fue casualidad. Lown encontró que la autoeficacia financiera no solo predice qué tan bien administra alguien su dinero hoy, sino en qué etapa del cambio se va a quedar atorado: quienes puntúan bajo tienden a quedarse instalados en la precontemplación, convencidos de que el esfuerzo de intentarlo no vale la pena, no porque hayan hecho ese cálculo, sino porque no se creen capaces del resultado.
+
+Atendí a una directora de recursos humanos, con quince años dirigiendo procesos de negociación colectiva de alta complejidad, que llevaba años evitando revisar los estados de cuenta de sus propias inversiones. En su trabajo, nadie ponía en duda su capacidad de leer un contrato o defender una postura frente a un sindicato completo. Frente a su propio portafolio, se describía como "de las que no entienden de esto". Cuando revisamos juntos qué tan distinta era, en realidad, la habilidad requerida, leer un documento, entender términos, tomar una decisión con información incompleta, la diferencia no estaba en la dificultad de la tarea. Estaba en que nunca había tenido, en el terreno financiero específicamente, la experiencia repetida de intentarlo y que le saliera bien. Tenía autoeficacia laboral de sobra. Autoeficacia financiera, casi ninguna, porque nunca se le había dado la oportunidad de construirla.
+
+Esa última frase importa, porque Bandura identificó de dónde viene la autoeficacia, y la fuente más poderosa de las cuatro que describió no es que alguien te diga que puedes, ni que veas a otros lograrlo. Es la experiencia directa de logro: haber intentado algo y haberlo conseguido, con tus propias manos, aunque sea en una versión pequeña. Nada construye autoeficacia como una victoria real, por diminuta que sea. Y nada la erosiona más rápido que evitar el terreno por completo, porque la evitación no solo no construye la creencia contraria, activamente la confirma.
+
+**Herramienta: diseña una victoria pequeña**
+
+No busques la tarea financiera más importante que tienes pendiente. Busca la más pequeña que puedas garantizar que vas a lograr hoy mismo, en menos de diez minutos: revisar un solo saldo, cancelar una sola suscripción que no usas, transferir una sola cantidad simbólica a un ahorro. El tamaño de la tarea no es lo que importa; lo que importa es que la termines y notes, conscientemente, que la terminaste. Di en voz alta, o escríbelo, "lo hice, y me salió bien". Eso no es una frase motivacional vacía. Es, según la evidencia, el ladrillo más sólido con el que se construye la creencia de que sí puedes, uno a la vez.
+
+**Reflexión**
+
+¿En qué otra área de tu vida tienes una autoeficacia alta, la confianza real de que sabes moverte bien? ¿Qué tuvo que pasar, específicamente, para que llegaras a creer eso de ti mismo ahí, y por qué no ha pasado todavía en el terreno del dinero?
+
+**Puente**
+
+Hasta aquí hemos visto cómo se forma una creencia, cómo se traduce en un pensamiento automático, y cómo una autoeficacia baja puede sostenerse aunque no tenga fundamento real. Queda una pregunta más incómoda: ¿por qué, incluso cuando tienes evidencia de lo contrario frente a tus ojos, la creencia se niega a moverse? De eso trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1011,6 +1037,10 @@ Díaz-Guerrero, R. (1994). *Psicología del mexicano* (ficha completa arriba, en
 Beck, A. T. (1963). Thinking and depression: I. Idiosyncratic content and cognitive distortions. *Archives of General Psychiatry*, 9(4), 324-333. (Primer desarrollo del concepto de pensamiento automático. Incorporado en 4.2.)
 Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press. (Formulación completa del modelo situación → pensamiento automático → emoción → conducta, base de todo el apartado 4.2.)
 Nabeshima, G., & Klontz, B. (2015). Cognitive-Behavioral Financial Therapy. En B. Klontz, S. Britt, & K. Archuleta (Eds.), *Financial Therapy: Theory, Research, and Practice* (pp. 149-166). Springer. (Aplicación del modelo de Beck específicamente a la terapia financiera; hallazgo de que las personas identifican con facilidad su conducta financiera y con algo más de esfuerzo su emoción, pero casi nunca el pensamiento automático que media entre ambas. Incorporado en 4.2, herramienta "el registro de cuatro columnas".)
+
+**Fuentes incorporadas en 4.3 (lo que crees sobre ti mismo con el dinero)**
+Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191-215. (Origen del concepto de autoeficacia: creencia en la propia capacidad de ejecutar las conductas necesarias para un resultado específico, ligada a un dominio concreto y no a un rasgo global. La autoeficacia determina si una conducta se inicia, cuánto esfuerzo se le dedica y cuánto se persiste ante obstáculos. Cuatro fuentes de la autoeficacia: experiencias de logro, experiencia vicaria, persuasión verbal y estados fisiológicos; la primera es la más poderosa. Incorporado en 4.3.)
+Lown, J. M. (2011). Development and validation of a financial self-efficacy scale. *Journal of Financial Counseling and Planning*, 22(2), 54-63. (Escala de autoeficacia financiera construida explícitamente sobre el marco de Bandura y el modelo transteórico de Prochaska y DiClemente, ya usado en 3.2: la autoeficacia financiera baja predice quedarse atorado en la etapa de precontemplación. Incorporado en 4.3.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
