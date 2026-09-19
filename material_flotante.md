@@ -14,6 +14,13 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ---
 
+## Capítulo 7 — Producción de ingresos
+
+**Frase candidata: "Tu mejor activo es tu capacidad de aprendizaje"** *(agregada 2026-09-19, dictada por Billy)*
+Billy quiere usar esta frase en algún capítulo relacionado con finanzas, y sugirió tentativamente este capítulo (Producción de ingresos) como el lugar más probable, sin decidirlo todavía. **Autoría sin verificar:** no recordaba el autor original. Una búsqueda preliminar encontró dos variantes distintas, atribuidas a personas distintas, sin que ninguna atribución quede del todo firme en las fuentes disponibles: "Your greatest asset is your earning ability" (capacidad de generar ingresos), citada ampliamente como de Brian Tracy; y "Your greatest asset is your learning ability" (capacidad de aprendizaje, la versión que Billy recuerda), asociada con menos consistencia a Robin Sharma. **Antes de usarla en el manuscrito, verificar la atribución a fondo** (o presentarla sin atribuir un autor específico, como reflexión del propio Billy). Decidir también en qué capítulo encaja mejor cuando se llegue a redactarlo, no necesariamente el 7.
+
+---
+
 ## Capítulo 8 — Administración del dinero
 
 **La utilidad que no se "siente"** *(cruce posible con Capítulo 10)*
