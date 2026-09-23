@@ -1042,6 +1042,36 @@ A lo largo de este capítulo dijimos varias veces "de eso hablaremos en el capí
 
 ---
 
+### Capítulo 5. Emociones y dinero
+
+##### 5.1 Qué es una emoción financiera (y por qué el cuerpo decide primero)
+
+Revisas tu cuenta y, antes de que tus ojos terminen de leer la cifra, ya sientes algo en el pecho. Firmas un contrato grande y, antes de poder explicar por qué, una parte de ti se pone alerta. Pagas una deuda vieja y, un segundo antes de confirmar la transferencia, algo se afloja en tu estómago. En los tres casos, el cuerpo llegó primero. La mente, con sus explicaciones razonables, llegó después, a interpretar lo que el cuerpo ya había decidido sentir.
+
+En 4.1 dejamos apenas esbozada la definición: una emoción es una reacción del cuerpo ante una situación específica. Vale la pena tomarla en serio, porque el neurocientífico Antonio Damasio (1994) propuso algo que cambia por completo cómo deberíamos pensar en las emociones financieras: no son ruido que interfiere con la decisión racional, son información. Su hipótesis del marcador somático plantea que el cuerpo genera señales emocionales rápidas, literalmente sensaciones físicas, que etiquetan cada opción como buena o mala antes de que el razonamiento consciente termine de procesarla. No es que sientas y luego pienses. Es que sientes, y eso ya es una forma de procesamiento, más rápida que el pensamiento verbal, y con frecuencia más precisa de lo que a la razón le gustaría admitir.
+
+La evidencia más contundente de esto viene de un experimento ya clásico. Antoine Bechara, Hanna Damasio, Daniel Tranel y Antonio Damasio (1997) diseñaron un juego de apuestas con cuatro mazos de cartas: dos ofrecían premios grandes pero pérdidas todavía más grandes a la larga, y dos ofrecían premios modestos pero ganancias sostenidas. A los participantes se les conectó un sensor de conductancia de la piel, que mide la activación fisiológica del estrés, mientras jugaban. Lo que encontraron fue notable: mucho antes de que los participantes pudieran decir en voz alta cuáles mazos eran peligrosos, su cuerpo ya reaccionaba con estrés anticipado justo al acercar la mano a esos mazos. El cuerpo sonó la alarma primero; la explicación consciente llegó varias rondas después. Y hubo un hallazgo todavía más revelador: los participantes con daño en la corteza prefrontal, la zona que procesa estas señales corporales, nunca desarrollaron esa alarma anticipada. Algunos de ellos llegaron a identificar intelectualmente cuáles mazos eran malos, lo dijeron en voz alta, y aun así siguieron eligiéndolos. Saber no bastaba. Sin la señal del cuerpo, el conocimiento puro no alcanzaba para decidir bien.
+
+Esto tiene una consecuencia directa para todo lo que hemos construido en los capítulos anteriores. El Capítulo 4 te dio herramientas cognitivas, nombrar el guion, cuestionar la creencia, diseñar un experimento. Todas ellas son necesarias, y ninguna sustituye lo que este capítulo empieza a abrir: la señal corporal que acompaña cada una de tus decisiones de dinero, antes, durante y después. No se trata de elegir entre pensar y sentir. Se trata de que, sin la información que aporta el cuerpo, ni siquiera la creencia mejor reescrita del mundo se traduce en una buena decisión sostenida.
+
+Esto no significa que toda corazonada financiera sea confiable. Un marcador somático se construye con la misma historia que construyó tu guion de dinero en el Capítulo 4; si ese guion es un guion de miedo o de vergüenza, el cuerpo también va a sonar la alarma en el momento equivocado, frente a una oportunidad legítima, no frente a un riesgo real. El cuerpo no siempre tiene razón. Pero ignorarlo por completo tampoco es la respuesta, porque, como mostró el experimento, la razón sola tampoco basta.
+
+Atendí a un empresario de León que describía, casi con vergüenza, que antes de cerrar cualquier trato importante sentía "una opresión en el pecho" que no lograba explicar con datos. Durante años había aprendido a ignorarla, a tratarla como debilidad, porque en sus palabras, "los negocios se deciden con números, no con corazonadas". Cuando revisamos juntos su historial, la opresión había aparecido, de forma consistente, antes de sus tres decisiones más costosas de los últimos diez años, todas ellas sociedades con personas que después resultaron poco confiables. No era magia. Era información acumulada, de años de leer microseñales en el trato con otros, que su cuerpo procesaba más rápido de lo que su mente podía justificar en una hoja de cálculo. El problema no era que sintiera la opresión. Era que no se había dado permiso de tomarla en serio como un dato más.
+
+**Herramienta: nombra la sensación, no solo la decisión**
+
+La próxima vez que estés por tomar una decisión de dinero de cierto peso, detente un momento, antes de decidir, y haz un barrido rápido de tu cuerpo: pecho, estómago, hombros, mandíbula. Nombra lo que encuentres con una sola palabra, tensión, ligereza, opresión, calma, sin interpretarlo todavía, sin decidir si es "razonable" sentir eso. Solo nómbralo y anótalo junto a la decisión que estás por tomar. Con el tiempo, este registro te va a permitir ver algo que ahora mismo es invisible: qué tipo de decisiones tienden a venir acompañadas de qué tipo de sensación, y cuáles de esas sensaciones, en tu historia particular, valía la pena escuchar.
+
+**Reflexión**
+
+Piensa en tu decisión financiera más importante del último año. ¿Qué sintió tu cuerpo antes de que tu mente terminara de justificarla, y le hiciste caso a esa sensación o la ignoraste por completo?
+
+**Puente**
+
+Hay una de esas señales corporales que aparece con una frecuencia particular alrededor del dinero, y que merece su propio espacio: el alivio inmediato que produce gastar, incluso cuando gastar no resuelve nada. De esa emoción específica, y de lo que hacemos con ella, trata el siguiente apartado.
+
+---
+
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
 
 **Referencia principal (obra completa)**
@@ -1137,6 +1167,10 @@ Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation
 Wood, J. V., Perunovic, W. Q. E., & Lee, J. W. (2009). Positive self-statements: Power for some, peril for others. *Psychological Science*, 20(7), 860-866. (Repetir afirmaciones positivas ayudó, de forma modesta, a personas con autoestima alta, pero hizo sentir peor a personas con autoestima baja que no repetir nada. Base del argumento de 4.5 contra las afirmaciones positivas y a favor de la evidencia conductual. Incorporado en 4.5.)
 Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press. (Origen de la teoría de la disonancia cognitiva: la incomodidad mental que produce una acción contraria a una creencia, y que la mente resuelve cambiando la creencia o racionalizando la acción. Incorporado en 4.5.)
 Festinger, L., & Carlsmith, J. M. (1959). Cognitive consequences of forced compliance. *Journal of Abnormal and Social Psychology*, 58(2), 203-210. (El experimento clásico de la justificación insuficiente: actuar en contra de una creencia con poca presión o recompensa externa favorece que la disonancia se resuelva actualizando la creencia; con mucha presión o recompensa, no. Sostiene por qué el experimento conductual de 4.5 debe ser una elección propia, sin presión externa. Incorporado en 4.5.)
+
+**Fuentes incorporadas en 5.1 (qué es una emoción financiera)**
+Damasio, A. R. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam. (Origen de la hipótesis del marcador somático: las emociones son señales corporales rápidas que etiquetan cada opción como buena o mala antes de que el razonamiento consciente termine de procesarla, no ruido que interfiere con la decisión racional. Incorporado en 5.1.)
+Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1997). Deciding advantageously before knowing the advantageous strategy. *Science*, 275(5304), 1293-1295. (La Tarea de Apuestas de Iowa: los participantes sanos desarrollaron una respuesta anticipada de estrés, medida por conductancia de la piel, frente a los mazos riesgosos antes de poder identificarlos conscientemente; los participantes con daño prefrontal nunca desarrollaron esa señal y siguieron eligiendo mal incluso después de saber intelectualmente cuáles mazos evitar. Incorporado en 5.1.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
