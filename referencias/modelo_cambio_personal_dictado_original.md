@@ -1,0 +1,19 @@
+# Modelo de Cambio Personal — explicación dictada por Billy (texto original, sin editar)
+
+**Guardado el 2026-09-24, a petición de Billy, por si se llega a utilizar en algún momento.**
+
+Es la explicación oral del Modelo de Cambio Personal (Psicología Financiera, presentado en 2024 en la XVI Convención Nacional de Direcciones Administrativas), tal como la dictó Billy, con las muletillas propias de la transcripción de voz. Se conserva textual, sin pulir, porque el valor está en su formulación original.
+
+**Estado de uso:** el modelo ya está desarrollado en el manuscrito, en el apartado 3.5 ("De la intención a la acción") y en sus referencias posteriores (4.4, Cierre del Capítulo 4). Este archivo conserva la fuente cruda por si en otro capítulo, o en una versión más extensa del modelo, conviene volver a la formulación original.
+
+**Ideas de este texto que quizá no se han explotado del todo en el manuscrito:**
+- "La ignorancia máxima es lo que no sé de lo que no sé: la no capacidad que tengo de no saber de qué soy capaz."
+- La observación de que mucha gente se queda en procrastinación y mucha otra se queda en el primer fracaso después de tomar acción.
+- El cierre del ciclo: al llegar al control aparecen cosas nuevas que se ignoraban, y el ciclo reinicia como una espiral en positivo que va corrigiendo lo que salió mal en la vuelta anterior.
+- El énfasis en que el control no es del proceso completo, sino del intento y de la acción.
+
+---
+
+## Texto original
+
+Vas a poder ver en la imagen que este modelo de cambio personal tiene cuatro acciones en positivo y cuatro acciones en negativo. Normalmente una persona cuando quiere cambiar algo, o al menos esa es mi tesis, o eso es lo que he observado en las terapias y en el día a día, es que ignora, ignora que de pronto quizás lo tenga que hacer. Posteriormente, cuando estamos enfrentando el mismo problema, empezamos a hacer conciencia que existe un problema. Ya no lo ignoramos, la ignorancia máxima es lo que no sé de lo que no sé. Es la, la, la no capacidad que tengo de no saber de qué soy capaz. Posteriormente brinco hacia la conciencia. Estoy captando la información de una manera en donde yo sé que tengo un problema, pero realmente eh, no sé hacia dónde ir. No tengo claridad de enfoque y por ende estamos o nos encontramos en un punto de confusión. Cuando migramos de la confusión a la claridad, tenemos un nuevo problema prácticamente de forma inmediata. Sé lo que tengo que hacer en la claridad. Sé lo que tengo que hacer, pero no lo hago. Espero. Doy largas. Mañana. Al rato. Y nos lleva a una espiral donde no salimos nunca. Sería interesante entender estadísticas de procrastinación. Si las tenemos, para que puedas apoyarme con eso. Y después de la procrastinación, viene la acción. La acción nos hace entender que quizás de un inicio no va a ser perfecto, pero se nos olvida que el proceso es mejorable. La gente, mucha gente se queda en procrastinación, pero mucha gente se queda en tomar acción y tener el primer fracaso de frente. Cuando tenemos el primer fracaso de frente, nos quedamos ahí. Entonces, entramos en inconsistencia, somos inconsistentes, no estamos generando esa frecuencia porque nos equivocamos, porque hay un trauma. Entonces, no hay una linealidad en enfoque consistente del deber ser. Y cuando viajamos a la inconsistencia, pasamos al control. Controlamos, si bien no el proceso, controlamos el intento. Controlamos la acción. Cuando hablo de acción, me estoy refiriendo básicamente a Entender que cuando llego al control de la acción hay nuevas cosas que ignoro o que ignoraba. Entonces el círculo o la iteración vuelve a iniciar. Y el modelo de, de, de cambio personal es una construcción y una espiral en positivo porque va corrigiendo todo lo que, todo lo que te equivocaste en el proceso anterior lo vamos corrigiendo en ese, en ese sentido.

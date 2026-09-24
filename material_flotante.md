@@ -153,6 +153,10 @@ Años de posponer un testamento o la unificación de escrituras, no por falta de
 
 ---
 
+**Modelo de Cambio Personal — dictado original de Billy** — `referencias/modelo_cambio_personal_dictado_original.md` (agregado el 2026-09-24). Texto textual, sin editar, con el que Billy explicó de viva voz el modelo de ocho estados (ignorancia, consciencia, confusión, claridad, procrastinación, acción, inconsistencia, control) y su carácter de espiral en positivo. El modelo ya está desarrollado en el manuscrito (3.5, con referencias en 4.4 y en el Cierre del Capítulo 4); este archivo conserva la formulación original por si conviene retomarla en otro capítulo o en una versión ampliada del modelo. No es un caso ni requiere integración; es material de consulta.
+
+---
+
 ## Cómo usar este archivo
 
 - Antes de redactar cualquiera de los capítulos listados arriba, revisar este archivo primero.
