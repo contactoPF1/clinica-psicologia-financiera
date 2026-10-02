@@ -1190,7 +1190,7 @@ Piensa en la última vez que gastaste sin sentir nada, y en la última vez que p
 
 **Puente**
 
-Hasta aquí hemos visto cómo las emociones nos empujan, el cuerpo que avisa, el ánimo que se adhiere a lo primero que encuentra, la comparación que mueve el gasto, el dolor que frena o no frena el pago. Queda la pregunta que cualquiera haría después de leer todo esto: si no se trata de eliminar la emoción, ¿qué se hace con ella? La respuesta empieza por algo más sencillo, y más poderoso, de lo que parece: ponerle nombre. De eso, y de cómo regularla sin reprimirla, trata el siguiente apartado.
+Hasta aquí hemos visto cómo las emociones nos empujan, el cuerpo que avisa, el ánimo que se adhiere a lo primero que encuentra, la comparación que mueve el gasto, el dolor que frena o no frena el pago. Queda la pregunta que cualquiera haría después de leer todo esto: si no se trata de eliminar la emoción, ¿qué se hace con ella? La respuesta empieza por algo más sencillo, y más poderoso, de lo que parece: ponerle nombre. De eso, y de cómo regularla sin reprimirla, trata el siguiente apartado.
 
 ---
 
