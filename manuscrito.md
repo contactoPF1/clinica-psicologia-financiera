@@ -1304,6 +1304,36 @@ De las cuatro, percibir, usar, comprender y manejar, ¿cuál te cuesta más cuan
 
 Decir que una habilidad se puede practicar es fácil. Demostrar que practicarla la mejora es otra cosa. ¿Estas cuatro habilidades se entrenan de verdad, o es una promesa más de las que rodean a esta expresión? De eso trata el siguiente apartado.
 
+##### 6.2 ¿Se puede entrenar?
+
+Decir que algo es una habilidad compromete. Una habilidad que no mejora con la práctica no es una habilidad, es un talento con el que naciste o no naciste. Por eso la pregunta de este apartado no es un trámite: si la inteligencia emocional no se pudiera entrenar, lo que dijimos en el apartado anterior se quedaría en una etiqueta bonita.
+
+La respuesta, hasta donde llega la evidencia, es que sí se puede, y en una medida modesta. Victoria Mattingly y Kurt Kraiger (2019) reunieron 58 estudios en los que se había entrenado a personas en inteligencia emocional y juntaron sus resultados. A eso se le llama metaanálisis: en lugar de fiarse de un solo estudio, se promedian muchos. Encontraron un efecto positivo moderado. Otra revisión, con 24 estudios y casi dos mil adultos, llegó a lo mismo y agregó dos datos útiles: la mejora se mantenía tiempo después del entrenamiento, y funcionaban mejor los programas que entrenaban habilidades concretas que los que trabajaban rasgos generales (Hodzic et al., 2018).
+
+Moderado quiere decir eso, moderado, y conviene leer la letra pequeña antes de entusiasmarse. Primero, en la revisión de Mattingly y Kraiger los estudios publicados mostraban efectos más grandes que las tesis que nunca se publicaron, y eso suele ser señal de que la cifra real es algo menor que la que circula. Segundo, lo que mejora es el resultado en las pruebas de inteligencia emocional, que no es lo mismo que mejorar tus decisiones. Tercero, hasta donde pude revisar, esas revisiones no reportan qué pasó con el dinero de las personas entrenadas. Se puede entrenar. No está demostrado que entrenarla te ordene las finanzas.
+
+Entrenar, aquí, no es leer sobre emociones ni tomar un curso. Es hacer las cuatro cosas del apartado anterior en decisiones reales y pequeñas, muchas veces. Antes de pagar algo que no tenías planeado esta semana, puedes recorrerlas en medio minuto: notar qué sientes en el cuerpo, preguntarte qué te avisa, ponerle nombre y decidir. No hace falta una decisión grande. De hecho conviene que sea pequeña, porque en lo pequeño te puedes equivocar barato.
+
+Hay una forma de entrenamiento que merece párrafo aparte, porque es de las más antiguas y de las más baratas: aprender a aquietarse. Andrew Hafenbrack y sus colegas (2014) la pusieron a prueba con un error muy común con el dinero, el costo hundido, que consiste en seguir metiéndole dinero o tiempo a algo que ya no funciona solo porque ya le metiste mucho. A un grupo le pusieron una grabación de quince minutos de meditación centrada en el momento presente. Al otro, una grabación que solo invitaba a dejar vagar la mente. Después les plantearon decisiones de ese tipo. Quienes habían meditado soltaron con más facilidad lo que ya estaba perdido. La explicación de los autores es sencilla: al dejar de darle vueltas al pasado y al futuro bajó la emoción negativa, y con menos emoción negativa fue más fácil soltar. Eran situaciones hipotéticas, y conviene saber que la investigación sobre meditación tiene más entusiasmo que solidez, como advierte una revisión crítica firmada por quince especialistas (Van Dam et al., 2018). No es una cura. Es una práctica barata que vale la pena probar.
+
+En lo personal, entiendo la serenidad como un punto medio: lejos de la tristeza, pero también lejos de la felicidad. No instalarme en un estado demasiado excitado hacia arriba ni demasiado caído hacia abajo me da dos cosas. La primera es claridad. La segunda es que evito decidir con la emoción alterada, sea en positivo o en negativo, porque el entusiasmo también sesga, no solo el miedo. Cuando no estoy feliz y no estoy triste, decido estar sereno. No me gusta quedarme tanto tiempo en la felicidad, y tampoco es sano quedarse tanto tiempo en la tristeza. Son momentos, y los atravesamos, igual que atravesamos la ansiedad, el enojo y cada parte del espectro emocional. No es malo estar ahí. Lo malo es quedarse estacionado ahí mucho tiempo.
+
+Una aclaración, para no contradecir lo que vimos en 5.5: serenidad no es sentir poco. Allí vimos que quienes sentían con más intensidad, y además sabían distinguir lo que sentían, decidían mejor. Serenidad es otra cosa. Es no quedarse a vivir en un extremo.
+
+Así que la respuesta es sí, con condiciones. Se entrena, pero poco a poco, practicando en lo pequeño y volviendo una y otra vez a un punto de calma desde el cual decidir.
+
+**Herramienta: siete días, una habilidad**
+
+Toma la parte que más te costó en la herramienta del apartado anterior, percibir, usar, comprender o manejar, y practica solo esa durante siete días. Una vez al día, ante una decisión pequeña de dinero, quédate un minuto en silencio antes de decidir y haz únicamente eso: si elegiste percibir, ubica la sensación en el cuerpo; si elegiste comprender, búscale el nombre preciso. Anota en una línea qué notaste. Al séptimo día, lee las siete líneas juntas. No esperes un cambio espectacular. Lo que buscas es comprobar por ti mismo si con la repetición te cuesta un poco menos. Es un ejercicio de práctica, no un programa validado.
+
+**Reflexión**
+
+Cuando decides sobre dinero, ¿en cuál de los dos extremos te estacionas más seguido, en el entusiasmo o en la preocupación? ¿Y cuánto tiempo sueles quedarte ahí antes de decidir?
+
+**Puente**
+
+Este apartado dio algo por hecho: que para aquietarte basta con proponértelo. ¿Y si la calma no dependiera solo de la voluntad? ¿Si también contara cómo dormiste, si ya comiste, cómo estás respirando? De ese otro piso, el del cuerpo, trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1446,6 +1476,12 @@ Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognit
 Mayer, J. D., Caruso, D. R., & Salovey, P. (2016). The ability model of emotional intelligence: Principles and updates. *Emotion Review*, 8(4), 290-300. (Modelo de habilidad con cuatro ramas: percibir las emociones, usarlas para facilitar el pensamiento, comprenderlas y manejarlas. Verificado a nivel de resumen. Los ejemplos con dinero de 6.1 son ilustraciones del libro, no del artículo. Incorporado en 6.1.)
 Goleman, D. (1995). *Emotional intelligence: Why it can matter more than IQ*. Bantam Books. (Popularización del concepto; en 6.1 solo se cita el subtítulo. El libro no se leyó. Incorporado en 6.1.)
 Mayer, J. D., Salovey, P., & Caruso, D. R. (2008). Emotional intelligence: New ability or eclectic traits? *American Psychologist*, 63(6), 503-517. (División dentro del campo entre estudiar la inteligencia emocional como un conjunto de habilidades mentales y estudiar una mezcla ecléctica de rasgos positivos, como la felicidad, la autoestima y el optimismo. Verificado a nivel de resumen. Incorporado en 6.1.)
+
+**Fuentes incorporadas en 6.2 (¿se puede entrenar?)**
+Mattingly, V., & Kraiger, K. (2019). Can emotional intelligence be trained? A meta-analytical investigation. *Human Resource Management Review*, 29(2), 140-155. (Metaanálisis de 58 estudios publicados y no publicados con diseños antes-después o con grupo de control: efecto positivo moderado del entrenamiento, robusto frente al género y al tipo de medida; efectos mayores en los estudios publicados que en las tesis. Resumen leído en el repositorio de la universidad de los autores. Incorporado en 6.2.)
+Hodzic, S., Scharfen, J., Ripoll, P., Holling, H., & Zenasni, F. (2018). How efficient are emotional intelligence trainings: A meta-analysis. *Emotion Review*, 10(2), 138-148. (Metaanálisis de 24 estudios con 1,986 adultos: efecto moderado, mantenido en el seguimiento, y mayor en las intervenciones basadas en modelos de habilidad que en las de modelos mixtos o de rasgo. Cifras verificadas en un resumen del estudio, no en el artículo. Incorporado en 6.2.)
+Hafenbrack, A. C., Kinias, Z., & Barsade, S. G. (2014). Debiasing the mind through meditation: Mindfulness and the sunk-cost bias. *Psychological Science*, 25(2), 369-376. (Cuatro estudios, uno correlacional y tres experimentales: una meditación de atención plena de quince minutos, frente a una grabación de divagación mental, aumentó la resistencia al sesgo del costo hundido en escenarios hipotéticos, por una menor atención al pasado y al futuro y una menor emoción negativa. Los detalles del procedimiento provienen del comunicado de prensa del estudio; el artículo no se pudo abrir. Incorporado en 6.2.)
+Van Dam, N. T., van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., Meissner, T., Lazar, S. W., Kerr, C. E., Gorchov, J., Fox, K. C. R., Field, B. A., Britton, W. B., Brefczynski-Lewis, J. A., & Meyer, D. E. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. *Perspectives on Psychological Science*, 13(1), 36-61. (Revisión crítica de quince autores sobre la desinformación y las debilidades metodológicas de la investigación en atención plena y meditación. Verificada la cita y el sentido general, no el texto. Incorporado en 6.2 como advertencia.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
