@@ -1276,6 +1276,34 @@ De todo lo que trabajaste en este capítulo, lo emocional, ¿cuál fue la emoci�
 
 Si es cierto que somos analfabetas emocionales, la buena noticia es que a leer se aprende. Nombrar una emoción, ubicar de dónde viene y reevaluarla son habilidades, y las habilidades se entrenan. De cómo se entrena esa alfabetización, y de qué tiene que ver con el desempeño financiero, trata el Capítulo 6.
 
+### Capítulo 6. Inteligencia emocional y desempeño financiero
+
+##### 6.1 Qué es (y qué no es) la inteligencia emocional
+
+Ser analfabeta no es una condición permanente: se deja de serlo aprendiendo, y quien no sabe leer tiene la capacidad de aprender. Si somos analfabetas emocionales, lo mismo debería ser posible, porque leer lo que sentimos también es una habilidad. Pero antes de aprender algo hay que saber cómo se llama, y aquí el nombre es parte del problema. Pocas expresiones han tenido una carrera tan veloz y tan desordenada como la "inteligencia emocional". Todo el mundo la usa y casi nadie dice a qué se refiere.
+
+La expresión nació en una universidad, no en un escenario. Dos psicólogos, Peter Salovey y John Mayer, la propusieron en 1990 para nombrar algo muy concreto: la capacidad de darte cuenta de lo que sientes tú y de lo que sienten los demás, de distinguir una emoción de otra, y de usar esa información para guiar lo que piensas y lo que haces. Fíjate en la palabra que sostiene toda la definición: capacidad. No hablaban de ser buena persona, ni de ser sensible, ni de tener carácter. Hablaban de algo que se hace, y que unas personas hacen mejor que otras.
+
+Esa capacidad tiene cuatro partes, y las cuatro se notan cuando hay dinero de por medio (Mayer, Caruso y Salovey, 2016). Imagina que abres en tu celular la aplicación del banco para ver cuánto debes pagar este mes de tu tarjeta. La primera es percibir: notar que se te cierra el estómago antes de haber leído una sola cifra. La segunda es usar esa emoción para pensar: preguntarte qué te está avisando, en lugar de cerrar la aplicación. La tercera es comprenderla: distinguir si lo que sientes es miedo a que no te alcance o vergüenza por lo que gastaste, porque cada una te empuja a hacer algo distinto. El miedo pide revisar los números, la vergüenza empuja a no mirarlos. La cuarta es manejarla: decidir qué vas a hacer con ese pago sin que la emoción decida por ti. Si esto te suena conocido es porque es lo que hicimos en el capítulo anterior, paso por paso, sin haberle puesto todavía este nombre.
+
+El problema vino después, cuando la expresión se hizo famosa. En 1995, Daniel Goleman la llevó al gran público con un libro cuyo subtítulo prometía que puede importar más que el coeficiente intelectual. A partir de ahí el nombre se estiró hasta cubrir casi cualquier cualidad agradable: ser optimista, tener buena autoestima, ser feliz. Sus propios creadores tuvieron que advertirlo años más tarde: bajo la misma etiqueta conviven dos cosas distintas, una habilidad para razonar sobre las emociones y una mezcla de rasgos positivos que poco tienen que ver con ella (Mayer, Salovey y Caruso, 2008). Por eso, cuando alguien dice que una persona "tiene mucha inteligencia emocional", lo primero que conviene preguntar es de cuál de las dos está hablando.
+
+Esa confusión se paga cuando el tema es el dinero, porque abre la puerta a frases que suenan a hallazgo y no lo son. Una de las más repetidas dice que a menor inteligencia emocional, mayor desequilibrio financiero. Dicha así, como regla general, no existe, hasta donde pude revisar, una investigación que la haya probado de forma directa. Lo que hay son piezas más pequeñas y más cautelosas: estudios donde la dificultad para controlar los impulsos se asocia con más deuda, y estudios con operadores de bolsa donde la forma de regular las emociones se asocia con sus resultados. Son piezas que apuntan en esa dirección. No la demuestran. Las vamos a ver con calma más adelante en este capítulo.
+
+Por eso, en este libro, inteligencia emocional quiere decir una sola cosa: la habilidad de percibir, usar, comprender y manejar lo que sientes. No es un rasgo con el que se nace ni una garantía de éxito, y no voy a prometerte que tener más te hará ganar más. Es una habilidad, y eso ya es una buena noticia, porque una habilidad se puede practicar.
+
+**Herramienta: las cuatro preguntas de una decisión reciente**
+
+Elige una decisión de dinero reciente que te haya dejado una sensación incómoda, aunque haya salido bien, y hazle por escrito cuatro preguntas, una por cada parte. Percibir: ¿qué sentí en el cuerpo antes de decidir, y dónde? Usar: ¿qué me estaba avisando esa emoción sobre la decisión? Comprender: ¿cómo se llama con precisión lo que sentí, y de dónde venía? Manejar: ¿qué hice con eso, y qué habría hecho distinto? Una advertencia: esto no es una prueba ni te da un puntaje, porque contestar cómo crees que eres no equivale a medir una habilidad. Sirve para otra cosa: ver, en una decisión concreta, en cuál de las cuatro te quedas corto.
+
+**Reflexión**
+
+De las cuatro, percibir, usar, comprender y manejar, ¿cuál te cuesta más cuando hay dinero de por medio? ¿Y qué te hace pensar que es esa y no otra?
+
+**Puente**
+
+Decir que una habilidad se puede practicar es fácil. Demostrar que practicarla la mejora es otra cosa. ¿Estas cuatro habilidades se entrenan de verdad, o es una promesa más de las que rodean a esta expresión? De eso trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1412,6 +1440,12 @@ Sokol-Hessner, P., Hsu, M., Curley, N. G., Delgado, M. R., Camerer, C. F., & Phe
 Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science*, 18(5), 421-428. (Verificado a nivel de resumen: el etiquetado afectivo, frente a otras formas de procesamiento, disminuyó la respuesta de la amígdala y otras regiones límbicas ante imágenes emocionales negativas y aumentó la actividad en la corteza prefrontal ventrolateral derecha, con una relación inversa entre ambas mediada por la corteza prefrontal medial. Imágenes en laboratorio, no decisiones de dinero. Incorporado en 5.5.)
 Torre, J. B., & Lieberman, M. D. (2018). Putting feelings into words: Affect labeling as implicit emotion regulation. *Emotion Review*, 10(2), 116-124. (Verificado a nivel de resumen: el etiquetado afectivo produce un patrón de efectos similar al de la regulación explícita, comparado con la reevaluación en cuatro dominios (experiencial, autonómico, neural y conductual), y puede no sentirse como regulación mientras ocurre. Incorporado en 5.5.)
 Seo, M.-G., & Barrett, L. F. (2007). Being emotional during decision making: Good or bad? An empirical investigation. *Academy of Management Journal*, 50(4), 923-940. (Resumen leído en el texto: 101 inversionistas en una simulación de bolsa durante 20 días hábiles consecutivos, calificando sus sentimientos; mayor intensidad de sentimientos se asoció con mejor desempeño, y quienes identificaban y distinguían mejor sus sentimientos lograron mejor desempeño por controlar mejor los sesgos inducidos. Simulación y un solo estudio. Incorporado en 5.5.)
+
+**Fuentes incorporadas en 6.1 (qué es y qué no es la inteligencia emocional)**
+Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality*, 9(3), 185-211. (Origen académico de la expresión: una forma de inteligencia social que consiste en monitorear las emociones propias y ajenas, distinguir entre ellas y usar esa información para guiar el pensamiento y la acción. Verificado a nivel de resumen y ficha de repositorio; el artículo no se leyó. Incorporado en 6.1.)
+Mayer, J. D., Caruso, D. R., & Salovey, P. (2016). The ability model of emotional intelligence: Principles and updates. *Emotion Review*, 8(4), 290-300. (Modelo de habilidad con cuatro ramas: percibir las emociones, usarlas para facilitar el pensamiento, comprenderlas y manejarlas. Verificado a nivel de resumen. Los ejemplos con dinero de 6.1 son ilustraciones del libro, no del artículo. Incorporado en 6.1.)
+Goleman, D. (1995). *Emotional intelligence: Why it can matter more than IQ*. Bantam Books. (Popularización del concepto; en 6.1 solo se cita el subtítulo. El libro no se leyó. Incorporado en 6.1.)
+Mayer, J. D., Salovey, P., & Caruso, D. R. (2008). Emotional intelligence: New ability or eclectic traits? *American Psychologist*, 63(6), 503-517. (División dentro del campo entre estudiar la inteligencia emocional como un conjunto de habilidades mentales y estudiar una mezcla ecléctica de rasgos positivos, como la felicidad, la autoestima y el optimismo. Verificado a nivel de resumen. Incorporado en 6.1.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
