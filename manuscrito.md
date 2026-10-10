@@ -1434,6 +1434,54 @@ Escribe los cinco pilares en una hoja: producción de ingresos, administración,
 
 Con esto termina el recorrido del capítulo, y casi termina la primera parte del libro. Antes de entrar a los pilares uno por uno, conviene detenerse y juntar lo que has aprendido de ti en estos seis capítulos. De eso trata el cierre.
 
+#### Cierre reflexivo del Capítulo 6
+
+*El límite está en el espejo.*
+
+Este capítulo empezó con una buena noticia que venía del anterior: si somos analfabetas emocionales, a leer se aprende. Te mostró qué es la inteligencia emocional cuando se le quita el adorno, que se puede entrenar aunque sea poco a poco, que tu cuerpo llega en distintas condiciones a cada decisión, y hasta dónde llega lo que de verdad se sabe sobre su relación con el dinero. Terminó poniendo todo eso frente a los cinco pilares en los que el dinero se mueve.
+
+**Tres desplazamientos, otra vez**
+
+El primero es de talento a habilidad. La inteligencia emocional no es una forma de ser simpático ni un don con el que se nace. Son cuatro cosas que se hacen: percibir, usar, comprender y manejar lo que sientes. Y lo que se hace se puede practicar. La mejora es modesta y llega con repetición en decisiones pequeñas, no con un curso.
+
+El segundo es de la mente sola a la mente con cuerpo. No decides igual descansado que sin dormir, recién comido que con hambre, respirando lento que acelerado. Saber con qué versión de ti estás decidiendo es parte de decidir bien, y a veces lo más sensato es posponer, siempre que le pongas fecha.
+
+El tercero es de la frase que se repite a lo que se sabe. No está probado que a menor inteligencia emocional haya mayor desequilibrio financiero. Lo que hay son pistas, y apuntan a algo más útil que la frase: existen momentos y estados en los que decidimos peor con el dinero, y se pueden reconocer.
+
+**Lo que este capítulo no resolvió**
+
+Tres advertencias honestas, otra vez.
+
+La primera: casi todos los estudios de este capítulo se hicieron en otros países, como Alemania, el Reino Unido, Países Bajos o Singapur. Lo que agregué yo son observaciones del día a día en un contexto latino. Ninguna de las dos cosas es una regla general.
+
+La segunda: entrenar tu inteligencia emocional no ordena tus finanzas por sí solo. Lo que mejora con el entrenamiento, según la evidencia, es el resultado en las pruebas. Que eso se convierta en mejores decisiones de dinero depende de que lo practiques justo ahí, en tus decisiones de dinero.
+
+La tercera: hay situaciones que no se resuelven con ejercicios. La compra que ya no se puede frenar, la tristeza que no se va, la ansiedad que paraliza frente a cualquier número piden acompañamiento profesional. Las herramientas de este capítulo son para observarte, no para tratarte.
+
+**Lo que se cierra con este capítulo**
+
+Aquí termina también la primera parte del libro. Llevas seis capítulos y todavía no te he dicho qué hacer con tu dinero. Fue a propósito. En el primero viste por qué no decidimos como dicen los manuales. En el segundo pusiste tus números y tus hábitos sobre la mesa. En el tercero te preguntaste para qué quieres el dinero. En el cuarto encontraste las creencias que deciden antes que tú. En el quinto aprendiste a leer tus emociones como información. Y en este viste que manejarlas es una habilidad. Todo ha sido una sola cosa: conocerte antes de pedirle algo a tu dinero.
+
+**Una observación personal, no un dato**
+
+Lo que viene no es un recorrido técnico. Cada uno de los cinco pilares tiene algo que decirte. Cada uno va a hacer que resurja una parte de tu infancia, una parte de tus traumas, comportamientos que tienen que ver con tu familia, cosas que aprendiste de otros. Vas a confrontar miedos. Y vas a entender, en buena parte, que el dinero da la felicidad hasta cierto punto. En el Capítulo 3 vimos que la investigación todavía discute dónde está ese punto y si es el mismo para todos. Aquí lo digo como convicción.
+
+Cuando llegues a ese punto conviene entender otra cosa. Manejar el dinero en sus cinco vertientes es un juego. Empieza sin que sepamos que es un juego, y no se acaba hasta que se acaba. Incluso puede seguir después de que uno muere. Ahí aparece el legado. Y el legado no es solo lo que dejas guardado, ni los pendientes que alguien más tendrá que resolver. Es dejar sistemas que sigan funcionando cuando ya no estés: un negocio que opera sin ti, un ahorro que sigue creciendo, una forma de manejar el dinero que tu familia ya aprendió y puede continuar.
+
+Por eso lo que sigue pide entrar a la más profunda de las introspecciones: resolver primero, desde adentro, lo que tenemos que resolver, y entonces pulir cada una de estas cinco capacidades. Para hacerlas crecer no hay limitación. El único límite está en el espejo.
+
+**Herramienta de cierre: tu expediente financiero personal**
+
+Junta en una carpeta las hojas que has hecho hasta aquí, una por capítulo: tu hoja de apertura, tus tres datos, tu propósito, tu guion de dinero y tu mapa emocional. Agrega las de este capítulo: la habilidad que más te cuesta de las cuatro, tus tres preguntas del cuerpo, la hora y el ánimo de tus compras, y tus cinco pilares calificados. Ponles fecha. En una hoja nueva, que irá al frente, escribe solo tres líneas: lo que más te sorprendió de ti en estos seis capítulos, tu pilar más firme y tu pilar más flojo. Ese es tu expediente. Dije en el primer capítulo que la primera consulta no cura nada y solo abre el expediente. El tuyo ya está abierto y tiene seis capítulos. Con él en la mano vas a entrar a los pilares.
+
+**Reflexión**
+
+Cuando te miras en ese espejo, ¿qué es lo primero que tendrías que resolver por dentro antes de pedirle algo a tu dinero?
+
+**Puente**
+
+Hasta aquí el libro te pidió mirarte. A partir de aquí te va a pedir construir, un pilar a la vez. El primero es el más visible y, para muchos, el más urgente: producir ingresos. De eso, y de lo que le pide a tu autoestima y a tu valentía, trata el Capítulo 7.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
