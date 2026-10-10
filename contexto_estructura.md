@@ -20,7 +20,7 @@ Estructura y estado de avance del libro descrito en [[project-libro-clinica-iden
 
 **Sección 1. Fundamentos de la Psicología Financiera**: 1) Fundamentos, 2) Consciencia y hábitos: confrontando tu realidad financiera, 3) Ikigai y vida financiera con propósito, 4) Pensamientos, creencias y realidad financiera, 5) Emociones y dinero, 6) Inteligencia emocional y desempeño financiero.
 
-**Sección 2. Pilares de una vida financiera consciente**: 7) Producción de ingresos, 8) Administración del dinero, 9) Cómo vives con tus deudas, 10) Tu actitud frente al ahorro, 11) Inversión y sus frutos, 12) Integración de los pilares financieros.
+**Sección 2. Pilares de una vida financiera consciente**: 7) Capacidad de monetizar tu realidad (producción de ingresos), 8) Capacidad de saber quién eres (administración), 9) Capacidad de cuidar a tu yo del futuro (ahorro), 10) Capacidad de asumir riesgos y buscar ganancias (inversión), 11) Capacidad de asumir que algo malo puede pasar y blindarte (protección), 12) Integración de los pilares financieros. *(Índice confirmado por Billy el 2026-10-10. Los títulos nuevos aplican solo a los títulos de capítulo; la redacción integra más contenido. El antiguo Capítulo 9, "Cómo vives con tus deudas", deja de existir como capítulo: la deuda se trata dentro del ahorro, de la inversión y de la protección. El modelo de cinco pilares parte de las cinco inteligencias financieras de Robert Kiyosaki, con crédito explícito en 6.5.)*
 
 **Sección 3. Obstáculos psicológicos, económicos y educativos**: 13) Sesgos cognitivos, 14) Inflación, 15) Educación financiera familiar, 16) Autoestima, emociones y cultura financiera mexicana.
 

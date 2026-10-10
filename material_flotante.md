@@ -14,7 +14,7 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ---
 
-## Capítulo 7 — Producción de ingresos
+## Capítulo 7 — Capacidad de monetizar tu realidad (producción de ingresos)
 
 **Frase candidata: "Tu mejor activo es tu capacidad de aprendizaje"** *(agregada 2026-09-19, dictada por Billy)*
 Billy quiere usar esta frase en algún capítulo relacionado con finanzas, y sugirió tentativamente este capítulo (Producción de ingresos) como el lugar más probable, sin decidirlo todavía. **Autoría sin verificar:** no recordaba el autor original. Una búsqueda preliminar encontró dos variantes distintas, atribuidas a personas distintas, sin que ninguna atribución quede del todo firme en las fuentes disponibles: "Your greatest asset is your earning ability" (capacidad de generar ingresos), citada ampliamente como de Brian Tracy; y "Your greatest asset is your learning ability" (capacidad de aprendizaje, la versión que Billy recuerda), asociada con menos consistencia a Robin Sharma. **Antes de usarla en el manuscrito, verificar la atribución a fondo** (o presentarla sin atribuir un autor específico, como reflexión del propio Billy). Decidir también en qué capítulo encaja mejor cuando se llegue a redactarlo, no necesariamente el 7.
@@ -24,7 +24,7 @@ Billy quiere usar esta frase en algún capítulo relacionado con finanzas, y sug
 Billy pidió anexar al Capítulo 7 su lámina "7 Fuentes de Ingresos", guardada en `referencias/siete_fuentes_de_ingreso.webp`. Las siete fuentes, en el orden de la lámina: (1) ingreso activo, ilustrado con una rueda de hámster, es decir, el ingreso que depende de seguir trabajando; (2) beneficios o utilidad, la ganancia de un negocio; (3) ingresos por intereses; (4) ingresos por dividendos; (5) ingresos por arrendamientos; (6) ingresos por ganancia de capital; (7) ingresos por regalías. **Enfoque acordado para la Sección 2:** el capítulo no se limita al título ("Capacidad de monetizar tu realidad"); la redacción integra más contenido, y esta lista es parte de él. La capacidad psicológica del pilar, según el diagrama de Billy, es hacer realidad el potencial y las habilidades propias, apoyándose en la autoestima. **Nota de rigor, verificada el 2026-10-10:** la lista de siete fuentes es un marco popular de finanzas personales, no el resultado de un estudio. Suele acompañarse de la frase "el millonario promedio tiene siete fuentes de ingreso, según el IRS"; no se encontró ningún documento del IRS que lo diga, y las fuentes que lo repiten son blogs y notas de prensa que se contradicen entre sí. Si se usa la lista, presentarla como una clasificación útil y no citar esa frase como dato. **Pendiente al redactar:** preguntar a Billy de dónde tomó la lista para dar el crédito que corresponda, igual que se hizo con Kiyosaki en 6.5; revisar el tratamiento fiscal de cada fuente en México antes de afirmar algo al respecto; y cuidar que el capítulo no prometa ingresos pasivos fáciles.
 ---
 
-## Capítulo 8 — Administración del dinero
+## Capítulo 8 — Capacidad de saber quién eres (administración)
 
 **La utilidad que no se "siente"** *(cruce posible con Capítulo 10)*
 Un dueño de negocio puede ver ingresos saludables en el papel y aun así admitir que no puede "palpar" la utilidad. Solo siente que hay dinero cuando lo ve guardado, activo, esperando un mes malo. Es la desconexión entre el número frío y la experiencia subjetiva de seguridad: mucha gente no confía en su propia prosperidad hasta que la ve materializada en un colchón tangible. No basta con tener; hay que poder tocarlo, aunque sea simbólicamente.
@@ -34,7 +34,7 @@ En una sesión de educación financiera familiar, alguien del equipo explicó la
 
 ---
 
-## Capítulo 9 — Cómo vives con tus deudas
+## Deuda — sin capítulo propio desde el 2026-10-10: repartir este material entre ahorro (Cap. 9), inversión (Cap. 10) y protección (Cap. 11)
 
 **La vergüenza como estrategia (fallida) de manejo de proveedores**
 Cuando un negocio deja de pagar a tiempo, el instinto casi universal es desaparecer del radar del proveedor: no contestar, evitar la conversación incómoda. Pero quien tiene más experiencia suele dar un consejo que se repite como mandamiento: nunca dejes de dar la cara, por más pena que te dé, porque eso es tu crédito real. Cuando finalmente alguien va a ver a un proveedor en persona en lugar de evadirlo, la respuesta suele ser de respeto, no de castigo, "porque tuviste la valentía de ir". La lección es contraintuitiva: la vergüenza empuja al aislamiento, y el aislamiento es justo lo que destruye la confianza que se necesita para negociar.
@@ -50,7 +50,7 @@ Dos personas que atravesaron juntas una deuda importante años atrás, y saliero
 
 ---
 
-## Capítulo 10 — Tu actitud frente al ahorro
+## Capítulo 9 — Capacidad de cuidar a tu yo del futuro (ahorro)
 
 **El costo emocional de la disciplina financiera**
 Un fin de semana sin salir a cenar, por elección, para ahorrar, dejó a una familia "un poquito tristes". El ahorro no es solo un acto racional: tiene un duelo emocional real. No se está renunciando solo a un gasto, se está renunciando a un ritual de conexión. La disciplina financiera que dura es la que le hace espacio a ese duelo en lugar de negarlo, la que reemplaza el ritual en vez de solo cancelarlo.
