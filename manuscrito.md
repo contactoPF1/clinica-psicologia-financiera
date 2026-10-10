@@ -1404,6 +1404,36 @@ Abre el historial de pedidos de la aplicación donde más compras y revisa los �
 
 Ya sabes qué es la inteligencia emocional, que se puede entrenar, que el cuerpo pone sus condiciones y hasta dónde llega lo que se sabe de su relación con el dinero. Falta ordenar todo eso en algo que puedas usar. De ahí parte el siguiente apartado.
 
+##### 6.5 Del autoconocimiento a los cinco pilares
+
+Todo este capítulo ha sido una forma de conocerte: qué sientes, cómo lo lees, si puedes entrenarlo, en qué condiciones llega tu cuerpo a una decisión y hasta dónde se nota todo eso en el dinero. Pero conocerte sirve de poco si se queda ahí. El dinero no se mueve en abstracto. Se mueve en momentos concretos: cuando lo ganas, cuando lo repartes, cuando lo guardas, cuando lo arriesgas y cuando lo proteges. A esos cinco momentos los llamaremos pilares.
+
+Estos cinco pilares no son un invento mío. Parten del trabajo de Robert Kiyosaki, que en *Incrementa tu IQ financiero* (2008) propone cinco inteligencias financieras: ganar más dinero, protegerlo, presupuestarlo, apalancarlo y mejorar tu información financiera. Prefiero decirlo y darle el crédito que quedarme con él. Lo menciono por esa idea de las cinco inteligencias, no para respaldar cada uno de sus consejos. Mi lista no es idéntica a la suya. Conservo producir, administrar y proteger, hablo de invertir donde él habla de apalancar, y agrego el ahorro, que él no cuenta entre sus cinco. Esa lista también les debe mucho a otros libros y autores dedicados al bienestar financiero de las personas.
+
+Lo que propongo aquí es un espejo de ese trabajo, visto desde la psicología financiera. Cuando decimos inteligencia hablamos sobre todo de cognición: de lo que sabes y de cómo razonas. Y eso deja un poco de lado la emoción, la conducta, la memoria y las decisiones que tomamos cuando lo que sentimos está alterado. El espejo consiste en preguntar, frente a cada pilar, no qué hay que saber, sino qué significa de verdad para una persona producir dinero, administrarlo, ahorrarlo, invertirlo y protegerlo. Por eso a cada pilar le pongo enfrente una capacidad, y ninguna de las cinco es técnica. Ninguna habla de tasas, de presupuestos ni de instrumentos. Las cinco hablan de ti. Esta lectura es mía, hecha para enseñar y para acompañar.
+
+La primera es la producción de ingresos: la capacidad de hacer realidad tu potencial y tus habilidades, apoyándote en tu autoestima. Ganar dinero empieza por creer que lo que sabes hacer vale, y por atreverte a cobrarlo. La segunda es la administración: la capacidad de saber quién eres, tu identidad. La manera en que repartes tu dinero dice qué es importante para ti, y quien no lo tiene claro termina administrando según lo que quieren los demás. La tercera es el ahorro: la capacidad de cuidar a tu yo del futuro. Ahorrar es tratar a la persona que vas a ser como alguien que te importa. La cuarta es la inversión: la capacidad de asumir riesgos y buscar ganancias. Pide tolerar la incertidumbre sin paralizarte y sin lanzarte a ciegas. La quinta es la protección: la capacidad de asumir que algo malo puede pasar y blindarte. Pide aceptar algo incómodo, que no lo controlas todo, y prepararte de todos modos.
+
+Mira lo que pide cada una de esas cinco capacidades: autoestima y valentía para producir, identidad para administrar, cuidado para ahorrar, tolerancia a la incertidumbre para invertir y aceptación para protegerte. Son asuntos emocionales antes que financieros. Por eso este capítulo va antes de los pilares y no después. Y por eso la misma persona puede ser firme en un pilar y floja en otro. Es el familiar del que hablamos en el apartado anterior: muy bueno para producir, no tanto para administrar. También existe el caso contrario, el de quien ahorra con disciplina y no se atreve a invertir, o el de quien invierte con soltura y no tiene nada que lo proteja si algo sale mal.
+
+Notarás que en la lista no aparece la deuda. No es un pilar aparte. La veremos dentro de tres de ellos: la deuda cuando ahorras, la deuda cuando la usas para invertir, si es que la usas, y la deuda a la hora de protegerte.
+
+Ningún pilar se sostiene a solas. Produces con clientes, jefes o socios. Administras con tu pareja o con tu familia. Ahorras, inviertes y te proteges pensando en otros, y muchas veces discutiendo con otros. Percibir y manejar emociones no es solo asunto tuyo. También cuentan las de quien decide contigo. Lo retomaremos más adelante, al hablar de la familia.
+
+No hace falta dominar los cinco a la vez, y casi nadie lo hace. Lo que conviene, antes de entrar a ellos uno por uno, es saber cuál es tu pilar más firme, cuál es el más flojo y qué sientes en cada uno. Con eso sabrás en qué capítulos detenerte más.
+
+**Herramienta: tus cinco pilares, de un vistazo**
+
+Escribe los cinco pilares en una hoja: producción de ingresos, administración, ahorro, inversión y protección. Junto a cada uno pon una calificación del 1 al 5 según qué tan firme lo sientes hoy, y la emoción que aparece cuando piensas en él: orgullo, culpa, miedo, flojera, tranquilidad, la que sea. Marca el más alto y el más bajo. Luego pregúntate si el más bajo lo es por falta de conocimiento o por lo que sientes cuando te acercas a él. Guarda la hoja, porque la vas a usar en el cierre de este capítulo. Es un ejercicio de observación, no un diagnóstico.
+
+**Reflexión**
+
+¿Cuál de las cinco capacidades te cuesta más: creer en lo que vales, saber quién eres, cuidar a tu yo del futuro, tolerar el riesgo o aceptar que algo puede salir mal?
+
+**Puente**
+
+Con esto termina el recorrido del capítulo, y casi termina la primera parte del libro. Antes de entrar a los pilares uno por uno, conviene detenerse y juntar lo que has aprendido de ti en estos seis capítulos. De eso trata el cierre.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1573,6 +1603,9 @@ Maraz, A., Griffiths, M. D., & Demetrovics, Z. (2016). The prevalence of compuls
 Stoet, G., Bailey, D. H., Moore, A. M., & Geary, D. C. (2016). Countries with higher levels of gender equality show larger national sex differences in mathematics anxiety and relatively lower parental mathematics valuation for girls. *PLoS ONE*, 11(4), e0153857. (Datos de PISA 2003 y 2012, 761,655 estudiantes de 15 años en 68 países y regiones. Las mujeres reportaron más ansiedad ante las matemáticas en 95% de los países en 2003 y en 82% en 2012, México incluido; la diferencia en ansiedad, d = 0.28 y 0.23, fue más del doble que la diferencia en desempeño, d = 0.11 y 0.09. Los países más desarrollados e igualitarios muestran menos ansiedad general y una diferencia por sexo mayor. Datos correlacionales. Texto completo consultado. Incorporado en 6.4.)
 Guiso, L., Monte, F., Sapienza, P., & Zingales, L. (2008). Culture, gender, and math. *Science*, 320(5880), 1164-1165. (PISA 2003, más de 276,000 estudiantes en 40 países: las mujeres obtuvieron en promedio 10.5 puntos menos en matemáticas; la diferencia casi desaparece en Suecia y las mujeres igualan o superan a los hombres en Islandia y Noruega, en relación con índices de igualdad de género. Verificado en el comunicado de la universidad de los autores, no en el artículo. Incorporado en 6.4.)
 Bucher-Koenen, T., Alessie, R., Lusardi, A., & van Rooij, M. (2021). Fearless woman: Financial literacy and stock market participation. *NBER Working Paper* 28723. (Experimento dentro de una encuesta de hogares de Países Bajos: las mujeres responden "no sé" con más frecuencia a las preguntas de conocimiento financiero y, cuando esa opción se retira, a menudo eligen la respuesta correcta; cerca de una tercera parte de la brecha de género se explica por menor confianza. Publicado después en *Management Science*, 71(9), 7414-7430. Verificado a nivel de resumen. Incorporado en 6.4.)
+
+**Fuentes incorporadas en 6.5 (del autoconocimiento a los cinco pilares)**
+Kiyosaki, R. T. (2008). *Rich Dad's Increase Your Financial IQ: Get Smarter with Your Money*. Business Plus. Edición en español: *Incrementa tu IQ financiero*, Penguin Random House. (Propone cinco inteligencias financieras: ganar más dinero, proteger el dinero, presupuestarlo, apalancarlo y mejorar la información financiera. De ahí parte el modelo de cinco pilares de Billy, que difiere en dos puntos: agrega el ahorro y habla de invertir en lugar de apalancar. Citado en 6.5 para dar crédito a la idea, sin avalar las recomendaciones del autor. Lista verificada en reseñas y fichas de catálogo, no en el libro; Billy confirmó que su lista proviene de esta obra. Incorporado en 6.5.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
