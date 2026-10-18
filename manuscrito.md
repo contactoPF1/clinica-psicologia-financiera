@@ -1182,7 +1182,7 @@ Para verlo en carne propia, vale la pena imaginar dos retratos. No son casos de 
 
 **Herramienta: tu termómetro del dolor de pagar**
 
-Durante una semana, antes de cada compra mayor a 500 pesos (o el equivalente en la moneda de tu país), pon en una nota de tu celular un número del 0 al 10 que responda a esta pregunta: ¿cuánto me duele pagar esto, en este momento? Anota también cómo pagaste, en efectivo, con tarjeta o con transferencia. Al día siguiente, agrega una segunda calificación del 0 al 10: ¿qué tanto me arrepiento o me alegra haberlo hecho? Al final de la semana, mira el conjunto buscando dos patrones. Si tus dolores altos coinciden con compras que al día siguiente valoras mucho, es probable que tu dolor esté frenando gastos que sí querías, y que valga la pena reducirlo, por ejemplo decidiendo la compra con anticipación y no frente al precio, o presentándotela como lo que realmente es, un gasto con retorno. Si tus dolores bajos coinciden con compras de arrepentimiento, es probable que algo esté anestesiando el momento de pagar, y que valga la pena devolverle algo de fricción: pagar lo discrecional en efectivo, o esperar un día antes de pagar. Esta herramienta es un ejercicio de observación, no una prueba validada: su propósito es que veas tu patrón, no que te lo diagnostique un número.
+Durante una semana, antes de cada compra mayor a 500 pesos (o el equivalente en la moneda de tu país), pon en una nota de tu celular un número del 0 al 10 que responda a esta pregunta: ¿cuánto me duele pagar esto, en este momento? Anota también cómo pagaste, en efectivo, con tarjeta o con transferencia. Al día siguiente, agrega una segunda calificación del 0 al 10: ¿qué tanto me arrepiento o me alegra haberlo hecho? Al final de la semana, mira el conjunto buscando dos patrones. Si tus dolores altos coinciden con compras que al día siguiente valoras mucho, es probable que tu dolor esté frenando gastos que sí querías, y que valga la pena reducirlo, por ejemplo decidiendo la compra con anticipación y no frente al precio, o presentándotela como lo que realmente es, un gasto con retorno. Si tus dolores bajos coinciden con compras de arrepentimiento, es probable que algo esté anestesiando el momento de pagar, y que valga la pena devolverle algo de fricción: pagar lo discrecional en efectivo, o esperar un día antes de pagar. Esta herramienta es un ejercicio de observación: su propósito es que veas tu patrón, no que te lo diagnostique un número.
 
 **Reflexión**
 
@@ -1222,7 +1222,7 @@ Segundo, ubica de dónde viene, con las preguntas que ya tienes. ¿Es sobre esta
 
 Tercero, reevalúa con una perspectiva más amplia. Pregúntate: si esta decisión fuera una más de muchas parecidas, como si estuviera armando un portafolio y no mirándola sola, ¿la tomaría igual? Es la versión sencilla de lo que hicieron las personas del estudio de Sokol-Hessner.
 
-Si después de los tres pasos la emoción sigue ahí, no pasa nada: el objetivo no es que desaparezca, sino que no decida por ti. Esta herramienta es un ejercicio de práctica, no una técnica validada, y no sustituye el acompañamiento profesional cuando la emoción es muy intensa o persistente, por ejemplo una ansiedad que te paraliza o una historia de pérdida económica que sigue doliendo.
+Si después de los tres pasos la emoción sigue ahí, no pasa nada: el objetivo no es que desaparezca, sino que no decida por ti. Esta herramienta es un ejercicio de práctica, y no sustituye el acompañamiento profesional cuando la emoción es muy intensa o persistente, por ejemplo una ansiedad que te paraliza o una historia de pérdida económica que sigue doliendo.
 
 **Reflexión**
 
@@ -1254,7 +1254,7 @@ La primera: tratamos la emoción como algo principalmente individual. Las emocio
 
 La segunda: casi nada de lo que citamos sobre cómo funcionan las emociones se midió en México ni en América Latina. Mucha de la evidencia viene de laboratorios, simulaciones y muestras de universitarios o de lectores de un periódico estadounidense, y lo dijimos en cada apartado. Que un mecanismo aparezca ahí no garantiza que funcione igual aquí. Es una razón para usarlo con cautela y para ponerlo a prueba en tu propia vida.
 
-La tercera: las herramientas de este capítulo son ejercicios de práctica, no técnicas validadas. Nombrar y reevaluar ayudan, pero no sustituyen el acompañamiento profesional cuando la emoción paraliza, se vuelve constante o viene de una pérdida económica real.
+La tercera: las herramientas de este capítulo son ejercicios de práctica. Nombrar y reevaluar ayudan, pero no sustituyen el acompañamiento profesional cuando la emoción paraliza, se vuelve constante o viene de una pérdida económica real.
 
 **Una observación personal, no un dato**
 
@@ -1324,7 +1324,7 @@ Así que la respuesta es sí, con condiciones. Se entrena, pero poco a poco, pra
 
 **Herramienta: siete días, una habilidad**
 
-Toma la parte que más te costó en la herramienta del apartado anterior, percibir, usar, comprender o manejar, y practica solo esa durante siete días. Una vez al día, ante una decisión pequeña de dinero, quédate un minuto en silencio antes de decidir y haz únicamente eso: si elegiste percibir, ubica la sensación en el cuerpo; si elegiste comprender, búscale el nombre preciso. Anota en una línea qué notaste. Al séptimo día, lee las siete líneas juntas. No esperes un cambio espectacular. Lo que buscas es comprobar por ti mismo si con la repetición te cuesta un poco menos. Es un ejercicio de práctica, no un programa validado.
+Toma la parte que más te costó en la herramienta del apartado anterior, percibir, usar, comprender o manejar, y practica solo esa durante siete días. Una vez al día, ante una decisión pequeña de dinero, quédate un minuto en silencio antes de decidir y haz únicamente eso: si elegiste percibir, ubica la sensación en el cuerpo; si elegiste comprender, búscale el nombre preciso. Anota en una línea qué notaste. Al séptimo día, lee las siete líneas juntas. No esperes un cambio espectacular. Lo que buscas es comprobar por ti mismo si con la repetición te cuesta un poco menos. Es un ejercicio de práctica.
 
 **Reflexión**
 
@@ -1354,7 +1354,7 @@ Nada de esto son reglas de salud, y de cómo cuidar tu energía a lo largo del t
 
 **Herramienta: tres preguntas y una fecha**
 
-Antes de una decisión de dinero que importe, hazte tres preguntas: ¿dormí bien anoche?, ¿tengo hambre?, ¿cómo estoy respirando, corto y rápido o lento? Si alguna respuesta te preocupa y la decisión puede esperar, espera. Si no puede esperar, atiende primero lo que sí está en tus manos, come algo o respira despacio un minuto, y decide solo lo indispensable. Y si decides posponerla, ponle fecha y hora en ese mismo momento. Una decisión pospuesta sin fecha no es prudencia, es postergación. Es un ejercicio de observación, no una técnica validada.
+Antes de una decisión de dinero que importe, hazte tres preguntas: ¿dormí bien anoche?, ¿tengo hambre?, ¿cómo estoy respirando, corto y rápido o lento? Si alguna respuesta te preocupa y la decisión puede esperar, espera. Si no puede esperar, atiende primero lo que sí está en tus manos, come algo o respira despacio un minuto, y decide solo lo indispensable. Y si decides posponerla, ponle fecha y hora en ese mismo momento. Una decisión pospuesta sin fecha no es prudencia, es postergación. Es un ejercicio de observación.
 
 **Reflexión**
 
@@ -1394,7 +1394,7 @@ Entonces, ¿qué sí se puede decir? No que a menor inteligencia emocional haya 
 
 **Herramienta: la hora y el ánimo de tus compras**
 
-Abre el historial de pedidos de la aplicación donde más compras y revisa los últimos diez. Junto a cada uno anota tres cosas: a qué hora lo pediste, cómo te sentías, si lo recuerdas, y si hoy lo volverías a comprar. Luego busca el patrón: ¿a qué hora y con qué ánimo hiciste los que no volverías a comprar? Si aparece uno, ponle una regla sencilla a ese momento. Por ejemplo: después de las diez de la noche puedo llenar el carrito, pero pago hasta la mañana. Es un ejercicio de observación, no una técnica validada.
+Abre el historial de pedidos de la aplicación donde más compras y revisa los últimos diez. Junto a cada uno anota tres cosas: a qué hora lo pediste, cómo te sentías, si lo recuerdas, y si hoy lo volverías a comprar. Luego busca el patrón: ¿a qué hora y con qué ánimo hiciste los que no volverías a comprar? Si aparece uno, ponle una regla sencilla a ese momento. Por ejemplo: después de las diez de la noche puedo llenar el carrito, pero pago hasta la mañana. Es un ejercicio de observación.
 
 **Reflexión**
 
