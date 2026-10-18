@@ -1530,6 +1530,44 @@ La última vez que pusiste un precio o aceptaste un sueldo, ¿a quién le hicist
 
 Saber lo que vale tu trabajo no sirve de mucho si no te atreves a decirlo. Y entre lo que pensamos y lo que decimos suele haber una distancia. Si nos hiciéramos un examen honesto, veríamos que una cosa es lo que decimos de nosotros y otra, muchas veces, lo que de verdad pensamos de nosotros mismos. Basta un ejercicio sencillo de observación: alguien te pregunta "¿cómo estás?", contestas "bien" y sonríes, aunque la realidad sea otra. Lo hacemos tantas veces que ya ni lo notamos. Con el dinero pasa algo parecido, solo que la distancia va hacia abajo: en una hoja escribes la cifra que crees justa, y en voz alta dices otra, más chica, con la misma sonrisa con la que dices que estás bien. Entre la cifra que escribes y la cifra que dices hay un paso que no depende de la autoestima, sino de la valentía. De ese paso trata el siguiente apartado.
 
+##### 7.2 Atreverse a pedir, a vender y a negociar
+
+En el apartado anterior quedó una escena incompleta: sabes la cifra que crees justa, la escribes en una hoja y, a la hora de decirla, dices otra. Lo que falta en ese momento no es información. Ya sabes cuánto vale tu trabajo. Lo que falta es atreverse.
+
+Conviene aclarar qué es la valentía en este terreno, porque solemos imaginarla mal. No es no tener miedo. Es pedir con miedo. El miedo llega casi siempre en tres formas: miedo a oír un no, miedo a parecer ambicioso o abusivo, y miedo a perder al cliente, al jefe o la oportunidad. Ninguno de los tres desaparece por pensar en positivo. Lo que cambia es si dejas que decida por ti.
+
+Muchos crecimos escuchando que del dinero no se habla, que pedir es de mal gusto y que lo decente es esperar a que te ofrezcan. Esa educación no desaparece cuando uno entra a trabajar. Se sienta en la mesa de cada negociación, y es la que hace que bajes la voz justo cuando dices la cifra.
+
+A esa educación se suma una confusión. Lo que más frena a la gente que acompaño no es el miedo al no, sino lo que creen que significa ese no. Confunden un no a su propuesta con un no a su persona. Cuando un cliente rechaza una tarifa, no está diciendo que no vales. Está diciendo que esta vez, con este presupuesto, no. Separar las dos cosas cambia todo.
+
+Y pedir importa más de lo que parece, porque en una negociación quien habla primero suele llevar ventaja. En una serie de negociaciones simuladas de compra y venta, la parte que hizo la primera oferta tendió a cerrar un mejor trato, sin importar si era la que compraba o la que vendía (Galinsky y Mussweiler, 2001).
+
+La razón tiene que ver con cómo funciona la mente. La primera cifra que se pone sobre la mesa se convierte en un ancla: un punto de referencia alrededor del cual gira todo lo demás. Imagina que vendes un servicio. Si tú abres diciendo 10,000 pesos (o el equivalente en la moneda de tu país), la conversación se va a mover cerca de esa cantidad: tal vez te ofrezcan 8,500 y terminen en 9,000. Si dejas que el cliente abra y dice 5,000, la conversación se mueve cerca de los 5,000, y aunque logres subirlo un poco, ya estás negociando desde abajo. La cifra es la misma en tu cabeza. Lo que cambió es quién puso el ancla.
+
+Entonces, ¿conviene abrir? En general, sí, siempre que llegues con tu cifra pensada y respaldada, porque abrir a ciegas puede dejarte por debajo de lo que valía tu trabajo. Y si el otro abre primero, no está todo perdido. Los mismos autores encontraron que la ventaja de quien abrió desaparecía cuando la otra parte, en lugar de quedarse pensando en la cifra que le ofrecieron, se concentraba en su propia meta. La regla práctica queda así: si puedes, abre tú con tu cifra. Si te ganan la primera palabra, no negocies alrededor de su número. Regresa al tuyo.
+
+No todos piden igual, y no siempre por falta de valor. En un experimento con cerca de 2,500 personas que respondieron a anuncios de empleo reales en Estados Unidos, los hombres negociaban el sueldo más que las mujeres cuando el anuncio no decía nada sobre si se podía negociar. Cuando el anuncio aclaraba que el sueldo era negociable, la diferencia desaparecía, e incluso tendía a invertirse (Leibbrandt y List, 2015). Lo que frenaba a muchas no era el carácter. Era no saber si se valía pedir. Esa duda la tenemos casi todos, en muchos lugares donde nadie dice si las reglas permiten negociar.
+
+Pedir también es vender, y aquí retomo algo que vimos en el capítulo anterior: vender es, en buena parte, contagiar una emoción. Quien vende bien transmite entusiasmo por lo que ofrece. Por eso a mucha gente no le falla la técnica, le falla la emoción con la que llega. Siente que ofrecer su trabajo es rogar, molestar o rebajarse, y esa incomodidad se contagia igual que el entusiasmo. Antes de aprender a vender conviene revisar qué crees que significa vender.
+
+Tres escenas, que uso como ilustración, muestran el mismo paso en lugares distintos. Una empleada lleva dos años haciendo más de lo que dice su puesto y espera que alguien lo note para que le suban el sueldo. Nadie lo nota, porque nadie sabe que ella lo está esperando. Un diseñador independiente cobra lo mismo que hace tres años porque le da pena avisar a sus clientes que va a subir su tarifa. Una repostera que hace pasteles en casa no le ofrece su trabajo a la cafetería de la esquina porque supone que le van a decir que no. En las tres, el no que temen ya lo tienen: es el que se dieron a sí mismos al no pedir.
+
+Atreverse tampoco es exigir sin respaldo. En el apartado anterior dijimos que merecemos lo que producimos, y eso vale también aquí. Pedir con valentía no es pedir cualquier cifra con tal de sonar seguro. Es pedir con hechos en la mano: lo que has logrado, lo que resuelves, lo que se paga por un trabajo como el tuyo. La valentía abre la conversación. Los hechos la sostienen.
+
+Al final, la cuenta es más sencilla de lo que el miedo la hace parecer. Un no casi siempre cuesta poco: un momento incómodo y la misma situación que ya tenías. Lo caro es el sí que nunca pediste, porque lo que dejas de ganar no aparece en ningún estado de cuenta.
+
+**Herramienta: una petición, por escrito**
+
+Elige algo concreto que llevas tiempo sin pedir: un aumento, una tarifa más alta, una oportunidad, un cliente nuevo. Escribe en una hoja cuatro cosas. Qué vas a pedir, con una cifra o una fecha. Qué hechos lo respaldan. Qué es lo peor que puede pasar si te dicen que no. Y qué harás en ese caso. Después ponle fecha a la conversación. Antes de pedir, lee la hoja en voz alta, para que la cifra que digas sea la misma que escribiste. Es un ejercicio de práctica.
+
+**Reflexión**
+
+¿Qué es lo que más tiempo llevas sin pedir, y cuánto te ha costado hasta hoy no pedirlo?
+
+**Puente**
+
+Pedir con hechos en la mano supone tener algo que mostrar. Y lo que tienes para mostrar no es fijo: crece o se estanca según lo que sigues aprendiendo. De esa capacidad, la que nadie te puede quitar, trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1712,6 +1750,10 @@ Schmitt, D. P., & Allik, J. (2005). Simultaneous administration of the Rosenberg
 Ramos, S. (1934). *El perfil del hombre y la cultura en México*. México: Imprenta Mundial. (Ensayo que propone un sentimiento de inferioridad del mexicano con raíz en la Conquista, a partir de la psicología de Alfred Adler. Citado en 7.1 como lectura cultural, no como medición. Verificado en fuentes secundarias académicas. Incorporado en 7.1.)
 Paz, O. (1950). *El laberinto de la soledad*. México: Cuadernos Americanos. (Ensayo que retoma la reflexión de Ramos sobre la identidad mexicana y desplaza el eje hacia la soledad y las máscaras. Citado en 7.1 como lectura cultural. Verificado en fuentes secundarias académicas. Incorporado en 7.1.)
 Instituto Nacional de Estadística y Geografía (INEGI). (2026, 25 de agosto). Encuesta Nacional de Ocupación y Empleo (ENOE), segundo trimestre de 2026. Boletín de indicador 503/26. (Población ocupada de 60.0 millones; tasa de informalidad laboral de 55.1%, con 33.1 millones de personas; 46.5% de la población ocupada percibió hasta un salario mínimo, en salarios mínimos equivalentes base enero de 2026. Verificado en el boletín oficial. Incorporado en 7.1.)
+
+**Fuentes incorporadas en 7.2 (atreverse a pedir, a vender y a negociar)**
+Galinsky, A. D., & Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. *Journal of Personality and Social Psychology*, 81(4), 657-669. (Tres experimentos de negociación simulada: la parte que hizo la primera oferta, compradora o vendedora, obtuvo mejores resultados, y la oferta inicial predijo el precio final. La ventaja desapareció cuando quien recibía la oferta se concentraba en información contraria a ella, como su propia meta o el precio límite del otro. Las cifras de la compraventa de una fábrica que circulan en notas de divulgación no se usaron. Verificado a nivel de resumen. Incorporado en 7.2.)
+Leibbrandt, A., & List, J. A. (2015). Do women avoid salary negotiations? Evidence from a large-scale natural field experiment. *Management Science*, 61(9), 2016-2024. (Experimento de campo con cerca de 2,500 personas que respondieron a 18 anuncios de empleo en nueve ciudades de Estados Unidos, 2011-2012: sin mención de que el sueldo era negociable, los hombres negociaban más que las mujeres; cuando el anuncio lo aclaraba, la diferencia desaparecía e incluso tendía a invertirse. Verificado a nivel de resumen y en la ficha de la Universidad de Harvard. Incorporado en 7.2.)
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
