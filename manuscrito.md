@@ -1568,6 +1568,36 @@ Elige algo concreto que llevas tiempo sin pedir: un aumento, una tarifa más alt
 
 Pedir con hechos en la mano supone tener algo que mostrar. Y lo que tienes para mostrar no es fijo: crece o se estanca según lo que sigues aprendiendo. De esa capacidad, la que nadie te puede quitar, trata el siguiente apartado.
 
+##### 7.3 Tu mejor activo es tu capacidad de aprender
+
+En el apartado anterior dijimos que pedir con hechos en la mano supone tener algo que mostrar: resultados, experiencia, un trabajo que le resuelve algo a alguien. Pero eso que tienes para mostrar no está fijo. Lo que sabías hacer hace cinco años no es lo que sabes hacer hoy, y lo que sepas hacer dentro de cinco años depende de algo que casi nunca anotamos cuando hacemos cuentas: lo que sigues aprendiendo.
+
+Hay una frase que escuché hace tiempo de un gran autor cuyo nombre, de momento, no recuerdo. Me hizo mucho sentido desde la primera vez, porque aplica prácticamente a todo: tu mejor activo es tu capacidad de aprendizaje. Fíjate que la frase no habla de tu título, ni de tu experiencia, ni de lo que ya sabes. Habla de tu capacidad de seguir aprendiendo en el tiempo. Lo que ya sabes es una foto de hoy. La capacidad de aprender es lo que te permite cambiar esa foto cuando el mundo cambia, y el mundo del trabajo cambia cada vez más rápido.
+
+Vale la pena explicar por qué se le puede llamar activo. En finanzas, un activo es algo que tienes y que te genera valor, como una casa que rentas, un negocio o una inversión. La capacidad de aprender cumple esa definición, y además tiene ventajas que casi ningún otro activo tiene. Nadie te la puede embargar ni robar. Mientras más la usas, más crece, al revés de una máquina, que se gasta con el uso. Y no solo no desaparece en una crisis: es en medio de las crisis cuando más se activa. Cuando se cae un negocio, se pierde un empleo o cambian las reglas de un oficio, el dinero puede irse de un día para otro. La capacidad de aprender, en cambio, se pone a trabajar justo ahí, porque la necesidad obliga a aprender rápido lo que en tiempos tranquilos se iba posponiendo.
+
+En México hay datos que respaldan una parte de esta idea, la que tiene que ver con estudiar. Un análisis con información de más de 85 mil trabajadores asalariados, tomada de la encuesta de ingresos y gastos de los hogares del INEGI de 2020, encontró que cada año adicional de escolaridad se asocia con un ingreso alrededor de 7.6% mayor (Martínez-Lara y Salgado Vega, 2023). Otros estudios mexicanos dan cifras de entre 7% y 10% por año, según el método y el periodo. Para darte una idea: si una persona gana 10,000 pesos al mes (o el equivalente en la moneda de tu país), otra con experiencia parecida pero tres años más de estudio ganaría, en promedio, alrededor de 12,500. El mismo estudio aclara que ese rendimiento cambia según el género, el tamaño del hogar, si se habla una lengua indígena y el nivel socioeconómico de origen. Estudiar ayuda, pero no a todos por igual.
+
+Aprender, además, no es solo estudiar. La escuela es una forma de aprender, pero no la única, y a cierta edad no siempre es la más útil. Aprender también es dominar un oficio, hablar otro idioma, usar una herramienta nueva en tu trabajo, entender cómo funciona el negocio en el que estás, o aprender a vender lo que ya sabes hacer, que es justo lo que vimos en el apartado anterior. Los datos de escolaridad miden solo una parte de todo esto. La otra parte no aparece en ningún certificado, y aun así se paga.
+
+Si aprender paga, ¿por qué tanta gente deja de hacerlo? Casi nunca es por falta de capacidad. Es por lo que se siente al aprender. Aprender algo nuevo obliga a ser principiante otra vez, a equivocarte delante de otros, a no saber. Y a cierta edad eso da vergüenza. Aparecen frases como "yo ya no estoy para eso", "eso es para los jóvenes" o "a estas alturas, para qué". Es la misma voz del impostor que vimos en 7.1, ahora disfrazada de realismo. No te dice que no puedes aprender. Te dice que ya no te toca.
+
+Y hay un riesgo del otro lado, el de quien no se mueve: lo que sabes también se desgasta. Una herramienta que dominabas deja de usarse, una forma de trabajar se vuelve vieja, un oficio cambia con la tecnología. En finanzas a eso se le llama depreciación: un activo que no se cuida pierde valor con el tiempo. Con tu conocimiento pasa igual. No se nota de un día para otro. Se nota cuando empieza a costar trabajo que alguien te pague por lo que sabes.
+
+Por eso la pregunta útil no es cuánto sabes. Es cuándo fue la última vez que aprendiste algo por lo que alguien te pagaría. Si la respuesta está lejos, no es un reproche. Es una señal de dónde invertir primero, y es una inversión que nadie más puede hacer por ti.
+
+**Herramienta: lo que sabes y lo que vas a aprender**
+
+Divide una hoja en dos columnas. En la izquierda anota lo que sabes hacer y por lo que alguien ya te paga, o te pagaría hoy. En la derecha anota una sola cosa que podrías aprender en los próximos 90 días y que haría crecer la columna de la izquierda: un curso, una herramienta, un oficio, una forma de vender lo que ya sabes. Junto a ella escribe cuánto te costaría en tiempo y en dinero, y la fecha en que empiezas. Es un ejercicio de práctica.
+
+**Reflexión**
+
+La última vez que dejaste pasar la oportunidad de aprender algo, ¿qué te dijiste: que no tenías tiempo, que no tenías dinero o que ya no te tocaba?
+
+**Puente**
+
+Lo que sabes hacer es la base de casi cualquier ingreso, pero no es la única manera de producir dinero. Se puede ganar como empleado, por tu cuenta o con un negocio propio, y el dinero puede llegar por tu trabajo, por una renta, por una inversión o por algo que creaste una vez. De esas maneras de producir, y de las siete fuentes de ingreso más conocidas, trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1754,6 +1784,10 @@ Instituto Nacional de Estadística y Geografía (INEGI). (2026, 25 de agosto). E
 **Fuentes incorporadas en 7.2 (atreverse a pedir, a vender y a negociar)**
 Galinsky, A. D., & Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. *Journal of Personality and Social Psychology*, 81(4), 657-669. (Tres experimentos de negociación simulada: la parte que hizo la primera oferta, compradora o vendedora, obtuvo mejores resultados, y la oferta inicial predijo el precio final. La ventaja desapareció cuando quien recibía la oferta se concentraba en información contraria a ella, como su propia meta o el precio límite del otro. Las cifras de la compraventa de una fábrica que circulan en notas de divulgación no se usaron. Verificado a nivel de resumen. Incorporado en 7.2.)
 Leibbrandt, A., & List, J. A. (2015). Do women avoid salary negotiations? Evidence from a large-scale natural field experiment. *Management Science*, 61(9), 2016-2024. (Experimento de campo con cerca de 2,500 personas que respondieron a 18 anuncios de empleo en nueve ciudades de Estados Unidos, 2011-2012: sin mención de que el sueldo era negociable, los hombres negociaban más que las mujeres; cuando el anuncio lo aclaraba, la diferencia desaparecía e incluso tendía a invertirse. Verificado a nivel de resumen y en la ficha de la Universidad de Harvard. Incorporado en 7.2.)
+
+**Fuentes incorporadas en 7.3 (tu mejor activo es tu capacidad de aprender)**
+Martínez-Lara, A., & Salgado Vega, M. del C. (2023). Los rendimientos privados de la educación y las circunstancias de origen en México, 2020. *IE Revista de Investigación Educativa de la REDIECH*, 14, e1862. https://doi.org/10.33010/ie_rie_rediech.v14i0.1862 (ENIGH 2020 del INEGI, 85,092 trabajadores asalariados de 12 a 65 años con más de 20 horas semanales: con el modelo de Mincer, cada año adicional de escolaridad se asocia con un ingreso 7.6% mayor; la literatura mexicana reporta entre 7% y 10%; los rendimientos varían según género, tamaño del hogar, lengua indígena y estrato socioeconómico. Asociación, no prueba de causalidad; datos levantados durante la pandemia. El ejemplo en pesos de 7.3 es un cálculo propio a partir de ese 7.6%. Verificado en el resumen y en la ficha completa del artículo. Incorporado en 7.3.)
+*Nota sobre la frase "tu mejor activo es tu capacidad de aprendizaje" (7.3):* Billy la escuchó de un autor que no recuerda; no se encontró una atribución confiable. La variante "tu mayor activo es tu capacidad de generar ingresos" circula atribuida a Brian Tracy sin fuente primaria. Pendiente: si Billy recuerda el autor antes de publicar, nombrarlo en el texto y agregar su ficha.
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
