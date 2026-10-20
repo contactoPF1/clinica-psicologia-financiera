@@ -16,12 +16,14 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 
 ## Capítulo 7 — Capacidad de monetizar tu realidad (producción de ingresos)
 
-**Frase candidata: "Tu mejor activo es tu capacidad de aprendizaje"** *(agregada 2026-09-19, dictada por Billy)*
-Billy quiere usar esta frase en algún capítulo relacionado con finanzas, y sugirió tentativamente este capítulo (Producción de ingresos) como el lugar más probable, sin decidirlo todavía. **Autoría sin verificar:** no recordaba el autor original. Una búsqueda preliminar encontró dos variantes distintas, atribuidas a personas distintas, sin que ninguna atribución quede del todo firme en las fuentes disponibles: "Your greatest asset is your earning ability" (capacidad de generar ingresos), citada ampliamente como de Brian Tracy; y "Your greatest asset is your learning ability" (capacidad de aprendizaje, la versión que Billy recuerda), asociada con menos consistencia a Robin Sharma. **Antes de usarla en el manuscrito, verificar la atribución a fondo** (o presentarla sin atribuir un autor específico, como reflexión del propio Billy). Decidir también en qué capítulo encaja mejor cuando se llegue a redactarlo, no necesariamente el 7.
+*(La frase candidata "Tu mejor activo es tu capacidad de aprendizaje" ya se integró en 7.3 el 2026-10-19; autor pendiente de identificar.)*
 
 ---
 
 ## Capítulo 8 — Capacidad de saber quién eres (administración)
+
+**El arco emocional de ordenar el dinero (caso de pareja con negocio propio, mayo a octubre de 2026)** *(agregado 2026-10-20, enviado por Billy)*
+Caso de sesión con una pareja que no se pagaba sueldo, manejaba todo desde una sola cuenta y no tenía fondo para imprevistos. A lo largo de seis meses pasaron de la desorientación a sentirse expuestos al abrir sus números, a la decepción al ver el desorden documentado, a un duelo por los gustos que dejaron y, al final, a una calma con más control. Lo que cambió fue la conciencia, no el nivel de vida. Lo que seguía faltando era lo prospectivo: presupuestos personales y sueldos definidos. Ideas para el libro: la primera reacción a ordenar las finanzas suele ser incómoda y no significa que vaya mal; registrar lo que ya pasó no es lo mismo que planear lo que va a pasar; el registro compartido obliga a dejar de esconder dinero en la pareja; en un negocio propio sin sueldo la utilidad no se siente. Cruces con ahorro (Cap. 9), protección (Cap. 11) y educación financiera familiar. **Los detalles del caso son sensibles y están solo en una carpeta local privada de Billy, no en este repositorio, que es público. Antes de usarlo: anonimizar y pedir autorización a los consultantes.** Los bloques "La utilidad que no se siente" (Cap. 8) y "El costo emocional de la disciplina financiera" (Cap. 9) parecen venir del mismo caso.
 
 **La utilidad que no se "siente"** *(cruce posible con Capítulo 10)*
 Un dueño de negocio puede ver ingresos saludables en el papel y aun así admitir que no puede "palpar" la utilidad. Solo siente que hay dinero cuando lo ve guardado, activo, esperando un mes malo. Es la desconexión entre el número frío y la experiencia subjetiva de seguridad: mucha gente no confía en su propia prosperidad hasta que la ve materializada en un colchón tangible. No basta con tener; hay que poder tocarlo, aunque sea simbólicamente.
