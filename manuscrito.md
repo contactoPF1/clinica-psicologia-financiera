@@ -1664,6 +1664,48 @@ Divide una hoja en dos columnas. En la izquierda anota lo que hoy limita tu ingr
 
 Con esto termina el recorrido por el primer pilar. Viste lo que cobras y lo que crees que vales, lo que te atreves a pedir, lo que aprendes, las maneras de producir y sus límites. Falta juntar lo que este pilar te dijo de ti. De eso trata el cierre del capítulo.
 
+#### Cierre reflexivo del Capítulo 7
+
+*Merecemos lo que producimos.*
+
+Este capítulo abrió el primer pilar, el más visible: cuánto dinero entra. Empezó con una pregunta personal, cuánto crees que vale lo que haces, y la siguió hasta sus consecuencias: el precio que pones, lo que te atreves a pedir, lo que sigues aprendiendo, las maneras de producir y las fuentes por donde puede llegar el dinero. Y terminó con lo que no depende de ti: el piso sobre el que trabajas.
+
+**Tres desplazamientos, otra vez**
+
+El primero es del precio como número al precio como opinión sobre ti. Cuando bajas una cifra antes de que nadie te pida un descuento, no estás leyendo al mercado: estás negociando contigo mismo. Separar cuánto vale tu trabajo de cuánto vales tú es el primer paso para cobrar lo justo, sin cobrar de menos por miedo ni de más sin respaldo.
+
+El segundo es de esperar a sentirte seguro a producir primero. La seguridad suele llegar después de cobrar, no antes, porque el ingreso alimenta la autoestima más de lo que la autoestima alimenta el ingreso. Y la valentía no consiste en dejar de tener miedo, sino en pedir con miedo y con hechos en la mano.
+
+El tercero es de depender de una sola fuente a construir otras. El ingreso activo no es el enemigo: es el punto de partida. Desde ahí, y con lo que sigues aprendiendo, se pueden construir otras maneras de producir y otras fuentes. La meta no es tener siete. Es no depender de una sola.
+
+**Lo que este capítulo no resolvió**
+
+Tres advertencias honestas, otra vez.
+
+La primera: casi toda la evidencia psicológica del capítulo viene de otros países, como Estados Unidos y Países Bajos. Los datos de México, del INEGI y del Centro de Estudios Espinosa Yglesias, describen la situación, pero no miden lo que pasa por dentro de quien cobra, pide o aprende.
+
+La segunda: el cuadrante de Kiyosaki y las siete fuentes de ingreso son marcos útiles para ubicarte, no hallazgos científicos. Sirven como mapa, no como promesa.
+
+La tercera: producir depende también de lo que no está en tus manos. Para millones de personas el problema no es la autoestima ni la valentía, sino el piso: la informalidad, los salarios bajos, el lugar donde nacieron. Este capítulo no lo resuelve, y no culpa a nadie por ello.
+
+**Una observación personal, no un dato**
+
+Después de muchos años de acompañar a personas con su dinero, he llegado a pensar que producir ingresos es, antes que nada, un acto de identidad. Lo que cobras, lo que te atreves a pedir y lo que sigues aprendiendo dicen quién has decidido ser. El dinero llega después, como consecuencia. Por eso dos personas con el mismo talento pueden ganar cosas muy distintas: no se diferencian en lo que saben, sino en lo que se permiten.
+
+Pero también lo he visto muchas veces: personas muy buenas para generar dinero que, un año después, no tienen nada. Producir es el primer pilar, no el único. El ingreso que no sabes administrar se va por donde llegó. Por eso este capítulo termina donde empieza el siguiente: ganar más solo sirve si sabes qué hacer con lo que ganas.
+
+**Herramienta de cierre: la hoja del primer pilar**
+
+Agrega a tu expediente financiero personal una hoja nueva con el nombre del pilar: producción de ingresos. Anota en ella cinco cosas que ya trabajaste en este capítulo: la cifra que te atreverías a cobrar y los hechos que la respaldan (7.1), la petición que vas a hacer y su fecha (7.2), lo que vas a aprender en los próximos 90 días (7.3), tu mapa de fuentes, con la parte que viene de la principal (7.4), y el paso que elegiste en lo que sí depende de ti (7.5). Al terminar, vuelve a la hoja de los cinco pilares que hiciste en el Capítulo 6 y pregúntate si la calificación que le diste a este pilar sigue siendo la misma.
+
+**Reflexión**
+
+Si alguien mirara lo que cobras, lo que pides y lo que aprendes, ¿qué diría sobre quién has decidido ser?
+
+**Puente**
+
+Ya sabes lo que te pide producir. Falta ver qué le pasa a ese dinero cuando llega: a dónde se va, quién decide sobre él y qué dice de ti la forma en que lo repartes. El siguiente pilar es la administración, y su capacidad es saber quién eres. De eso trata el Capítulo 8.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
