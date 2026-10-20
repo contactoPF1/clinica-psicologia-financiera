@@ -1598,6 +1598,40 @@ La última vez que dejaste pasar la oportunidad de aprender algo, ¿qué te diji
 
 Lo que sabes hacer es la base de casi cualquier ingreso, pero no es la única manera de producir dinero. Se puede ganar como empleado, por tu cuenta o con un negocio propio, y el dinero puede llegar por tu trabajo, por una renta, por una inversión o por algo que creaste una vez. De esas maneras de producir, y de las siete fuentes de ingreso más conocidas, trata el siguiente apartado.
 
+##### 7.4 Las siete fuentes de ingreso
+
+Casi todos aprendimos que el dinero llega de una sola manera: trabajando para alguien a cambio de un sueldo. Es la forma más común, pero no es la única. Hay distintas maneras de producir dinero y distintas fuentes por donde puede llegar, y cada una le pide algo diferente a tu cabeza. Este apartado es un mapa para ubicarte.
+
+Empecemos por cómo trabaja hoy México. Según la encuesta de empleo del INEGI, en el segundo trimestre de 2026, de cada 100 personas ocupadas, 69 trabajaban como empleados, con un jefe y un pago; 22 trabajaban por su cuenta; y 6 eran empleadores, es decir, tenían un negocio con personas a su cargo. El resto trabajaba sin recibir pago. Así que la gran mayoría produce dinero como empleado, y muy pocos como dueños.
+
+Para ordenar estas maneras de producir me apoyo otra vez en Robert Kiyosaki. En *El cuadrante del flujo de dinero* (1998) propone cuatro: el empleado, el autoempleado, el dueño de negocio y el inversionista. Aquí tomo las tres primeras, que son las que tienen que ver con producir ingresos con tu trabajo, y dejo al inversionista para el capítulo de la inversión. Igual que en el capítulo anterior, lo menciono por la idea, no para respaldar cada uno de sus consejos. Y una aclaración antes de seguir: lo que viene es una escalera de habilidades, no de valor. Ser empleado no es menos que emprender. Son caminos distintos, y cada uno tiene su manera de crecer.
+
+Crecer como empleado pide, antes que nada, paciencia, mucha paciencia. Los ascensos, los aumentos y las oportunidades dentro de una empresa llegan despacio, y casi nunca cuando uno quisiera. Pide también hacerse visible, porque el trabajo que nadie ve no se paga; pedir, como vimos en 7.2; especializarse en algo que la empresa valore; y aprender a moverse dentro de una jerarquía. Su riesgo principal es confundir la paciencia con la espera: quedarse años haciendo bien el trabajo y esperando a que alguien lo note, sin pedir nada.
+
+Crecer como independiente o autoempleado pide desarrollar más habilidades que un empleado, porque además de hacer tu trabajo tienes que venderlo, cobrarlo, llevar tus cuentas, pagar tus impuestos y atender a tus clientes. Lo que en una empresa se reparte entre varias áreas, aquí lo haces tú. Pide además ponerte precio, como vimos en 7.1, tener disciplina sin que nadie te la exija y tolerar un ingreso que un mes sube y otro baja. Su riesgo principal es que todo depende de ti: si tú paras, por enfermedad, por cansancio o por vacaciones, el ingreso para.
+
+Crecer como emprendedor pide todavía más habilidades que un autoempleado, porque ya no solo haces, vendes y cobras tu propio trabajo: diriges el de otros. Tienes que contratar y liderar personas, leer los números de un negocio, conseguir financiamiento, negociar con proveedores y crear procesos que funcionen aunque tú no estés. Pide además delegar, soltar el control y tolerar más riesgo, porque ahora apuestas tu dinero y el sustento de otras personas. Su meta es la que vimos al cerrar la primera parte del libro: construir un sistema que siga funcionando sin ti.
+
+Las maneras de producir te dicen cómo trabajas. Las fuentes de ingreso te dicen por dónde te llega el dinero, y hay una clasificación muy difundida en las finanzas personales que las ordena en siete. La primera es el ingreso activo: el que recibes a cambio de tu tiempo y tu trabajo, como un sueldo o los honorarios de un servicio; si dejas de trabajar, deja de llegar. La segunda es la utilidad, la ganancia que queda en un negocio después de pagar todos sus gastos. La tercera son los intereses, lo que te pagan por prestar tu dinero, por ejemplo en una cuenta de ahorro. La cuarta son los dividendos, la parte de las ganancias que una empresa reparte entre quienes tienen sus acciones. La quinta son los arrendamientos, lo que cobras por rentar algo tuyo, como un local o un departamento. La sexta es la ganancia de capital, lo que ganas cuando vendes algo en más de lo que te costó, como un terreno o una acción. Y la séptima son las regalías, lo que te pagan cada vez que alguien usa algo que creaste, como un libro, una canción o una marca.
+
+Las dos piezas encajan. El empleado y el independiente viven, sobre todo, del ingreso activo. El emprendedor empieza a vivir de la utilidad. Y las otras cinco fuentes casi siempre se construyen con dinero que antes se produjo trabajando: para cobrar intereses, dividendos o rentas, primero hay que haber ahorrado o invertido algo. Por eso el ingreso activo no es el enemigo, como a veces se dice. Es el punto de partida.
+
+Conviene una advertencia, porque este tema se presta a promesas. Suele acompañarse de la frase de que el millonario promedio tiene siete fuentes de ingreso. No encontré ningún estudio serio que la respalde. Y las fuentes que se llaman pasivas no son fáciles ni rápidas: una renta pide primero comprar el inmueble, y una regalía pide primero crear algo que alguien quiera usar. La idea útil no es tener siete fuentes. Es no depender de una sola.
+
+Y aquí aparece la pregunta que importa en este libro, que es emocional antes que financiera. ¿De cuántas fuentes vive tu casa hoy? Y cuando piensas que mañana podría faltar la principal, ¿qué sientes? Para muchas personas la respuesta es una sola fuente y un miedo que prefieren no mirar. Mirarlo es el primer paso para empezar a construir la segunda.
+
+**Herramienta: tu mapa de fuentes**
+
+En una hoja escribe las siete fuentes. Marca las que hoy te dan dinero y, junto a cada una, cuánto te aporta al mes, aunque sea aproximado. Suma todo y calcula qué parte viene de la principal. Después elige una sola fuente nueva que podrías empezar a construir en el próximo año, y escribe el primer paso concreto para hacerlo. Es un ejercicio de práctica.
+
+**Reflexión**
+
+Si mañana se detuviera tu fuente principal de ingreso, ¿cuántos meses podrías sostener tu vida como está hoy?
+
+**Puente**
+
+Hasta aquí hablamos de lo que depende de ti: lo que cobras, lo que te atreves a pedir, lo que aprendes y la manera en que produces. Pero hay personas que hacen todo eso y aun así no les alcanza. De ese límite, el que no depende de lo que hagas, trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1788,6 +1822,11 @@ Leibbrandt, A., & List, J. A. (2015). Do women avoid salary negotiations? Eviden
 **Fuentes incorporadas en 7.3 (tu mejor activo es tu capacidad de aprender)**
 Martínez-Lara, A., & Salgado Vega, M. del C. (2023). Los rendimientos privados de la educación y las circunstancias de origen en México, 2020. *IE Revista de Investigación Educativa de la REDIECH*, 14, e1862. https://doi.org/10.33010/ie_rie_rediech.v14i0.1862 (ENIGH 2020 del INEGI, 85,092 trabajadores asalariados de 12 a 65 años con más de 20 horas semanales: con el modelo de Mincer, cada año adicional de escolaridad se asocia con un ingreso 7.6% mayor; la literatura mexicana reporta entre 7% y 10%; los rendimientos varían según género, tamaño del hogar, lengua indígena y estrato socioeconómico. Asociación, no prueba de causalidad; datos levantados durante la pandemia. El ejemplo en pesos de 7.3 es un cálculo propio a partir de ese 7.6%. Verificado en el resumen y en la ficha completa del artículo. Incorporado en 7.3.)
 *Nota sobre la frase "tu mejor activo es tu capacidad de aprendizaje" (7.3):* Billy la escuchó de un autor que no recuerda; no se encontró una atribución confiable. La variante "tu mayor activo es tu capacidad de generar ingresos" circula atribuida a Brian Tracy sin fuente primaria. Pendiente: si Billy recuerda el autor antes de publicar, nombrarlo en el texto y agregar su ficha.
+
+**Fuentes incorporadas en 7.4 (las siete fuentes de ingreso)**
+Kiyosaki, R. T., & Lechter, S. L. (1998). *Rich Dad's Cashflow Quadrant: Guide to Financial Freedom*. Edición en español: *El cuadrante del flujo de dinero*. (Propone cuatro maneras de obtener ingresos: empleado, autoempleado, dueño de negocio e inversionista. En 7.4 se toman las tres primeras como marco para las maneras de producir, con crédito explícito y sin avalar las recomendaciones del autor; el inversionista queda para el capítulo de la inversión. Año y cuadrantes verificados en fichas y reseñas, no en el libro; el título en español está por confirmar en un ejemplar. Incorporado en 7.4.)
+Instituto Nacional de Estadística y Geografía (INEGI). (2026, 25 de agosto). ENOE, segundo trimestre de 2026, boletín 503/26, ya citado en 7.1. (Dato usado en 7.4, posición en la ocupación: 68.8% trabajadores subordinados y remunerados, 22.0% por cuenta propia, 6.0% empleadores; el resto, sin pago. Redondeado en el texto a 69, 22 y 6 de cada 100. Verificado en el boletín oficial. Incorporado en 7.4.)
+*Nota sobre las siete fuentes de ingreso (7.4):* la clasificación (ingreso activo, utilidad, intereses, dividendos, arrendamientos, ganancia de capital y regalías) viene de la lámina de Billy y es un marco popular de finanzas personales, sin autor identificable. La frase de que "el millonario promedio tiene siete fuentes de ingreso, según el IRS" no tiene respaldo documental, y el texto lo dice.
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
