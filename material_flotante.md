@@ -23,7 +23,7 @@ Todo el material proviene de casos anonimizados vistos en sesión (roles genéri
 ## Capítulo 8 — Capacidad de saber quién eres (administración)
 
 **En qué gastas también importa: Daniel Gilbert y el dinero que da felicidad** *(agregado 2026-10-20; redactado para 7.5 y retirado de ahí por decisión de Billy, que sintió que no correspondía al pilar de producir)*
-Billy escuchó a Daniel Gilbert en una conferencia de los congresos Feelink (video en `D:\Feelink - Conferencias\Congreso 3\Daniel Gilbert.mp4`) y pidió usarlo. Borrador ya escrito, verificado a nivel de resumen:
+Billy tiene la conferencia de Daniel Gilbert de los congresos Feelink (video en `D:\Feelink - Conferencias\Congreso 3\Daniel Gilbert.mp4`) y pidió usarlo. Borrador ya escrito, verificado a nivel de resumen:
 
 > Y cuando hay poco, en qué lo gastas también importa. Daniel Gilbert, psicólogo de la Universidad de Harvard y uno de los investigadores más conocidos sobre la felicidad, propuso con dos colegas que el dinero da menos felicidad de la que podría porque solemos gastarlo mal (Dunn, Gilbert y Wilson, 2011). Dos de sus recomendaciones sirven especialmente cuando el dinero es escaso. La primera: varios gustos pequeños dan más bienestar que uno grande y costoso. La segunda: gastar en otros, aunque sea poco, también le hace bien a quien da. Su consejo más famoso, preferir experiencias a cosas, necesita un matiz. Un estudio posterior encontró que esa ventaja aparece sobre todo en personas con más recursos; para quienes tienen menos, una cosa útil y duradera dio la misma satisfacción que una experiencia, o más (Lee et al., 2018). Así que si con poco dinero compraste algo que te sirve todos los días, no tienes por qué sentir culpa.
 
