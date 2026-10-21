@@ -1740,6 +1740,34 @@ Si un desconocido leyera tu estado de cuenta del último mes, ¿qué diría que 
 
 Mirar tu estado de cuenta es mirar hacia atrás: te dice lo que ya pasó. Administrar pide algo más difícil, que es decidir hacia adelante. Entre ver y planear hay una distancia que casi nadie espera, y de ella trata el siguiente apartado.
 
+##### 8.2 Ver no es lo mismo que planear
+
+En el apartado anterior observamos el estado de cuenta, y vimos que dice mucho de ti. Pero un estado de cuenta tiene un límite: habla de lo que ya pasó. Registrar lo que gastaste es mirar hacia atrás. Presupuestar es decidir hacia adelante, antes de que el dinero se vaya. Las dos cosas se parecen, porque las dos usan números, pero son distintas, y la segunda cuesta bastante más.
+
+Imagina, como ilustración, a una pareja que lleva quince años con una papelería y centro de copiado en Puebla. Les va bien, o eso creen. Hay meses muy buenos y meses muy malos, y no saben a dónde se va el dinero. No se pagan un sueldo: todo entra y sale de la misma cuenta, la del negocio, que también paga la luz de la casa, la colegiatura y el súper. No tienen un fondo para imprevistos. Un día deciden ordenar todo, y la primera sorpresa es que ordenar no se siente bien. Abrir los números delante del otro se parece a desvestirse frente a un extraño. Ella descubre que él no anotaba sus gastos; él descubre que ella guardaba un dinerito aparte del que nunca le habló.
+
+Las primeras semanas no traen alivio, traen decepción. Cuando por fin ven un mes completo en una tabla, él dice que eso no puede ser todo, que falta la mitad: las vacaciones, el seguro, los pagos que se hacen una vez al año. Dejan de comer fuera los domingos para ahorrar, y se quedan un poco tristes. Pero tres meses después algo cambió. Siguen gastando casi lo mismo, pero ya lo ven, y eso los tiene más tranquilos. Lo que todavía no tienen es lo más difícil: un presupuesto para el mes que viene.
+
+La escena muestra algo que casi nadie te advierte: ordenar el dinero no se siente bien al principio. Primero viene la incomodidad de abrir los números, luego la decepción de ver el desorden por escrito, después un pequeño duelo por los gustos que se dejan, y solo al final llega la calma. Si al empezar a registrar tus gastos te sientes peor que antes, no significa que vayas mal. Significa que ya estás viendo lo que antes no veías.
+
+Y aun con esa calma, a la pareja le faltaba el último paso. Registrar tiene una ventaja: no te pide decidir nada, solo anotar. Presupuestar, en cambio, te obliga a renunciar antes de gastar. Si decides que este mes van 2,000 pesos (o el equivalente en la moneda de tu país) a comer fuera, estás decidiendo también que esos 2,000 no van a otra cosa. Y para elegir a qué renuncias tienes que saber qué te importa, que es lo que vimos en el apartado anterior. Por eso tanta gente registra durante meses y nunca llega a planear: planear es contestar con números quién eres.
+
+Vale la pena dar ese paso. En Estados Unidos, un estudio con participantes de un fondo de retiro para profesores e investigadores encontró que quienes tenían más inclinación a planear sus finanzas habían acumulado más riqueza, y una parte de la explicación era que vigilaban más de cerca lo que gastaban (Ameriks et al., 2003). Otro estudio encontró que quienes planean su dinero a muy largo plazo tienen mejor historial de crédito, lo que les permite pedir prestado más barato (Lynch et al., 2010). Son asociaciones: no prueban que planear sea la causa de todo. Pero apuntan en la misma dirección que la escena: quien decide hacia adelante pierde menos dinero en el camino.
+
+La buena noticia es que el primer presupuesto no tiene que ser perfecto. Basta con uno sencillo: un solo mes, pocas categorías y una regla. La regla es empezar por lo que te importa, no por lo que te prohíbes. Primero apartas el dinero para lo que dijiste que era importante en el apartado anterior, luego para lo indispensable, y lo que queda lo repartes en lo demás. Al terminar el mes comparas lo que planeaste con lo que pasó. No para regañarte, sino para ajustar el mes siguiente.
+
+**Herramienta: tu primer presupuesto de un mes**
+
+Usa dos cosas que ya tienes: el registro de tus gastos de un mes y las tres prioridades que escribiste en la herramienta anterior. En una hoja haz cuatro renglones: tus tres prioridades, lo indispensable (vivienda, comida, transporte, servicios), tus deudas, y todo lo demás. Antes de que empiece el mes, asigna una cantidad a cada renglón, empezando por tus prioridades. Al final del mes, anota junto a cada renglón cuánto gastaste de verdad, y escribe una sola cosa que cambiarías para el siguiente. Es un ejercicio de práctica.
+
+**Reflexión**
+
+¿Qué te da más miedo de hacer un presupuesto: descubrir que no te alcanza, o tener que decidir a qué renunciar?
+
+**Puente**
+
+Un presupuesto supone que sabes cuánto dinero tienes para repartir. Para quien recibe un sueldo, eso es relativamente claro. Pero para quien trabaja por su cuenta o tiene un negocio, como la pareja de la papelería, la pregunta es más difícil: de todo lo que entra, ¿cuánto es tuyo? De eso trata el siguiente apartado.
+
 ---
 
 ## BIBLIOGRAFÍA (usada hasta ahora en el manuscrito)
@@ -1950,6 +1978,11 @@ Matz, S. C., Gladstone, J. J., & Stillwell, D. (2016). Money buys happiness when
 Dunn, E. W., Gilbert, D. T., & Wilson, T. D. (2011). If money doesn't make you happy, then you probably aren't spending it right. *Journal of Consumer Psychology*, 21(2), 115-125. (Revisión que propone ocho principios para gastar con más bienestar, entre ellos preferir experiencias a cosas, gastar en otros y preferir muchos gustos pequeños a pocos grandes. Billy conserva una conferencia de Gilbert de los congresos Feelink. Verificado a nivel de resumen. Incorporado en 8.1.)
 Lee, J. C., Hall, D. L., & Wood, W. (2018). Experiential or material purchases? Social class determines purchase happiness. *Psychological Science*, 29(7), 1031-1039. (La ventaja de las experiencias sobre las cosas aparece en personas de clase social más alta; en personas de clase más baja, las compras materiales dieron igual o más felicidad, probablemente por su utilidad y duración. Verificado en el resumen y en la nota de la Association for Psychological Science. Incorporado en 8.1.)
 *Nota sobre la ENIF 2024 (8.1):* el dato de que una de cada tres personas adultas no lleva registro de sus gastos sale de la ficha de la ENIF 2024 ya incorporada en 1.5 (65.3% lleva registro). Pendiente para el corte final: 1.5 lo describe como "uno de cada tres adultos con acceso al sistema financiero"; confirmar la base correcta en el documento y unificar. Billy pidió una estadística de la CONDUSEF sobre cuánta gente no sabe administrarse; no se encontró una cifra con esa redacción.
+
+**Fuentes incorporadas en 8.2 (ver no es lo mismo que planear)**
+Ameriks, J., Caplin, A., & Leahy, J. (2003). Wealth accumulation and the propensity to plan. *The Quarterly Journal of Economics*, 118(3), 1007-1047. (Encuesta a participantes de TIAA-CREF, el fondo de retiro de profesores e investigadores de Estados Unidos: los hogares con mayor propensión a planear dedicaban más tiempo a sus planes financieros y tenían más riqueza; la propensión a planear no se relacionó con la paciencia ni con el deseo de heredar, pero sí con qué tan de cerca vigilaban su gasto. Asociación, no causalidad. Verificado en el documento de trabajo del NBER, núm. 8920. Incorporado en 8.2.)
+Lynch, J. G., Jr., Netemeyer, R. G., Spiller, S. A., & Zammit, A. (2010). A generalizable scale of propensity to plan: The long and the short of planning for time and for money. *Journal of Consumer Research*, 37(1), 108-128. (Escala de seis preguntas sobre la propensión a planear, en parte específica para el tiempo y para el dinero; la versión de planeación del dinero a muy largo plazo predice el puntaje de crédito FICO, de modo que quienes planean menos pagan más por pedir prestado. Verificado a nivel de resumen. Incorporado en 8.2.)
+*Nota sobre la escena de 8.2:* la pareja de la papelería en Puebla es una escena ilustrativa, aprobada por Billy el 2026-10-20. Conserva el arco emocional de un caso real de sesión, cuyos detalles están solo en una carpeta local privada, y cambia oficio, ciudad y todo dato que pudiera identificar a los consultantes.
 
 Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *The Quarterly Journal of Economics*, 84(3), 488-500. (Concepto de asimetría de información, "mercado de limones"; Akerlof recibió el Premio Nobel de Economía 2001 por este trabajo. Incorporado en 1.5.)
 
